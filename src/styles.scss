@@ -1,3 +1,7 @@
+@use '@angular/material' as mat;
+
+@include mat.core();
+
 /* You can add global styles to this file, and also import other style files */
 html {
     background-color: #1b1a1a;
@@ -7,4 +11,51 @@ html {
     h1 {
         font-weight: normal;
     }
+
+    input {
+        background-color: #1a1a1a;
+        padding: 8px;
+        border-radius: 8px;
+        border: none;
+        color: #8f8f8f;
+        border: 1px solid #1a1a1a;
+
+        &:focus {
+            outline: none;
+            border-color: #8f8f8f;
+        }
+    }
+
+    button {
+        border: 1px solid #8f8f8f;
+        font-size: 20px;
+        border-radius: 8px;
+        background: #1a1a1a;
+        color: rgb(212, 212, 212);
+        padding: 8px;
+        cursor: pointer;
+        transition: background, color 0.25s ease-in-out;
+
+        &:hover {
+            background: #292828;
+            color: #e6edf3;
+        }
+    }
 }
+
+* {
+    ::-webkit-scrollbar {
+        width: 8px;
+        background: grey;
+        box-shadow: inset 0 0 4px #707070;
+        border-radius: 8px;
+    }
+
+    ::-webkit-scrollbar-thumb {
+        background: #292828;
+        border-radius: 8px;
+    }
+}
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }

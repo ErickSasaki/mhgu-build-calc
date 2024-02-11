@@ -1,0 +1,12 @@
+<h2 mat-dialog-title> Select Weapon Type </h2>
+
+<mat-dialog-actions>
+    <mat-selection-list
+        [multiple]="false"
+        hideSingleSelectionIndicator
+    >
+        @for (weaponType of weaponTypeOptions; track weaponType) {
+            <mat-list-option (click)="closeDialogWithSelectedValue(weaponType)"> {{ weaponType }} </mat-list-option>
+        }
+    </mat-selection-list>
+</mat-dialog-actions>
