@@ -1,8 +1,8 @@
 [
     {
-        "_id": 917761,
+        "id": 917761,
         "name": "Petrified Rod 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 60,
         "element": "",
         "element_attack": 0,
@@ -15,9 +15,9 @@
         "final": false
     },
     {
-        "_id": 917762,
+        "id": 917762,
         "name": "Petrified Rod 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 80,
         "element": "",
         "element_attack": 0,
@@ -30,9 +30,9 @@
         "final": false
     },
     {
-        "_id": 917763,
+        "id": 917763,
         "name": "Petrified Rod 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 90,
         "element": "",
         "element_attack": 0,
@@ -45,9 +45,9 @@
         "final": false
     },
     {
-        "_id": 917764,
+        "id": 917764,
         "name": "Petrified Rod 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 100,
         "element": "",
         "element_attack": 0,
@@ -60,9 +60,9 @@
         "final": false
     },
     {
-        "_id": 917765,
+        "id": 917765,
         "name": "Petrified Rod 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 110,
         "element": "",
         "element_attack": 0,
@@ -75,9 +75,9 @@
         "final": false
     },
     {
-        "_id": 917766,
+        "id": 917766,
         "name": "Petrified Rod 6",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 140,
         "element": "",
         "element_attack": 0,
@@ -90,9 +90,9 @@
         "final": false
     },
     {
-        "_id": 917767,
+        "id": 917767,
         "name": "Petrified Rod 7",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 170,
         "element": "",
         "element_attack": 0,
@@ -105,9 +105,9 @@
         "final": false
     },
     {
-        "_id": 917768,
+        "id": 917768,
         "name": "Scholarly Rod 8",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 210,
         "element": "",
         "element_attack": 0,
@@ -120,9 +120,9 @@
         "final": false
     },
     {
-        "_id": 917769,
+        "id": 917769,
         "name": "Scholarly Rod 9",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 240,
         "element": "",
         "element_attack": 0,
@@ -135,9 +135,9 @@
         "final": false
     },
     {
-        "_id": 917770,
+        "id": 917770,
         "name": "Scholarly Rod 10",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 290,
         "element": "",
         "element_attack": 0,
@@ -150,9 +150,9 @@
         "final": false
     },
     {
-        "_id": 917771,
+        "id": 917771,
         "name": "Sophos Rod 11",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 320,
         "element": "",
         "element_attack": 0,
@@ -165,9 +165,9 @@
         "final": true
     },
     {
-        "_id": 918017,
+        "id": 918017,
         "name": "Obsidian Rod 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 140,
         "element": "",
         "element_attack": 0,
@@ -180,9 +180,9 @@
         "final": false
     },
     {
-        "_id": 918018,
+        "id": 918018,
         "name": "Obsidian Rod 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 150,
         "element": "",
         "element_attack": 0,
@@ -195,9 +195,9 @@
         "final": false
     },
     {
-        "_id": 918019,
+        "id": 918019,
         "name": "Obsidian Rod 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 160,
         "element": "",
         "element_attack": 0,
@@ -210,9 +210,9 @@
         "final": false
     },
     {
-        "_id": 918020,
+        "id": 918020,
         "name": "Obsidian Rod 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 180,
         "element": "",
         "element_attack": 0,
@@ -225,9 +225,9 @@
         "final": false
     },
     {
-        "_id": 918021,
+        "id": 918021,
         "name": "Obsidian Rod 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 200,
         "element": "",
         "element_attack": 0,
@@ -240,9 +240,9 @@
         "final": false
     },
     {
-        "_id": 918022,
+        "id": 918022,
         "name": "Relic Trias 6",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 220,
         "element": "",
         "element_attack": 0,
@@ -255,9 +255,9 @@
         "final": false
     },
     {
-        "_id": 918023,
+        "id": 918023,
         "name": "Relic Trias 7",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 280,
         "element": "",
         "element_attack": 0,
@@ -270,9 +270,9 @@
         "final": false
     },
     {
-        "_id": 918024,
+        "id": 918024,
         "name": "Ethereal Trias 8",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 330,
         "element": "",
         "element_attack": 0,
@@ -285,9 +285,9 @@
         "final": true
     },
     {
-        "_id": 918273,
+        "id": 918273,
         "name": "Kut-Ku Pike 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 90,
         "element": "Fire",
         "element_attack": 10,
@@ -300,9 +300,9 @@
         "final": false
     },
     {
-        "_id": 918274,
+        "id": 918274,
         "name": "Kut-Ku Pike 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 100,
         "element": "Fire",
         "element_attack": 12,
@@ -315,9 +315,9 @@
         "final": false
     },
     {
-        "_id": 918275,
+        "id": 918275,
         "name": "Kut-Ku Pike 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 120,
         "element": "Fire",
         "element_attack": 14,
@@ -330,9 +330,9 @@
         "final": false
     },
     {
-        "_id": 918276,
+        "id": 918276,
         "name": "Kut-Ku Pike 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 140,
         "element": "Fire",
         "element_attack": 15,
@@ -345,9 +345,9 @@
         "final": false
     },
     {
-        "_id": 918277,
+        "id": 918277,
         "name": "Kut-Ku Pike 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 170,
         "element": "Fire",
         "element_attack": 16,
@@ -360,9 +360,9 @@
         "final": false
     },
     {
-        "_id": 918278,
+        "id": 918278,
         "name": "Toucan Pike 6",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 200,
         "element": "Fire",
         "element_attack": 18,
@@ -375,9 +375,9 @@
         "final": false
     },
     {
-        "_id": 918279,
+        "id": 918279,
         "name": "Toucan Pike 7",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 230,
         "element": "Fire",
         "element_attack": 22,
@@ -390,9 +390,9 @@
         "final": false
     },
     {
-        "_id": 918280,
+        "id": 918280,
         "name": "Toucan Pike 8",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 260,
         "element": "Fire",
         "element_attack": 24,
@@ -405,9 +405,9 @@
         "final": false
     },
     {
-        "_id": 918281,
+        "id": 918281,
         "name": "Flamebeak Pike 9",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 310,
         "element": "Fire",
         "element_attack": 27,
@@ -420,9 +420,9 @@
         "final": true
     },
     {
-        "_id": 918529,
+        "id": 918529,
         "name": "Royal Bloom 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 80,
         "element": "Water",
         "element_attack": 20,
@@ -435,9 +435,9 @@
         "final": false
     },
     {
-        "_id": 918530,
+        "id": 918530,
         "name": "Royal Bloom 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 110,
         "element": "Water",
         "element_attack": 24,
@@ -450,9 +450,9 @@
         "final": false
     },
     {
-        "_id": 918531,
+        "id": 918531,
         "name": "Royal Bloom 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 140,
         "element": "Water",
         "element_attack": 25,
@@ -465,9 +465,9 @@
         "final": false
     },
     {
-        "_id": 918532,
+        "id": 918532,
         "name": "Royal Bloom 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 180,
         "element": "Water",
         "element_attack": 27,
@@ -480,9 +480,9 @@
         "final": false
     },
     {
-        "_id": 918533,
+        "id": 918533,
         "name": "Bloom Royale 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 210,
         "element": "Water",
         "element_attack": 28,
@@ -495,9 +495,9 @@
         "final": false
     },
     {
-        "_id": 918534,
+        "id": 918534,
         "name": "Bloom Royale 6",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 240,
         "element": "Water",
         "element_attack": 30,
@@ -510,9 +510,9 @@
         "final": false
     },
     {
-        "_id": 918535,
+        "id": 918535,
         "name": "Bloom Royale 7",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 270,
         "element": "Water",
         "element_attack": 32,
@@ -525,9 +525,9 @@
         "final": false
     },
     {
-        "_id": 918536,
+        "id": 918536,
         "name": "Waterspout Bloom 8",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 320,
         "element": "Water",
         "element_attack": 35,
@@ -540,9 +540,9 @@
         "final": true
     },
     {
-        "_id": 918785,
+        "id": 918785,
         "name": "Fader Rod 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 80,
         "element": "",
         "element_attack": 0,
@@ -555,9 +555,9 @@
         "final": false
     },
     {
-        "_id": 918786,
+        "id": 918786,
         "name": "Fader Rod 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 100,
         "element": "",
         "element_attack": 0,
@@ -570,9 +570,9 @@
         "final": false
     },
     {
-        "_id": 918787,
+        "id": 918787,
         "name": "Fader Rod 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 130,
         "element": "",
         "element_attack": 0,
@@ -585,9 +585,9 @@
         "final": false
     },
     {
-        "_id": 918788,
+        "id": 918788,
         "name": "Fader Rod 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 150,
         "element": "",
         "element_attack": 0,
@@ -600,9 +600,9 @@
         "final": false
     },
     {
-        "_id": 918789,
+        "id": 918789,
         "name": "Fader Rod 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 170,
         "element": "",
         "element_attack": 0,
@@ -615,9 +615,9 @@
         "final": false
     },
     {
-        "_id": 918790,
+        "id": 918790,
         "name": "Scale Fader 6",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 210,
         "element": "",
         "element_attack": 0,
@@ -630,9 +630,9 @@
         "final": false
     },
     {
-        "_id": 918791,
+        "id": 918791,
         "name": "Scale Fader 7",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 240,
         "element": "",
         "element_attack": 0,
@@ -645,9 +645,9 @@
         "final": false
     },
     {
-        "_id": 918792,
+        "id": 918792,
         "name": "Scale Fader 8",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 280,
         "element": "",
         "element_attack": 0,
@@ -660,9 +660,9 @@
         "final": false
     },
     {
-        "_id": 918793,
+        "id": 918793,
         "name": "Escama Fader 9",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 330,
         "element": "",
         "element_attack": 0,
@@ -675,9 +675,9 @@
         "final": true
     },
     {
-        "_id": 919041,
+        "id": 919041,
         "name": "Altair 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 140,
         "element": "",
         "element_attack": 0,
@@ -690,9 +690,9 @@
         "final": false
     },
     {
-        "_id": 919042,
+        "id": 919042,
         "name": "Altair 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 150,
         "element": "",
         "element_attack": 0,
@@ -705,9 +705,9 @@
         "final": false
     },
     {
-        "_id": 919043,
+        "id": 919043,
         "name": "Altair 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 160,
         "element": "",
         "element_attack": 0,
@@ -720,9 +720,9 @@
         "final": false
     },
     {
-        "_id": 919044,
+        "id": 919044,
         "name": "Altair 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 190,
         "element": "",
         "element_attack": 0,
@@ -735,9 +735,9 @@
         "final": false
     },
     {
-        "_id": 919045,
+        "id": 919045,
         "name": "Alteal 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 200,
         "element": "",
         "element_attack": 0,
@@ -750,9 +750,9 @@
         "final": false
     },
     {
-        "_id": 919046,
+        "id": 919046,
         "name": "Alteal 6",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 280,
         "element": "",
         "element_attack": 0,
@@ -765,9 +765,9 @@
         "final": false
     },
     {
-        "_id": 919047,
+        "id": 919047,
         "name": "Alteal Rebellion 7",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 320,
         "element": "",
         "element_attack": 0,
@@ -780,9 +780,9 @@
         "final": true
     },
     {
-        "_id": 919297,
+        "id": 919297,
         "name": "Seditious Breaker 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 160,
         "element": "",
         "element_attack": 0,
@@ -795,9 +795,9 @@
         "final": false
     },
     {
-        "_id": 919298,
+        "id": 919298,
         "name": "Seditious Breaker 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 170,
         "element": "",
         "element_attack": 0,
@@ -810,9 +810,9 @@
         "final": false
     },
     {
-        "_id": 919299,
+        "id": 919299,
         "name": "Lana Sedition 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 180,
         "element": "",
         "element_attack": 0,
@@ -825,9 +825,9 @@
         "final": false
     },
     {
-        "_id": 919300,
+        "id": 919300,
         "name": "Lana Sedition 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 270,
         "element": "",
         "element_attack": 0,
@@ -840,9 +840,9 @@
         "final": false
     },
     {
-        "_id": 919301,
+        "id": 919301,
         "name": "Lana Sedition 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 290,
         "element": "",
         "element_attack": 0,
@@ -855,9 +855,9 @@
         "final": false
     },
     {
-        "_id": 919302,
+        "id": 919302,
         "name": "Sedition Queller 6",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 310,
         "element": "",
         "element_attack": 0,
@@ -870,9 +870,9 @@
         "final": true
     },
     {
-        "_id": 919553,
+        "id": 919553,
         "name": "Hidden Scythe 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 100,
         "element": "",
         "element_attack": 0,
@@ -885,9 +885,9 @@
         "final": false
     },
     {
-        "_id": 919554,
+        "id": 919554,
         "name": "Hidden Scythe 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 120,
         "element": "",
         "element_attack": 0,
@@ -900,9 +900,9 @@
         "final": false
     },
     {
-        "_id": 919555,
+        "id": 919555,
         "name": "Hidden Scythe 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 140,
         "element": "",
         "element_attack": 0,
@@ -915,9 +915,9 @@
         "final": false
     },
     {
-        "_id": 919556,
+        "id": 919556,
         "name": "Hidden Scythe 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 160,
         "element": "",
         "element_attack": 0,
@@ -930,9 +930,9 @@
         "final": false
     },
     {
-        "_id": 919557,
+        "id": 919557,
         "name": "Evening Calm 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 180,
         "element": "",
         "element_attack": 0,
@@ -945,9 +945,9 @@
         "final": false
     },
     {
-        "_id": 919558,
+        "id": 919558,
         "name": "Evening Calm 6",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 250,
         "element": "",
         "element_attack": 0,
@@ -960,9 +960,9 @@
         "final": false
     },
     {
-        "_id": 919559,
+        "id": 919559,
         "name": "Evening Calm 7",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 270,
         "element": "",
         "element_attack": 0,
@@ -975,9 +975,9 @@
         "final": false
     },
     {
-        "_id": 919560,
+        "id": 919560,
         "name": "Avidya Scythe 8",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 290,
         "element": "",
         "element_attack": 0,
@@ -990,9 +990,9 @@
         "final": true
     },
     {
-        "_id": 919809,
+        "id": 919809,
         "name": "Bolt Chamber 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 90,
         "element": "Thunder",
         "element_attack": 20,
@@ -1005,9 +1005,9 @@
         "final": false
     },
     {
-        "_id": 919810,
+        "id": 919810,
         "name": "Bolt Chamber 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 120,
         "element": "Thunder",
         "element_attack": 22,
@@ -1020,9 +1020,9 @@
         "final": false
     },
     {
-        "_id": 919811,
+        "id": 919811,
         "name": "Bolt Chamber 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 130,
         "element": "Thunder",
         "element_attack": 24,
@@ -1035,9 +1035,9 @@
         "final": false
     },
     {
-        "_id": 919812,
+        "id": 919812,
         "name": "Bolt Chamber 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 170,
         "element": "Thunder",
         "element_attack": 26,
@@ -1050,9 +1050,9 @@
         "final": false
     },
     {
-        "_id": 919813,
+        "id": 919813,
         "name": "Bolt Chamber 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 190,
         "element": "Thunder",
         "element_attack": 28,
@@ -1065,9 +1065,9 @@
         "final": false
     },
     {
-        "_id": 919814,
+        "id": 919814,
         "name": "Full Bolt Chamber 6",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 220,
         "element": "Thunder",
         "element_attack": 30,
@@ -1080,9 +1080,9 @@
         "final": false
     },
     {
-        "_id": 919815,
+        "id": 919815,
         "name": "Full Bolt Chamber 7",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 250,
         "element": "Thunder",
         "element_attack": 32,
@@ -1095,9 +1095,9 @@
         "final": false
     },
     {
-        "_id": 919816,
+        "id": 919816,
         "name": "Full Bolt Chamber 8",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 280,
         "element": "Thunder",
         "element_attack": 34,
@@ -1110,9 +1110,9 @@
         "final": false
     },
     {
-        "_id": 919817,
+        "id": 919817,
         "name": "Surge Chamber 9",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 320,
         "element": "Thunder",
         "element_attack": 36,
@@ -1125,9 +1125,9 @@
         "final": true
     },
     {
-        "_id": 920065,
+        "id": 920065,
         "name": "Iron Bayonet 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 70,
         "element": "",
         "element_attack": 0,
@@ -1140,9 +1140,9 @@
         "final": false
     },
     {
-        "_id": 920066,
+        "id": 920066,
         "name": "Iron Bayonet 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 80,
         "element": "",
         "element_attack": 0,
@@ -1155,9 +1155,9 @@
         "final": false
     },
     {
-        "_id": 920067,
+        "id": 920067,
         "name": "Iron Bayonet 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 100,
         "element": "",
         "element_attack": 0,
@@ -1170,9 +1170,9 @@
         "final": false
     },
     {
-        "_id": 920068,
+        "id": 920068,
         "name": "Iron Bayonet 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 120,
         "element": "",
         "element_attack": 0,
@@ -1185,9 +1185,9 @@
         "final": false
     },
     {
-        "_id": 920069,
+        "id": 920069,
         "name": "Iron Bayonet 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 140,
         "element": "",
         "element_attack": 0,
@@ -1200,9 +1200,9 @@
         "final": false
     },
     {
-        "_id": 920070,
+        "id": 920070,
         "name": "Iron Bayonet 6",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 150,
         "element": "",
         "element_attack": 0,
@@ -1215,9 +1215,9 @@
         "final": false
     },
     {
-        "_id": 920071,
+        "id": 920071,
         "name": "Iron Bayonet 7",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 180,
         "element": "",
         "element_attack": 0,
@@ -1230,9 +1230,9 @@
         "final": false
     },
     {
-        "_id": 920072,
+        "id": 920072,
         "name": "Hiten Blade 8",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 230,
         "element": "",
         "element_attack": 0,
@@ -1245,9 +1245,9 @@
         "final": false
     },
     {
-        "_id": 920073,
+        "id": 920073,
         "name": "Hiten Blade 9",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 260,
         "element": "",
         "element_attack": 0,
@@ -1260,9 +1260,9 @@
         "final": false
     },
     {
-        "_id": 920074,
+        "id": 920074,
         "name": "Hiten Blade 10",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 300,
         "element": "",
         "element_attack": 0,
@@ -1275,9 +1275,9 @@
         "final": false
     },
     {
-        "_id": 920075,
+        "id": 920075,
         "name": "Hiten Blade Kai 11",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 350,
         "element": "",
         "element_attack": 0,
@@ -1290,9 +1290,9 @@
         "final": true
     },
     {
-        "_id": 920321,
+        "id": 920321,
         "name": "Arcane Strike 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 70,
         "element": "Thunder",
         "element_attack": 25,
@@ -1305,9 +1305,9 @@
         "final": false
     },
     {
-        "_id": 920322,
+        "id": 920322,
         "name": "Arcane Strike 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 80,
         "element": "Thunder",
         "element_attack": 28,
@@ -1320,9 +1320,9 @@
         "final": false
     },
     {
-        "_id": 920323,
+        "id": 920323,
         "name": "Arcane Strike 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 110,
         "element": "Thunder",
         "element_attack": 30,
@@ -1335,9 +1335,9 @@
         "final": false
     },
     {
-        "_id": 920324,
+        "id": 920324,
         "name": "Arcane Strike 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 140,
         "element": "Thunder",
         "element_attack": 34,
@@ -1350,9 +1350,9 @@
         "final": false
     },
     {
-        "_id": 920325,
+        "id": 920325,
         "name": "Arcane Strike 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 160,
         "element": "Thunder",
         "element_attack": 38,
@@ -1365,9 +1365,9 @@
         "final": false
     },
     {
-        "_id": 920326,
+        "id": 920326,
         "name": "Electric Bayonet 6",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 180,
         "element": "Thunder",
         "element_attack": 40,
@@ -1380,9 +1380,9 @@
         "final": false
     },
     {
-        "_id": 920327,
+        "id": 920327,
         "name": "Electric Bayonet 7",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 210,
         "element": "Thunder",
         "element_attack": 42,
@@ -1395,9 +1395,9 @@
         "final": false
     },
     {
-        "_id": 920328,
+        "id": 920328,
         "name": "Electric Bayonet 8",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 250,
         "element": "Thunder",
         "element_attack": 44,
@@ -1410,9 +1410,9 @@
         "final": false
     },
     {
-        "_id": 920329,
+        "id": 920329,
         "name": "Electric Bayonet Kai 9",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 300,
         "element": "Thunder",
         "element_attack": 47,
@@ -1425,9 +1425,9 @@
         "final": true
     },
     {
-        "_id": 920577,
+        "id": 920577,
         "name": "Azure Bayonet 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 80,
         "element": "",
         "element_attack": 0,
@@ -1440,9 +1440,9 @@
         "final": false
     },
     {
-        "_id": 920578,
+        "id": 920578,
         "name": "Azure Bayonet 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 90,
         "element": "",
         "element_attack": 0,
@@ -1455,9 +1455,9 @@
         "final": false
     },
     {
-        "_id": 920579,
+        "id": 920579,
         "name": "Azure Bayonet 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 100,
         "element": "",
         "element_attack": 0,
@@ -1470,9 +1470,9 @@
         "final": false
     },
     {
-        "_id": 920580,
+        "id": 920580,
         "name": "Azure Bayonet 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 130,
         "element": "",
         "element_attack": 0,
@@ -1485,9 +1485,9 @@
         "final": false
     },
     {
-        "_id": 920581,
+        "id": 920581,
         "name": "Azure Bayonet 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 170,
         "element": "",
         "element_attack": 0,
@@ -1500,9 +1500,9 @@
         "final": false
     },
     {
-        "_id": 920582,
+        "id": 920582,
         "name": "General's Bayonet 6",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 230,
         "element": "",
         "element_attack": 0,
@@ -1515,9 +1515,9 @@
         "final": false
     },
     {
-        "_id": 920583,
+        "id": 920583,
         "name": "General's Bayonet 7",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 260,
         "element": "",
         "element_attack": 0,
@@ -1530,9 +1530,9 @@
         "final": false
     },
     {
-        "_id": 920584,
+        "id": 920584,
         "name": "Assault Serpent 8",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 350,
         "element": "",
         "element_attack": 0,
@@ -1545,9 +1545,9 @@
         "final": true
     },
     {
-        "_id": 920833,
+        "id": 920833,
         "name": "Heaven's Rath Glaive 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 170,
         "element": "Fire",
         "element_attack": 22,
@@ -1560,9 +1560,9 @@
         "final": false
     },
     {
-        "_id": 920834,
+        "id": 920834,
         "name": "Heaven's Rath Glaive 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 180,
         "element": "Fire",
         "element_attack": 26,
@@ -1575,9 +1575,9 @@
         "final": false
     },
     {
-        "_id": 920835,
+        "id": 920835,
         "name": "Unprecedented Rath 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 190,
         "element": "Fire",
         "element_attack": 31,
@@ -1590,9 +1590,9 @@
         "final": false
     },
     {
-        "_id": 920836,
+        "id": 920836,
         "name": "Unprecedented Rath 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 280,
         "element": "Fire",
         "element_attack": 33,
@@ -1605,9 +1605,9 @@
         "final": false
     },
     {
-        "_id": 920837,
+        "id": 920837,
         "name": "Propagation 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 310,
         "element": "Fire",
         "element_attack": 35,
@@ -1620,9 +1620,9 @@
         "final": true
     },
     {
-        "_id": 921089,
+        "id": 921089,
         "name": "Crimson Fury 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 80,
         "element": "Poison",
         "element_attack": 15,
@@ -1635,9 +1635,9 @@
         "final": false
     },
     {
-        "_id": 921090,
+        "id": 921090,
         "name": "Crimson Fury 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 90,
         "element": "Poison",
         "element_attack": 18,
@@ -1650,9 +1650,9 @@
         "final": false
     },
     {
-        "_id": 921091,
+        "id": 921091,
         "name": "Crimson Fury 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 110,
         "element": "Poison",
         "element_attack": 22,
@@ -1665,9 +1665,9 @@
         "final": false
     },
     {
-        "_id": 921092,
+        "id": 921092,
         "name": "Crimson Fury 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 130,
         "element": "Poison",
         "element_attack": 24,
@@ -1680,9 +1680,9 @@
         "final": false
     },
     {
-        "_id": 921093,
+        "id": 921093,
         "name": "Crimson Fury 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 150,
         "element": "Poison",
         "element_attack": 26,
@@ -1695,9 +1695,9 @@
         "final": false
     },
     {
-        "_id": 921094,
+        "id": 921094,
         "name": "Vermillion Viper 6",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 210,
         "element": "Poison",
         "element_attack": 28,
@@ -1710,9 +1710,9 @@
         "final": false
     },
     {
-        "_id": 921095,
+        "id": 921095,
         "name": "Vermillion Viper 7",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 270,
         "element": "Poison",
         "element_attack": 30,
@@ -1725,9 +1725,9 @@
         "final": false
     },
     {
-        "_id": 921096,
+        "id": 921096,
         "name": "Sanguine Serpent 8",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 330,
         "element": "Poison",
         "element_attack": 33,
@@ -1740,9 +1740,9 @@
         "final": true
     },
     {
-        "_id": 921345,
+        "id": 921345,
         "name": "Sand Anchor 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 90,
         "element": "Water",
         "element_attack": 10,
@@ -1755,9 +1755,9 @@
         "final": false
     },
     {
-        "_id": 921346,
+        "id": 921346,
         "name": "Sand Anchor 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 110,
         "element": "Water",
         "element_attack": 14,
@@ -1770,9 +1770,9 @@
         "final": false
     },
     {
-        "_id": 921347,
+        "id": 921347,
         "name": "Sand Anchor 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 150,
         "element": "Water",
         "element_attack": 16,
@@ -1785,9 +1785,9 @@
         "final": false
     },
     {
-        "_id": 921348,
+        "id": 921348,
         "name": "Sand Anchor 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 170,
         "element": "Water",
         "element_attack": 18,
@@ -1800,9 +1800,9 @@
         "final": false
     },
     {
-        "_id": 921349,
+        "id": 921349,
         "name": "Dune Anchor 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 230,
         "element": "Water",
         "element_attack": 20,
@@ -1815,9 +1815,9 @@
         "final": false
     },
     {
-        "_id": 921350,
+        "id": 921350,
         "name": "Dune Anchor 6",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 260,
         "element": "Water",
         "element_attack": 22,
@@ -1830,9 +1830,9 @@
         "final": false
     },
     {
-        "_id": 921351,
+        "id": 921351,
         "name": "Dune Anchor 7",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 290,
         "element": "Water",
         "element_attack": 24,
@@ -1845,9 +1845,9 @@
         "final": false
     },
     {
-        "_id": 921352,
+        "id": 921352,
         "name": "Desert Anchor 8",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 350,
         "element": "Water",
         "element_attack": 27,
@@ -1860,9 +1860,9 @@
         "final": true
     },
     {
-        "_id": 921601,
+        "id": 921601,
         "name": "Fin Harpoon 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 150,
         "element": "Sleep",
         "element_attack": 16,
@@ -1875,9 +1875,9 @@
         "final": false
     },
     {
-        "_id": 921602,
+        "id": 921602,
         "name": "Fin Harpoon 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 170,
         "element": "Sleep",
         "element_attack": 18,
@@ -1890,9 +1890,9 @@
         "final": false
     },
     {
-        "_id": 921603,
+        "id": 921603,
         "name": "Dorsal Harpoon 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 180,
         "element": "Sleep",
         "element_attack": 20,
@@ -1905,9 +1905,9 @@
         "final": false
     },
     {
-        "_id": 921604,
+        "id": 921604,
         "name": "Dorsal Harpoon 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 210,
         "element": "Sleep",
         "element_attack": 21,
@@ -1920,9 +1920,9 @@
         "final": false
     },
     {
-        "_id": 921605,
+        "id": 921605,
         "name": "Plesioth Harpoon 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 300,
         "element": "Sleep",
         "element_attack": 22,
@@ -1935,9 +1935,9 @@
         "final": true
     },
     {
-        "_id": 921857,
+        "id": 921857,
         "name": "Névé Rod 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 150,
         "element": "Ice",
         "element_attack": 20,
@@ -1950,9 +1950,9 @@
         "final": false
     },
     {
-        "_id": 921858,
+        "id": 921858,
         "name": "Névé Rod 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 160,
         "element": "Ice",
         "element_attack": 21,
@@ -1965,9 +1965,9 @@
         "final": false
     },
     {
-        "_id": 921859,
+        "id": 921859,
         "name": "Névé Rod 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 170,
         "element": "Ice",
         "element_attack": 22,
@@ -1980,9 +1980,9 @@
         "final": false
     },
     {
-        "_id": 921860,
+        "id": 921860,
         "name": "Névé Frost 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 190,
         "element": "Ice",
         "element_attack": 23,
@@ -1995,9 +1995,9 @@
         "final": false
     },
     {
-        "_id": 921861,
+        "id": 921861,
         "name": "Névé Frost 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 250,
         "element": "Ice",
         "element_attack": 25,
@@ -2010,9 +2010,9 @@
         "final": false
     },
     {
-        "_id": 921862,
+        "id": 921862,
         "name": "Névé Frost 6",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 280,
         "element": "Ice",
         "element_attack": 27,
@@ -2025,9 +2025,9 @@
         "final": false
     },
     {
-        "_id": 921863,
+        "id": 921863,
         "name": "Fimbulvetr 7",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 310,
         "element": "Ice",
         "element_attack": 30,
@@ -2040,9 +2040,9 @@
         "final": true
     },
     {
-        "_id": 922113,
+        "id": 922113,
         "name": "Bone Staff 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 80,
         "element": "",
         "element_attack": 0,
@@ -2055,9 +2055,9 @@
         "final": false
     },
     {
-        "_id": 922114,
+        "id": 922114,
         "name": "Bone Staff 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 100,
         "element": "",
         "element_attack": 0,
@@ -2070,9 +2070,9 @@
         "final": false
     },
     {
-        "_id": 922115,
+        "id": 922115,
         "name": "Bone Staff 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 110,
         "element": "",
         "element_attack": 0,
@@ -2085,9 +2085,9 @@
         "final": false
     },
     {
-        "_id": 922116,
+        "id": 922116,
         "name": "Bone Staff 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 120,
         "element": "",
         "element_attack": 0,
@@ -2100,9 +2100,9 @@
         "final": false
     },
     {
-        "_id": 922117,
+        "id": 922117,
         "name": "Bone Staff 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 140,
         "element": "",
         "element_attack": 0,
@@ -2115,9 +2115,9 @@
         "final": false
     },
     {
-        "_id": 922118,
+        "id": 922118,
         "name": "Bone Staff 6",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 150,
         "element": "",
         "element_attack": 0,
@@ -2130,9 +2130,9 @@
         "final": false
     },
     {
-        "_id": 922119,
+        "id": 922119,
         "name": "Bone Staff 7",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 180,
         "element": "",
         "element_attack": 0,
@@ -2145,9 +2145,9 @@
         "final": false
     },
     {
-        "_id": 922120,
+        "id": 922120,
         "name": "Aerial Glaive 8",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 210,
         "element": "",
         "element_attack": 0,
@@ -2160,9 +2160,9 @@
         "final": false
     },
     {
-        "_id": 922121,
+        "id": 922121,
         "name": "Aerial Glaive 9",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 240,
         "element": "",
         "element_attack": 0,
@@ -2175,9 +2175,9 @@
         "final": false
     },
     {
-        "_id": 922122,
+        "id": 922122,
         "name": "Aerial Glaive 10",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 290,
         "element": "",
         "element_attack": 0,
@@ -2190,9 +2190,9 @@
         "final": false
     },
     {
-        "_id": 922123,
+        "id": 922123,
         "name": "Volant 11",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 330,
         "element": "",
         "element_attack": 0,
@@ -2205,9 +2205,9 @@
         "final": true
     },
     {
-        "_id": 922369,
+        "id": 922369,
         "name": "Sky-high Glaive 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 120,
         "element": "Paralysis",
         "element_attack": 19,
@@ -2220,9 +2220,9 @@
         "final": false
     },
     {
-        "_id": 922370,
+        "id": 922370,
         "name": "Sky-high Glaive 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 130,
         "element": "Paralysis",
         "element_attack": 22,
@@ -2235,9 +2235,9 @@
         "final": false
     },
     {
-        "_id": 922371,
+        "id": 922371,
         "name": "Highest of Glaives 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 140,
         "element": "Paralysis",
         "element_attack": 24,
@@ -2250,9 +2250,9 @@
         "final": false
     },
     {
-        "_id": 922372,
+        "id": 922372,
         "name": "Highest of Glaives 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 220,
         "element": "Paralysis",
         "element_attack": 26,
@@ -2265,9 +2265,9 @@
         "final": false
     },
     {
-        "_id": 922373,
+        "id": 922373,
         "name": "Stratosphere Glaive 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 280,
         "element": "Paralysis",
         "element_attack": 30,
@@ -2280,9 +2280,9 @@
         "final": true
     },
     {
-        "_id": 922625,
+        "id": 922625,
         "name": "Mind Stick 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 140,
         "element": "Water",
         "element_attack": 28,
@@ -2295,9 +2295,9 @@
         "final": false
     },
     {
-        "_id": 922626,
+        "id": 922626,
         "name": "Mind Stick 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 150,
         "element": "Water",
         "element_attack": 29,
@@ -2310,9 +2310,9 @@
         "final": false
     },
     {
-        "_id": 922627,
+        "id": 922627,
         "name": "Mind Stick 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 160,
         "element": "Water",
         "element_attack": 30,
@@ -2325,9 +2325,9 @@
         "final": false
     },
     {
-        "_id": 922628,
+        "id": 922628,
         "name": "Mind Stick \"Stone\" 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 190,
         "element": "Water",
         "element_attack": 32,
@@ -2340,9 +2340,9 @@
         "final": false
     },
     {
-        "_id": 922629,
+        "id": 922629,
         "name": "Mind Stick \"Stone\" 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 220,
         "element": "Water",
         "element_attack": 34,
@@ -2355,9 +2355,9 @@
         "final": false
     },
     {
-        "_id": 922630,
+        "id": 922630,
         "name": "Mind Stick \"Stone\" 6",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 250,
         "element": "Water",
         "element_attack": 36,
@@ -2370,9 +2370,9 @@
         "final": false
     },
     {
-        "_id": 922631,
+        "id": 922631,
         "name": "Mind Stick \"Rock\" 7",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 300,
         "element": "Water",
         "element_attack": 39,
@@ -2385,9 +2385,9 @@
         "final": true
     },
     {
-        "_id": 922881,
+        "id": 922881,
         "name": "Sturdy Glaive 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 120,
         "element": "",
         "element_attack": 0,
@@ -2400,9 +2400,9 @@
         "final": false
     },
     {
-        "_id": 922882,
+        "id": 922882,
         "name": "Sturdy Glaive 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 130,
         "element": "",
         "element_attack": 0,
@@ -2415,9 +2415,9 @@
         "final": false
     },
     {
-        "_id": 922883,
+        "id": 922883,
         "name": "Sturdy Glaive 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 150,
         "element": "",
         "element_attack": 0,
@@ -2430,9 +2430,9 @@
         "final": false
     },
     {
-        "_id": 922884,
+        "id": 922884,
         "name": "Sturdy Glaive 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 160,
         "element": "",
         "element_attack": 0,
@@ -2445,9 +2445,9 @@
         "final": false
     },
     {
-        "_id": 922885,
+        "id": 922885,
         "name": "Sturdy Glaive Redux 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 200,
         "element": "",
         "element_attack": 0,
@@ -2460,9 +2460,9 @@
         "final": false
     },
     {
-        "_id": 922886,
+        "id": 922886,
         "name": "Sturdy Glaive Redux 6",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 230,
         "element": "",
         "element_attack": 0,
@@ -2475,9 +2475,9 @@
         "final": false
     },
     {
-        "_id": 922887,
+        "id": 922887,
         "name": "Stalwart Glaive 7",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 320,
         "element": "",
         "element_attack": 0,
@@ -2490,9 +2490,9 @@
         "final": true
     },
     {
-        "_id": 923137,
+        "id": 923137,
         "name": "Flaming Halberd 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 160,
         "element": "Fire",
         "element_attack": 24,
@@ -2505,9 +2505,9 @@
         "final": false
     },
     {
-        "_id": 923138,
+        "id": 923138,
         "name": "Flaming Halberd 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 170,
         "element": "Fire",
         "element_attack": 36,
@@ -2520,9 +2520,9 @@
         "final": false
     },
     {
-        "_id": 923139,
+        "id": 923139,
         "name": "Blazing Halberd 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 180,
         "element": "Fire",
         "element_attack": 38,
@@ -2535,9 +2535,9 @@
         "final": false
     },
     {
-        "_id": 923140,
+        "id": 923140,
         "name": "Blazing Halberd 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 240,
         "element": "Fire",
         "element_attack": 41,
@@ -2550,9 +2550,9 @@
         "final": false
     },
     {
-        "_id": 923141,
+        "id": 923141,
         "name": "Blazing Halberd 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 260,
         "element": "Fire",
         "element_attack": 43,
@@ -2565,9 +2565,9 @@
         "final": false
     },
     {
-        "_id": 923142,
+        "id": 923142,
         "name": "Inferno Halberd 6",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 280,
         "element": "Fire",
         "element_attack": 45,
@@ -2580,9 +2580,9 @@
         "final": true
     },
     {
-        "_id": 923393,
+        "id": 923393,
         "name": "Deep Blue Glaive 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 150,
         "element": "Water",
         "element_attack": 16,
@@ -2595,9 +2595,9 @@
         "final": false
     },
     {
-        "_id": 923394,
+        "id": 923394,
         "name": "Deep Blue Glaive 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 170,
         "element": "Water",
         "element_attack": 18,
@@ -2610,9 +2610,9 @@
         "final": false
     },
     {
-        "_id": 923395,
+        "id": 923395,
         "name": "Midnight Glaive 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 180,
         "element": "Water",
         "element_attack": 20,
@@ -2625,9 +2625,9 @@
         "final": false
     },
     {
-        "_id": 923396,
+        "id": 923396,
         "name": "Midnight Glaive 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 240,
         "element": "Water",
         "element_attack": 22,
@@ -2640,9 +2640,9 @@
         "final": false
     },
     {
-        "_id": 923397,
+        "id": 923397,
         "name": "Midnight Glaive 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 270,
         "element": "Water",
         "element_attack": 24,
@@ -2655,9 +2655,9 @@
         "final": false
     },
     {
-        "_id": 923398,
+        "id": 923398,
         "name": "Zaffre Glaive 6",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 310,
         "element": "Water",
         "element_attack": 27,
@@ -2670,9 +2670,9 @@
         "final": true
     },
     {
-        "_id": 923649,
+        "id": 923649,
         "name": "Dios Rod 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 120,
         "element": "Blastblight",
         "element_attack": 20,
@@ -2685,9 +2685,9 @@
         "final": false
     },
     {
-        "_id": 923650,
+        "id": 923650,
         "name": "Dios Rod 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 140,
         "element": "Blastblight",
         "element_attack": 22,
@@ -2700,9 +2700,9 @@
         "final": false
     },
     {
-        "_id": 923651,
+        "id": 923651,
         "name": "Dios Rod 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 160,
         "element": "Blastblight",
         "element_attack": 24,
@@ -2715,9 +2715,9 @@
         "final": false
     },
     {
-        "_id": 923652,
+        "id": 923652,
         "name": "Dios Rod 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 190,
         "element": "Blastblight",
         "element_attack": 26,
@@ -2730,9 +2730,9 @@
         "final": false
     },
     {
-        "_id": 923653,
+        "id": 923653,
         "name": "Electrorod 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 200,
         "element": "Blastblight",
         "element_attack": 28,
@@ -2745,9 +2745,9 @@
         "final": false
     },
     {
-        "_id": 923654,
+        "id": 923654,
         "name": "Electrorod 6",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 290,
         "element": "Blastblight",
         "element_attack": 31,
@@ -2760,9 +2760,9 @@
         "final": false
     },
     {
-        "_id": 923655,
+        "id": 923655,
         "name": "Electroshock Rod 7",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 320,
         "element": "Blastblight",
         "element_attack": 33,
@@ -2775,9 +2775,9 @@
         "final": true
     },
     {
-        "_id": 923905,
+        "id": 923905,
         "name": "Demolition Press 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 160,
         "element": "Blastblight",
         "element_attack": 24,
@@ -2790,9 +2790,9 @@
         "final": false
     },
     {
-        "_id": 923906,
+        "id": 923906,
         "name": "Demolition Press 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 170,
         "element": "Blastblight",
         "element_attack": 26,
@@ -2805,9 +2805,9 @@
         "final": false
     },
     {
-        "_id": 923907,
+        "id": 923907,
         "name": "Quantum Demolisher 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 180,
         "element": "Blastblight",
         "element_attack": 33,
@@ -2820,9 +2820,9 @@
         "final": false
     },
     {
-        "_id": 923908,
+        "id": 923908,
         "name": "Quantum Demolisher 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 270,
         "element": "Blastblight",
         "element_attack": 36,
@@ -2835,9 +2835,9 @@
         "final": false
     },
     {
-        "_id": 923909,
+        "id": 923909,
         "name": "Quantum Demolisher 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 290,
         "element": "Blastblight",
         "element_attack": 38,
@@ -2850,9 +2850,9 @@
         "final": false
     },
     {
-        "_id": 923910,
+        "id": 923910,
         "name": "Quantum Annihilator 6",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 300,
         "element": "Blastblight",
         "element_attack": 40,
@@ -2865,9 +2865,9 @@
         "final": true
     },
     {
-        "_id": 924161,
+        "id": 924161,
         "name": "Needle Ivy 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 80,
         "element": "Paralysis",
         "element_attack": 15,
@@ -2880,9 +2880,9 @@
         "final": false
     },
     {
-        "_id": 924162,
+        "id": 924162,
         "name": "Needle Ivy 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 100,
         "element": "Paralysis",
         "element_attack": 17,
@@ -2895,9 +2895,9 @@
         "final": false
     },
     {
-        "_id": 924163,
+        "id": 924163,
         "name": "Needle Ivy 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 120,
         "element": "Paralysis",
         "element_attack": 18,
@@ -2910,9 +2910,9 @@
         "final": false
     },
     {
-        "_id": 924164,
+        "id": 924164,
         "name": "Needle Ivy 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 140,
         "element": "Paralysis",
         "element_attack": 19,
@@ -2925,9 +2925,9 @@
         "final": false
     },
     {
-        "_id": 924165,
+        "id": 924165,
         "name": "Needle Vine 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 160,
         "element": "Paralysis",
         "element_attack": 20,
@@ -2940,9 +2940,9 @@
         "final": false
     },
     {
-        "_id": 924166,
+        "id": 924166,
         "name": "Needle Vine 6",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 200,
         "element": "Paralysis",
         "element_attack": 22,
@@ -2955,9 +2955,9 @@
         "final": false
     },
     {
-        "_id": 924167,
+        "id": 924167,
         "name": "Needle Vine 7",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 240,
         "element": "Paralysis",
         "element_attack": 24,
@@ -2970,9 +2970,9 @@
         "final": false
     },
     {
-        "_id": 924168,
+        "id": 924168,
         "name": "Paralyzing Vine 8",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 290,
         "element": "Paralysis",
         "element_attack": 27,
@@ -2985,9 +2985,9 @@
         "final": true
     },
     {
-        "_id": 924417,
+        "id": 924417,
         "name": "Wardance Cudgel 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 80,
         "element": "Ice",
         "element_attack": 10,
@@ -3000,9 +3000,9 @@
         "final": false
     },
     {
-        "_id": 924418,
+        "id": 924418,
         "name": "Wardance Cudgel 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 100,
         "element": "Ice",
         "element_attack": 12,
@@ -3015,9 +3015,9 @@
         "final": false
     },
     {
-        "_id": 924419,
+        "id": 924419,
         "name": "Wardance Cudgel 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 110,
         "element": "Ice",
         "element_attack": 16,
@@ -3030,9 +3030,9 @@
         "final": false
     },
     {
-        "_id": 924420,
+        "id": 924420,
         "name": "Wardance Cudgel 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 140,
         "element": "Ice",
         "element_attack": 18,
@@ -3045,9 +3045,9 @@
         "final": false
     },
     {
-        "_id": 924421,
+        "id": 924421,
         "name": "Wardance Cudgel 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 190,
         "element": "Ice",
         "element_attack": 20,
@@ -3060,9 +3060,9 @@
         "final": false
     },
     {
-        "_id": 924422,
+        "id": 924422,
         "name": "Warparty Cudgel 6",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 210,
         "element": "Ice",
         "element_attack": 22,
@@ -3075,9 +3075,9 @@
         "final": false
     },
     {
-        "_id": 924423,
+        "id": 924423,
         "name": "Warparty Cudgel 7",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 260,
         "element": "Ice",
         "element_attack": 24,
@@ -3090,9 +3090,9 @@
         "final": false
     },
     {
-        "_id": 924424,
+        "id": 924424,
         "name": "Warfeast Cudgel 8",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 320,
         "element": "Ice",
         "element_attack": 27,
@@ -3105,9 +3105,9 @@
         "final": true
     },
     {
-        "_id": 924673,
+        "id": 924673,
         "name": "Rage Cudgel 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 80,
         "element": "Ice",
         "element_attack": 30,
@@ -3120,9 +3120,9 @@
         "final": false
     },
     {
-        "_id": 924674,
+        "id": 924674,
         "name": "Rage Cudgel 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 100,
         "element": "Ice",
         "element_attack": 34,
@@ -3135,9 +3135,9 @@
         "final": false
     },
     {
-        "_id": 924675,
+        "id": 924675,
         "name": "Rage Cudgel 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 130,
         "element": "Ice",
         "element_attack": 35,
@@ -3150,9 +3150,9 @@
         "final": false
     },
     {
-        "_id": 924676,
+        "id": 924676,
         "name": "Rage Cudgel 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 160,
         "element": "Ice",
         "element_attack": 36,
@@ -3165,9 +3165,9 @@
         "final": false
     },
     {
-        "_id": 924677,
+        "id": 924677,
         "name": "Master's Rage Cudgel 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 200,
         "element": "Ice",
         "element_attack": 38,
@@ -3180,9 +3180,9 @@
         "final": false
     },
     {
-        "_id": 924678,
+        "id": 924678,
         "name": "Master's Rage Cudgel 6",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 250,
         "element": "Ice",
         "element_attack": 41,
@@ -3195,9 +3195,9 @@
         "final": false
     },
     {
-        "_id": 924679,
+        "id": 924679,
         "name": "Chieftain's Rage Cudgel 7",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 290,
         "element": "Ice",
         "element_attack": 43,
@@ -3210,9 +3210,9 @@
         "final": true
     },
     {
-        "_id": 924929,
+        "id": 924929,
         "name": "Shell Intoner 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 90,
         "element": "",
         "element_attack": 0,
@@ -3225,9 +3225,9 @@
         "final": false
     },
     {
-        "_id": 924930,
+        "id": 924930,
         "name": "Shell Intoner 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 110,
         "element": "",
         "element_attack": 0,
@@ -3240,9 +3240,9 @@
         "final": false
     },
     {
-        "_id": 924931,
+        "id": 924931,
         "name": "Shell Intoner 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 140,
         "element": "",
         "element_attack": 0,
@@ -3255,9 +3255,9 @@
         "final": false
     },
     {
-        "_id": 924932,
+        "id": 924932,
         "name": "Shell Intoner 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 150,
         "element": "",
         "element_attack": 0,
@@ -3270,9 +3270,9 @@
         "final": false
     },
     {
-        "_id": 924933,
+        "id": 924933,
         "name": "Crab Intoner 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 200,
         "element": "",
         "element_attack": 0,
@@ -3285,9 +3285,9 @@
         "final": false
     },
     {
-        "_id": 924934,
+        "id": 924934,
         "name": "Crab Intoner 6",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 230,
         "element": "",
         "element_attack": 0,
@@ -3300,9 +3300,9 @@
         "final": false
     },
     {
-        "_id": 924935,
+        "id": 924935,
         "name": "Crab Intoner 7",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 270,
         "element": "",
         "element_attack": 0,
@@ -3315,9 +3315,9 @@
         "final": false
     },
     {
-        "_id": 924936,
+        "id": 924936,
         "name": "King Crab Intoner 8",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 320,
         "element": "",
         "element_attack": 0,
@@ -3330,9 +3330,9 @@
         "final": true
     },
     {
-        "_id": 925185,
+        "id": 925185,
         "name": "Hortadent 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 80,
         "element": "",
         "element_attack": 0,
@@ -3345,9 +3345,9 @@
         "final": false
     },
     {
-        "_id": 925186,
+        "id": 925186,
         "name": "Hortadent 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 90,
         "element": "",
         "element_attack": 0,
@@ -3360,9 +3360,9 @@
         "final": false
     },
     {
-        "_id": 925187,
+        "id": 925187,
         "name": "Hortadent 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 100,
         "element": "",
         "element_attack": 0,
@@ -3375,9 +3375,9 @@
         "final": false
     },
     {
-        "_id": 925188,
+        "id": 925188,
         "name": "Hortadent 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 140,
         "element": "",
         "element_attack": 0,
@@ -3390,9 +3390,9 @@
         "final": false
     },
     {
-        "_id": 925189,
+        "id": 925189,
         "name": "Hortadent 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 170,
         "element": "",
         "element_attack": 0,
@@ -3405,9 +3405,9 @@
         "final": false
     },
     {
-        "_id": 925190,
+        "id": 925190,
         "name": "Hortadent Brada 6",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 200,
         "element": "",
         "element_attack": 0,
@@ -3420,9 +3420,9 @@
         "final": false
     },
     {
-        "_id": 925191,
+        "id": 925191,
         "name": "Hortadent Brada 7",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 240,
         "element": "",
         "element_attack": 0,
@@ -3435,9 +3435,9 @@
         "final": false
     },
     {
-        "_id": 925192,
+        "id": 925192,
         "name": "Altaroth Trident 8",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 320,
         "element": "",
         "element_attack": 0,
@@ -3450,9 +3450,9 @@
         "final": true
     },
     {
-        "_id": 925441,
+        "id": 925441,
         "name": "Sect Happa 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 150,
         "element": "Water",
         "element_attack": 8,
@@ -3465,9 +3465,9 @@
         "final": false
     },
     {
-        "_id": 925442,
+        "id": 925442,
         "name": "Sect Happa 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 160,
         "element": "Water",
         "element_attack": 9,
@@ -3480,9 +3480,9 @@
         "final": false
     },
     {
-        "_id": 925443,
+        "id": 925443,
         "name": "Sect Happa 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 180,
         "element": "Water",
         "element_attack": 10,
@@ -3495,9 +3495,9 @@
         "final": false
     },
     {
-        "_id": 925444,
+        "id": 925444,
         "name": "Belsect Happa 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 210,
         "element": "Water",
         "element_attack": 12,
@@ -3510,9 +3510,9 @@
         "final": false
     },
     {
-        "_id": 925445,
+        "id": 925445,
         "name": "Belsect Happa 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 250,
         "element": "Water",
         "element_attack": 14,
@@ -3525,9 +3525,9 @@
         "final": false
     },
     {
-        "_id": 925446,
+        "id": 925446,
         "name": "Virismo Belsect 6",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 330,
         "element": "Water",
         "element_attack": 17,
@@ -3540,9 +3540,9 @@
         "final": true
     },
     {
-        "_id": 925697,
+        "id": 925697,
         "name": "Trim Happa 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 170,
         "element": "Water",
         "element_attack": 14,
@@ -3555,9 +3555,9 @@
         "final": false
     },
     {
-        "_id": 925698,
+        "id": 925698,
         "name": "Trim Happa 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 190,
         "element": "Water",
         "element_attack": 15,
@@ -3570,9 +3570,9 @@
         "final": false
     },
     {
-        "_id": 925699,
+        "id": 925699,
         "name": "Cannibal Happa 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 200,
         "element": "Water",
         "element_attack": 16,
@@ -3585,9 +3585,9 @@
         "final": false
     },
     {
-        "_id": 925700,
+        "id": 925700,
         "name": "Cannibal Happa 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 280,
         "element": "Water",
         "element_attack": 19,
@@ -3600,9 +3600,9 @@
         "final": false
     },
     {
-        "_id": 925701,
+        "id": 925701,
         "name": "Dual Talon Cannibal 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 320,
         "element": "Water",
         "element_attack": 22,
@@ -3615,9 +3615,9 @@
         "final": true
     },
     {
-        "_id": 925953,
+        "id": 925953,
         "name": "Astalos Cudgel 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 120,
         "element": "Thunder",
         "element_attack": 12,
@@ -3630,9 +3630,9 @@
         "final": false
     },
     {
-        "_id": 925954,
+        "id": 925954,
         "name": "Astalos Cudgel 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 130,
         "element": "Thunder",
         "element_attack": 16,
@@ -3645,9 +3645,9 @@
         "final": false
     },
     {
-        "_id": 925955,
+        "id": 925955,
         "name": "Astalos Cudgel 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 150,
         "element": "Thunder",
         "element_attack": 20,
@@ -3660,9 +3660,9 @@
         "final": false
     },
     {
-        "_id": 925956,
+        "id": 925956,
         "name": "Astalos Cudgel 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 160,
         "element": "Thunder",
         "element_attack": 22,
@@ -3675,9 +3675,9 @@
         "final": false
     },
     {
-        "_id": 925957,
+        "id": 925957,
         "name": "Astalos Cudgel 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 170,
         "element": "Thunder",
         "element_attack": 24,
@@ -3690,9 +3690,9 @@
         "final": false
     },
     {
-        "_id": 925958,
+        "id": 925958,
         "name": "Thunderstorm Cudgel 6",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 180,
         "element": "Thunder",
         "element_attack": 26,
@@ -3705,9 +3705,9 @@
         "final": false
     },
     {
-        "_id": 925959,
+        "id": 925959,
         "name": "Thunderstorm Cudgel 7",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 260,
         "element": "Thunder",
         "element_attack": 28,
@@ -3720,9 +3720,9 @@
         "final": false
     },
     {
-        "_id": 925960,
+        "id": 925960,
         "name": "Thunderstorm Cudgel 8",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 280,
         "element": "Thunder",
         "element_attack": 30,
@@ -3735,9 +3735,9 @@
         "final": false
     },
     {
-        "_id": 925961,
+        "id": 925961,
         "name": "Thunder Dragon 9",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 300,
         "element": "Thunder",
         "element_attack": 32,
@@ -3750,9 +3750,9 @@
         "final": true
     },
     {
-        "_id": 926209,
+        "id": 926209,
         "name": "Giant's Cudgel 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 140,
         "element": "Ice",
         "element_attack": 12,
@@ -3765,9 +3765,9 @@
         "final": false
     },
     {
-        "_id": 926210,
+        "id": 926210,
         "name": "Giant's Cudgel 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 150,
         "element": "Ice",
         "element_attack": 16,
@@ -3780,9 +3780,9 @@
         "final": false
     },
     {
-        "_id": 926211,
+        "id": 926211,
         "name": "Giant's Cudgel 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 170,
         "element": "Ice",
         "element_attack": 18,
@@ -3795,9 +3795,9 @@
         "final": false
     },
     {
-        "_id": 926212,
+        "id": 926212,
         "name": "Giant's Cudgel 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 190,
         "element": "Ice",
         "element_attack": 20,
@@ -3810,9 +3810,9 @@
         "final": false
     },
     {
-        "_id": 926213,
+        "id": 926213,
         "name": "Giant's Cudgel 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 210,
         "element": "Ice",
         "element_attack": 22,
@@ -3825,9 +3825,9 @@
         "final": false
     },
     {
-        "_id": 926214,
+        "id": 926214,
         "name": "Colossus's Cudgel 6",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 230,
         "element": "Ice",
         "element_attack": 24,
@@ -3840,9 +3840,9 @@
         "final": false
     },
     {
-        "_id": 926215,
+        "id": 926215,
         "name": "Colossus's Cudgel 7",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 290,
         "element": "Ice",
         "element_attack": 26,
@@ -3855,9 +3855,9 @@
         "final": false
     },
     {
-        "_id": 926216,
+        "id": 926216,
         "name": "Colossus's Cudgel 8",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 310,
         "element": "Ice",
         "element_attack": 28,
@@ -3870,9 +3870,9 @@
         "final": false
     },
     {
-        "_id": 926217,
+        "id": 926217,
         "name": "Behemoth's Cudgel 9",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 340,
         "element": "Ice",
         "element_attack": 30,
@@ -3885,9 +3885,9 @@
         "final": true
     },
     {
-        "_id": 926465,
+        "id": 926465,
         "name": "Fox Halberd 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 130,
         "element": "Water",
         "element_attack": 12,
@@ -3900,9 +3900,9 @@
         "final": false
     },
     {
-        "_id": 926466,
+        "id": 926466,
         "name": "Fox Halberd 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 140,
         "element": "Water",
         "element_attack": 16,
@@ -3915,9 +3915,9 @@
         "final": false
     },
     {
-        "_id": 926467,
+        "id": 926467,
         "name": "Fox Halberd 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 150,
         "element": "Water",
         "element_attack": 20,
@@ -3930,9 +3930,9 @@
         "final": false
     },
     {
-        "_id": 926468,
+        "id": 926468,
         "name": "Fox Halberd 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 170,
         "element": "Water",
         "element_attack": 22,
@@ -3945,9 +3945,9 @@
         "final": false
     },
     {
-        "_id": 926469,
+        "id": 926469,
         "name": "Fox Halberd 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 190,
         "element": "Water",
         "element_attack": 24,
@@ -3960,9 +3960,9 @@
         "final": false
     },
     {
-        "_id": 926470,
+        "id": 926470,
         "name": "Curved Naganagi 6",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 200,
         "element": "Water",
         "element_attack": 26,
@@ -3975,9 +3975,9 @@
         "final": false
     },
     {
-        "_id": 926471,
+        "id": 926471,
         "name": "Curved Naganagi 7",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 270,
         "element": "Water",
         "element_attack": 28,
@@ -3990,9 +3990,9 @@
         "final": false
     },
     {
-        "_id": 926472,
+        "id": 926472,
         "name": "Curved Naganagi 8",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 290,
         "element": "Water",
         "element_attack": 30,
@@ -4005,9 +4005,9 @@
         "final": false
     },
     {
-        "_id": 926473,
+        "id": 926473,
         "name": "Eventide Kazanagi 9",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 320,
         "element": "Water",
         "element_attack": 32,
@@ -4020,9 +4020,9 @@
         "final": true
     },
     {
-        "_id": 926721,
+        "id": 926721,
         "name": "Flaming Teuza 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 130,
         "element": "Fire",
         "element_attack": 12,
@@ -4035,9 +4035,9 @@
         "final": false
     },
     {
-        "_id": 926722,
+        "id": 926722,
         "name": "Flaming Teuza 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 140,
         "element": "Fire",
         "element_attack": 16,
@@ -4050,9 +4050,9 @@
         "final": false
     },
     {
-        "_id": 926723,
+        "id": 926723,
         "name": "Flaming Teuza 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 160,
         "element": "Fire",
         "element_attack": 18,
@@ -4065,9 +4065,9 @@
         "final": false
     },
     {
-        "_id": 926724,
+        "id": 926724,
         "name": "Flaming Teuza 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 180,
         "element": "Fire",
         "element_attack": 20,
@@ -4080,9 +4080,9 @@
         "final": false
     },
     {
-        "_id": 926725,
+        "id": 926725,
         "name": "Flaming Teuza 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 200,
         "element": "Fire",
         "element_attack": 22,
@@ -4095,9 +4095,9 @@
         "final": false
     },
     {
-        "_id": 926726,
+        "id": 926726,
         "name": "Glavenus Helldait 6",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 210,
         "element": "Fire",
         "element_attack": 24,
@@ -4110,9 +4110,9 @@
         "final": false
     },
     {
-        "_id": 926727,
+        "id": 926727,
         "name": "Glavenus Helldait 7",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 280,
         "element": "Fire",
         "element_attack": 26,
@@ -4125,9 +4125,9 @@
         "final": false
     },
     {
-        "_id": 926728,
+        "id": 926728,
         "name": "Glavenus Helldait 8",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 300,
         "element": "Fire",
         "element_attack": 28,
@@ -4140,9 +4140,9 @@
         "final": false
     },
     {
-        "_id": 926729,
+        "id": 926729,
         "name": "Glavenus Helldanova 9",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 330,
         "element": "Fire",
         "element_attack": 30,
@@ -4155,9 +4155,9 @@
         "final": true
     },
     {
-        "_id": 926977,
+        "id": 926977,
         "name": "Leumundslist 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 120,
         "element": "Dragon",
         "element_attack": 20,
@@ -4170,9 +4170,9 @@
         "final": false
     },
     {
-        "_id": 926978,
+        "id": 926978,
         "name": "Leumundslist 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 130,
         "element": "Dragon",
         "element_attack": 22,
@@ -4185,9 +4185,9 @@
         "final": false
     },
     {
-        "_id": 926979,
+        "id": 926979,
         "name": "Leumundslist 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 140,
         "element": "Dragon",
         "element_attack": 24,
@@ -4200,9 +4200,9 @@
         "final": false
     },
     {
-        "_id": 926980,
+        "id": 926980,
         "name": "Leumundslist 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 160,
         "element": "Dragon",
         "element_attack": 26,
@@ -4215,9 +4215,9 @@
         "final": false
     },
     {
-        "_id": 926981,
+        "id": 926981,
         "name": "Leumundsgift 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 180,
         "element": "Dragon",
         "element_attack": 28,
@@ -4230,9 +4230,9 @@
         "final": false
     },
     {
-        "_id": 926982,
+        "id": 926982,
         "name": "Leumundsgift 6",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 290,
         "element": "Dragon",
         "element_attack": 31,
@@ -4245,9 +4245,9 @@
         "final": false
     },
     {
-        "_id": 926983,
+        "id": 926983,
         "name": "Leumundsbruch 7",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 300,
         "element": "Dragon",
         "element_attack": 33,
@@ -4260,9 +4260,9 @@
         "final": true
     },
     {
-        "_id": 927233,
+        "id": 927233,
         "name": "Le Traqueur 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 120,
         "element": "Dragon",
         "element_attack": 30,
@@ -4275,9 +4275,9 @@
         "final": false
     },
     {
-        "_id": 927234,
+        "id": 927234,
         "name": "Le Traqueur 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 130,
         "element": "Dragon",
         "element_attack": 32,
@@ -4290,9 +4290,9 @@
         "final": false
     },
     {
-        "_id": 927235,
+        "id": 927235,
         "name": "Le Traqueur 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 150,
         "element": "Dragon",
         "element_attack": 34,
@@ -4305,9 +4305,9 @@
         "final": false
     },
     {
-        "_id": 927236,
+        "id": 927236,
         "name": "Le Traqueur 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 160,
         "element": "Dragon",
         "element_attack": 35,
@@ -4320,9 +4320,9 @@
         "final": false
     },
     {
-        "_id": 927237,
+        "id": 927237,
         "name": "La Merveille 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 170,
         "element": "Dragon",
         "element_attack": 37,
@@ -4335,9 +4335,9 @@
         "final": false
     },
     {
-        "_id": 927238,
+        "id": 927238,
         "name": "La Merveille 6",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 240,
         "element": "Dragon",
         "element_attack": 40,
@@ -4350,9 +4350,9 @@
         "final": false
     },
     {
-        "_id": 927239,
+        "id": 927239,
         "name": "La Merveille 7",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 260,
         "element": "Dragon",
         "element_attack": 42,
@@ -4365,9 +4365,9 @@
         "final": false
     },
     {
-        "_id": 927240,
+        "id": 927240,
         "name": "Le Miracle 8",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 280,
         "element": "Dragon",
         "element_attack": 45,
@@ -4380,9 +4380,9 @@
         "final": true
     },
     {
-        "_id": 927489,
+        "id": 927489,
         "name": "Daora's Entom 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 120,
         "element": "Ice",
         "element_attack": 22,
@@ -4395,9 +4395,9 @@
         "final": false
     },
     {
-        "_id": 927490,
+        "id": 927490,
         "name": "Daora's Entom 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 130,
         "element": "Ice",
         "element_attack": 24,
@@ -4410,9 +4410,9 @@
         "final": false
     },
     {
-        "_id": 927491,
+        "id": 927491,
         "name": "Daora's Entom 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 170,
         "element": "Ice",
         "element_attack": 26,
@@ -4425,9 +4425,9 @@
         "final": false
     },
     {
-        "_id": 927492,
+        "id": 927492,
         "name": "Daora's Tethidine 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 180,
         "element": "Ice",
         "element_attack": 28,
@@ -4440,9 +4440,9 @@
         "final": false
     },
     {
-        "_id": 927493,
+        "id": 927493,
         "name": "Daora's Tethidine 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 270,
         "element": "Ice",
         "element_attack": 31,
@@ -4455,9 +4455,9 @@
         "final": false
     },
     {
-        "_id": 927494,
+        "id": 927494,
         "name": "Daora's Samudra 6",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 300,
         "element": "Ice",
         "element_attack": 33,
@@ -4470,9 +4470,9 @@
         "final": true
     },
     {
-        "_id": 927745,
+        "id": 927745,
         "name": "Caster's Rod 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 120,
         "element": "Poison",
         "element_attack": 30,
@@ -4485,9 +4485,9 @@
         "final": false
     },
     {
-        "_id": 927746,
+        "id": 927746,
         "name": "Caster's Rod 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 130,
         "element": "Poison",
         "element_attack": 34,
@@ -4500,9 +4500,9 @@
         "final": false
     },
     {
-        "_id": 927747,
+        "id": 927747,
         "name": "Caster's Rod 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 170,
         "element": "Poison",
         "element_attack": 36,
@@ -4515,9 +4515,9 @@
         "final": false
     },
     {
-        "_id": 927748,
+        "id": 927748,
         "name": "Hazy Caster 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 190,
         "element": "Poison",
         "element_attack": 38,
@@ -4530,9 +4530,9 @@
         "final": false
     },
     {
-        "_id": 927749,
+        "id": 927749,
         "name": "Hazy Caster 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 290,
         "element": "Poison",
         "element_attack": 41,
@@ -4545,9 +4545,9 @@
         "final": false
     },
     {
-        "_id": 927750,
+        "id": 927750,
         "name": "Veil Caster 6",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 310,
         "element": "Poison",
         "element_attack": 43,
@@ -4560,9 +4560,9 @@
         "final": true
     },
     {
-        "_id": 928001,
+        "id": 928001,
         "name": "Indigo Flash 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 120,
         "element": "Thunder",
         "element_attack": 32,
@@ -4575,9 +4575,9 @@
         "final": false
     },
     {
-        "_id": 928002,
+        "id": 928002,
         "name": "Indigo Flash 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 130,
         "element": "Thunder",
         "element_attack": 34,
@@ -4590,9 +4590,9 @@
         "final": false
     },
     {
-        "_id": 928003,
+        "id": 928003,
         "name": "Indigo Flash 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 150,
         "element": "Thunder",
         "element_attack": 38,
@@ -4605,9 +4605,9 @@
         "final": false
     },
     {
-        "_id": 928004,
+        "id": 928004,
         "name": "Indigo Flash 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 160,
         "element": "Thunder",
         "element_attack": 40,
@@ -4620,9 +4620,9 @@
         "final": false
     },
     {
-        "_id": 928005,
+        "id": 928005,
         "name": "Azure Bolt 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 170,
         "element": "Thunder",
         "element_attack": 42,
@@ -4635,9 +4635,9 @@
         "final": false
     },
     {
-        "_id": 928006,
+        "id": 928006,
         "name": "Azure Bolt 6",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 270,
         "element": "Thunder",
         "element_attack": 45,
@@ -4650,9 +4650,9 @@
         "final": false
     },
     {
-        "_id": 928007,
+        "id": 928007,
         "name": "Verdant Levin 7",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 300,
         "element": "Thunder",
         "element_attack": 47,
@@ -4665,9 +4665,9 @@
         "final": true
     },
     {
-        "_id": 928257,
+        "id": 928257,
         "name": "Metal Mauler 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 180,
         "element": "Thunder",
         "element_attack": 32,
@@ -4680,9 +4680,9 @@
         "final": false
     },
     {
-        "_id": 928258,
+        "id": 928258,
         "name": "Metal Mauler 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 200,
         "element": "Thunder",
         "element_attack": 34,
@@ -4695,9 +4695,9 @@
         "final": false
     },
     {
-        "_id": 928259,
+        "id": 928259,
         "name": "Metal Mauler 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 210,
         "element": "Thunder",
         "element_attack": 36,
@@ -4710,9 +4710,9 @@
         "final": false
     },
     {
-        "_id": 928260,
+        "id": 928260,
         "name": "Metalmangler 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 230,
         "element": "Thunder",
         "element_attack": 38,
@@ -4725,9 +4725,9 @@
         "final": false
     },
     {
-        "_id": 928261,
+        "id": 928261,
         "name": "Metalmangler 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 320,
         "element": "Thunder",
         "element_attack": 41,
@@ -4740,9 +4740,9 @@
         "final": false
     },
     {
-        "_id": 928262,
+        "id": 928262,
         "name": "Metal Mutilator 6",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 350,
         "element": "Thunder",
         "element_attack": 43,
@@ -4755,9 +4755,9 @@
         "final": true
     },
     {
-        "_id": 928513,
+        "id": 928513,
         "name": "Demonlord Cudgel 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 180,
         "element": "Thunder",
         "element_attack": 40,
@@ -4770,9 +4770,9 @@
         "final": false
     },
     {
-        "_id": 928514,
+        "id": 928514,
         "name": "Demonlord Cudgel 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 200,
         "element": "Thunder",
         "element_attack": 42,
@@ -4785,9 +4785,9 @@
         "final": false
     },
     {
-        "_id": 928515,
+        "id": 928515,
         "name": "Demonlord Grudgel 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 210,
         "element": "Thunder",
         "element_attack": 44,
@@ -4800,9 +4800,9 @@
         "final": false
     },
     {
-        "_id": 928516,
+        "id": 928516,
         "name": "Demonlord Grudgel 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 290,
         "element": "Thunder",
         "element_attack": 47,
@@ -4815,9 +4815,9 @@
         "final": false
     },
     {
-        "_id": 928517,
+        "id": 928517,
         "name": "Demonlord Bludgel 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 310,
         "element": "Thunder",
         "element_attack": 50,
@@ -4830,9 +4830,9 @@
         "final": true
     },
     {
-        "_id": 928769,
+        "id": 928769,
         "name": "Skeletal Cudgel 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 160,
         "element": "Dragon",
         "element_attack": 12,
@@ -4845,9 +4845,9 @@
         "final": false
     },
     {
-        "_id": 928770,
+        "id": 928770,
         "name": "Skeletal Cudgel 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 180,
         "element": "Dragon",
         "element_attack": 13,
@@ -4860,9 +4860,9 @@
         "final": false
     },
     {
-        "_id": 928771,
+        "id": 928771,
         "name": "Skeletal Cudgel 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 230,
         "element": "Dragon",
         "element_attack": 14,
@@ -4875,9 +4875,9 @@
         "final": false
     },
     {
-        "_id": 928772,
+        "id": 928772,
         "name": "Skeletal Cudgel 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 250,
         "element": "Dragon",
         "element_attack": 16,
@@ -4890,9 +4890,9 @@
         "final": false
     },
     {
-        "_id": 928773,
+        "id": 928773,
         "name": "Infernal Cudgel 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 260,
         "element": "Dragon",
         "element_attack": 18,
@@ -4905,9 +4905,9 @@
         "final": false
     },
     {
-        "_id": 928774,
+        "id": 928774,
         "name": "Infernal Cudgel 6",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 340,
         "element": "Dragon",
         "element_attack": 21,
@@ -4920,9 +4920,9 @@
         "final": false
     },
     {
-        "_id": 928775,
+        "id": 928775,
         "name": "Rasalhague Cudgel 7",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 370,
         "element": "Dragon",
         "element_attack": 23,
@@ -4935,9 +4935,9 @@
         "final": true
     },
     {
-        "_id": 929025,
+        "id": 929025,
         "name": "Polaris Zimbal 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 170,
         "element": "Dragon",
         "element_attack": 6,
@@ -4950,9 +4950,9 @@
         "final": false
     },
     {
-        "_id": 929026,
+        "id": 929026,
         "name": "Polaris Zimbal 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 180,
         "element": "Dragon",
         "element_attack": 7,
@@ -4965,9 +4965,9 @@
         "final": false
     },
     {
-        "_id": 929027,
+        "id": 929027,
         "name": "Zimbal Cudgel 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 190,
         "element": "Dragon",
         "element_attack": 8,
@@ -4980,9 +4980,9 @@
         "final": false
     },
     {
-        "_id": 929028,
+        "id": 929028,
         "name": "Zimbal Cudgel 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 290,
         "element": "Dragon",
         "element_attack": 11,
@@ -4995,9 +4995,9 @@
         "final": false
     },
     {
-        "_id": 929029,
+        "id": 929029,
         "name": "Zimgaroa Cudgel 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 320,
         "element": "Dragon",
         "element_attack": 13,
@@ -5010,9 +5010,9 @@
         "final": true
     },
     {
-        "_id": 929281,
+        "id": 929281,
         "name": "Ukanlos Staff 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 260,
         "element": "Ice",
         "element_attack": 6,
@@ -5025,9 +5025,9 @@
         "final": false
     },
     {
-        "_id": 929282,
+        "id": 929282,
         "name": "Ukanlos Staff 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 260,
         "element": "Ice",
         "element_attack": 8,
@@ -5040,9 +5040,9 @@
         "final": false
     },
     {
-        "_id": 929283,
+        "id": 929283,
         "name": "Ukanlos Skytraveler 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 260,
         "element": "Ice",
         "element_attack": 10,
@@ -5055,9 +5055,9 @@
         "final": false
     },
     {
-        "_id": 929284,
+        "id": 929284,
         "name": "Ukanlos Skytraveler 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 360,
         "element": "Ice",
         "element_attack": 12,
@@ -5070,9 +5070,9 @@
         "final": false
     },
     {
-        "_id": 929285,
+        "id": 929285,
         "name": "Ukanlos Worldtraveler 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 380,
         "element": "Ice",
         "element_attack": 15,
@@ -5085,9 +5085,9 @@
         "final": true
     },
     {
-        "_id": 929537,
+        "id": 929537,
         "name": "Alatreon Dragonspire 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 180,
         "element": "Dragon",
         "element_attack": 24,
@@ -5100,9 +5100,9 @@
         "final": false
     },
     {
-        "_id": 929538,
+        "id": 929538,
         "name": "Alatreon Dragonspire 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 180,
         "element": "Dragon",
         "element_attack": 26,
@@ -5115,9 +5115,9 @@
         "final": false
     },
     {
-        "_id": 929539,
+        "id": 929539,
         "name": "Alatreon Embrace 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 180,
         "element": "Dragon",
         "element_attack": 28,
@@ -5130,9 +5130,9 @@
         "final": false
     },
     {
-        "_id": 929540,
+        "id": 929540,
         "name": "Alatreon Embrace 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 270,
         "element": "Dragon",
         "element_attack": 31,
@@ -5145,9 +5145,9 @@
         "final": false
     },
     {
-        "_id": 929541,
+        "id": 929541,
         "name": "Alatreon Godslayer 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 290,
         "element": "Dragon",
         "element_attack": 33,
@@ -5160,9 +5160,9 @@
         "final": true
     },
     {
-        "_id": 929793,
+        "id": 929793,
         "name": "Black Rod 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 100,
         "element": "Dragon",
         "element_attack": 29,
@@ -5175,9 +5175,9 @@
         "final": false
     },
     {
-        "_id": 929794,
+        "id": 929794,
         "name": "Black Rod 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 120,
         "element": "Dragon",
         "element_attack": 30,
@@ -5190,9 +5190,9 @@
         "final": false
     },
     {
-        "_id": 929795,
+        "id": 929795,
         "name": "Black Rod 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 130,
         "element": "Dragon",
         "element_attack": 32,
@@ -5205,9 +5205,9 @@
         "final": false
     },
     {
-        "_id": 929796,
+        "id": 929796,
         "name": "Black Rod 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 170,
         "element": "Dragon",
         "element_attack": 34,
@@ -5220,9 +5220,9 @@
         "final": false
     },
     {
-        "_id": 929797,
+        "id": 929797,
         "name": "Onyx Rod 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 200,
         "element": "Dragon",
         "element_attack": 35,
@@ -5235,9 +5235,9 @@
         "final": false
     },
     {
-        "_id": 929798,
+        "id": 929798,
         "name": "Onyx Rod 6",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 300,
         "element": "Dragon",
         "element_attack": 38,
@@ -5250,9 +5250,9 @@
         "final": false
     },
     {
-        "_id": 929799,
+        "id": 929799,
         "name": "Fatalis Glaive 7",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 330,
         "element": "Dragon",
         "element_attack": 40,
@@ -5265,9 +5265,9 @@
         "final": true
     },
     {
-        "_id": 930049,
+        "id": 930049,
         "name": "Push Broom 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 90,
         "element": "Ice",
         "element_attack": 6,
@@ -5280,9 +5280,9 @@
         "final": false
     },
     {
-        "_id": 930050,
+        "id": 930050,
         "name": "Push Broom 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 120,
         "element": "Ice",
         "element_attack": 8,
@@ -5295,9 +5295,9 @@
         "final": false
     },
     {
-        "_id": 930051,
+        "id": 930051,
         "name": "Push Broom 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 150,
         "element": "Ice",
         "element_attack": 10,
@@ -5310,9 +5310,9 @@
         "final": false
     },
     {
-        "_id": 930052,
+        "id": 930052,
         "name": "Stain Remover 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 170,
         "element": "Ice",
         "element_attack": 12,
@@ -5325,9 +5325,9 @@
         "final": false
     },
     {
-        "_id": 930053,
+        "id": 930053,
         "name": "Stain Remover 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 200,
         "element": "Ice",
         "element_attack": 14,
@@ -5340,9 +5340,9 @@
         "final": false
     },
     {
-        "_id": 930054,
+        "id": 930054,
         "name": "Filth Abolisher 6",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 290,
         "element": "Ice",
         "element_attack": 17,
@@ -5355,9 +5355,9 @@
         "final": true
     },
     {
-        "_id": 930305,
+        "id": 930305,
         "name": "Magia Pitareen 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 90,
         "element": "Blastblight",
         "element_attack": 10,
@@ -5370,9 +5370,9 @@
         "final": false
     },
     {
-        "_id": 930306,
+        "id": 930306,
         "name": "Magia Pitareen 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 110,
         "element": "Blastblight",
         "element_attack": 12,
@@ -5385,9 +5385,9 @@
         "final": false
     },
     {
-        "_id": 930307,
+        "id": 930307,
         "name": "Magia Pitareen 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 150,
         "element": "Blastblight",
         "element_attack": 13,
@@ -5400,9 +5400,9 @@
         "final": false
     },
     {
-        "_id": 930308,
+        "id": 930308,
         "name": "Magia Crescent 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 170,
         "element": "Blastblight",
         "element_attack": 15,
@@ -5415,9 +5415,9 @@
         "final": false
     },
     {
-        "_id": 930309,
+        "id": 930309,
         "name": "Magia Crescent 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 200,
         "element": "Blastblight",
         "element_attack": 17,
@@ -5430,9 +5430,9 @@
         "final": false
     },
     {
-        "_id": 930310,
+        "id": 930310,
         "name": "Magia Crescent 6",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 230,
         "element": "Blastblight",
         "element_attack": 18,
@@ -5445,9 +5445,9 @@
         "final": false
     },
     {
-        "_id": 930311,
+        "id": 930311,
         "name": "Magia Finale 7",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 290,
         "element": "Blastblight",
         "element_attack": 20,
@@ -5460,9 +5460,9 @@
         "final": true
     },
     {
-        "_id": 930561,
+        "id": 930561,
         "name": "Garia Club 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 120,
         "element": "Fire",
         "element_attack": 8,
@@ -5475,9 +5475,9 @@
         "final": false
     },
     {
-        "_id": 930562,
+        "id": 930562,
         "name": "Garia Club 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 140,
         "element": "Fire",
         "element_attack": 10,
@@ -5490,9 +5490,9 @@
         "final": false
     },
     {
-        "_id": 930563,
+        "id": 930563,
         "name": "Garia Chachamba 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 150,
         "element": "Fire",
         "element_attack": 12,
@@ -5505,9 +5505,9 @@
         "final": false
     },
     {
-        "_id": 930564,
+        "id": 930564,
         "name": "Garia Chachamba 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 180,
         "element": "Fire",
         "element_attack": 14,
@@ -5520,9 +5520,9 @@
         "final": false
     },
     {
-        "_id": 930565,
+        "id": 930565,
         "name": "Prime Garia 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 280,
         "element": "Fire",
         "element_attack": 16,
@@ -5535,9 +5535,9 @@
         "final": true
     },
     {
-        "_id": 930817,
+        "id": 930817,
         "name": "Acorn Rod 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 90,
         "element": "Paralysis",
         "element_attack": 22,
@@ -5550,9 +5550,9 @@
         "final": false
     },
     {
-        "_id": 930818,
+        "id": 930818,
         "name": "Acorn Rod 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 100,
         "element": "Paralysis",
         "element_attack": 24,
@@ -5565,9 +5565,9 @@
         "final": false
     },
     {
-        "_id": 930819,
+        "id": 930819,
         "name": "Acorn Rod 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 120,
         "element": "Paralysis",
         "element_attack": 25,
@@ -5580,9 +5580,9 @@
         "final": false
     },
     {
-        "_id": 930820,
+        "id": 930820,
         "name": "Meownster Club 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 140,
         "element": "Paralysis",
         "element_attack": 26,
@@ -5595,9 +5595,9 @@
         "final": false
     },
     {
-        "_id": 930821,
+        "id": 930821,
         "name": "Meownster Club 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 170,
         "element": "Paralysis",
         "element_attack": 28,
@@ -5610,9 +5610,9 @@
         "final": false
     },
     {
-        "_id": 930822,
+        "id": 930822,
         "name": "Meownster Masher 6",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 280,
         "element": "Paralysis",
         "element_attack": 30,
@@ -5625,9 +5625,9 @@
         "final": true
     },
     {
-        "_id": 931073,
+        "id": 931073,
         "name": "Deathport Staff 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 100,
         "element": "Dragon",
         "element_attack": 18,
@@ -5640,9 +5640,9 @@
         "final": false
     },
     {
-        "_id": 931074,
+        "id": 931074,
         "name": "Deathport Staff 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 120,
         "element": "Dragon",
         "element_attack": 20,
@@ -5655,9 +5655,9 @@
         "final": false
     },
     {
-        "_id": 931075,
+        "id": 931075,
         "name": "Deathport Staff 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 160,
         "element": "Dragon",
         "element_attack": 22,
@@ -5670,9 +5670,9 @@
         "final": false
     },
     {
-        "_id": 931076,
+        "id": 931076,
         "name": "Garamorse 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 180,
         "element": "Dragon",
         "element_attack": 25,
@@ -5685,9 +5685,9 @@
         "final": false
     },
     {
-        "_id": 931077,
+        "id": 931077,
         "name": "Garamorse 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 210,
         "element": "Dragon",
         "element_attack": 27,
@@ -5700,9 +5700,9 @@
         "final": false
     },
     {
-        "_id": 931078,
+        "id": 931078,
         "name": "Garamorse 6",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 240,
         "element": "Dragon",
         "element_attack": 29,
@@ -5715,9 +5715,9 @@
         "final": false
     },
     {
-        "_id": 931079,
+        "id": 931079,
         "name": "Darkmorse 7",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 300,
         "element": "Dragon",
         "element_attack": 31,
@@ -5730,9 +5730,9 @@
         "final": true
     },
     {
-        "_id": 931329,
+        "id": 931329,
         "name": "Stonefist Caster 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 100,
         "element": "Water",
         "element_attack": 10,
@@ -5745,9 +5745,9 @@
         "final": false
     },
     {
-        "_id": 931330,
+        "id": 931330,
         "name": "Stonefist Caster 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 110,
         "element": "Water",
         "element_attack": 11,
@@ -5760,9 +5760,9 @@
         "final": false
     },
     {
-        "_id": 931331,
+        "id": 931331,
         "name": "Stonefist Caster 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 120,
         "element": "Water",
         "element_attack": 12,
@@ -5775,9 +5775,9 @@
         "final": false
     },
     {
-        "_id": 931332,
+        "id": 931332,
         "name": "Stonefist Caster 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 130,
         "element": "Water",
         "element_attack": 13,
@@ -5790,9 +5790,9 @@
         "final": false
     },
     {
-        "_id": 931333,
+        "id": 931333,
         "name": "Stonefist Caster 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 140,
         "element": "Water",
         "element_attack": 14,
@@ -5805,9 +5805,9 @@
         "final": false
     },
     {
-        "_id": 931334,
+        "id": 931334,
         "name": "Stonefist Caster 6",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 150,
         "element": "Water",
         "element_attack": 15,
@@ -5820,9 +5820,9 @@
         "final": false
     },
     {
-        "_id": 931335,
+        "id": 931335,
         "name": "Stonefist Caster 7",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 160,
         "element": "Water",
         "element_attack": 16,
@@ -5835,9 +5835,9 @@
         "final": false
     },
     {
-        "_id": 931336,
+        "id": 931336,
         "name": "Stonefist Caster 8",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 170,
         "element": "Water",
         "element_attack": 17,
@@ -5850,9 +5850,9 @@
         "final": false
     },
     {
-        "_id": 931337,
+        "id": 931337,
         "name": "Stonefist Caster 9",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 180,
         "element": "Water",
         "element_attack": 18,
@@ -5865,9 +5865,9 @@
         "final": false
     },
     {
-        "_id": 931338,
+        "id": 931338,
         "name": "Black Stonefist Hurler 10",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 190,
         "element": "Water",
         "element_attack": 20,
@@ -5880,9 +5880,9 @@
         "final": false
     },
     {
-        "_id": 931339,
+        "id": 931339,
         "name": "Black Stonefist Hurler 11",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 210,
         "element": "Water",
         "element_attack": 22,
@@ -5895,9 +5895,9 @@
         "final": false
     },
     {
-        "_id": 931340,
+        "id": 931340,
         "name": "Black Stonefist Hurler 12",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 230,
         "element": "Water",
         "element_attack": 23,
@@ -5910,9 +5910,9 @@
         "final": false
     },
     {
-        "_id": 931341,
+        "id": 931341,
         "name": "Black Stonefist Hurler 13",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 300,
         "element": "Water",
         "element_attack": 24,
@@ -5925,9 +5925,9 @@
         "final": false
     },
     {
-        "_id": 931342,
+        "id": 931342,
         "name": "Black Stonefist Hurler 14",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 320,
         "element": "Water",
         "element_attack": 25,
@@ -5940,9 +5940,9 @@
         "final": false
     },
     {
-        "_id": 931343,
+        "id": 931343,
         "name": "Stonefist Flinger 15",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 340,
         "element": "Water",
         "element_attack": 26,
@@ -5955,9 +5955,9 @@
         "final": true
     },
     {
-        "_id": 931585,
+        "id": 931585,
         "name": "Nightfall Scythe 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 140,
         "element": "",
         "element_attack": 0,
@@ -5970,9 +5970,9 @@
         "final": false
     },
     {
-        "_id": 931586,
+        "id": 931586,
         "name": "Nightfall Scythe 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 140,
         "element": "",
         "element_attack": 0,
@@ -5985,9 +5985,9 @@
         "final": false
     },
     {
-        "_id": 931587,
+        "id": 931587,
         "name": "Nightfall Scythe 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 150,
         "element": "",
         "element_attack": 0,
@@ -6000,9 +6000,9 @@
         "final": false
     },
     {
-        "_id": 931588,
+        "id": 931588,
         "name": "Nightfall Scythe 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 160,
         "element": "",
         "element_attack": 0,
@@ -6015,9 +6015,9 @@
         "final": false
     },
     {
-        "_id": 931589,
+        "id": 931589,
         "name": "Nightfall Scythe 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 160,
         "element": "",
         "element_attack": 0,
@@ -6030,9 +6030,9 @@
         "final": false
     },
     {
-        "_id": 931590,
+        "id": 931590,
         "name": "Nightfall Scythe 6",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 170,
         "element": "",
         "element_attack": 0,
@@ -6045,9 +6045,9 @@
         "final": false
     },
     {
-        "_id": 931591,
+        "id": 931591,
         "name": "Nightfall Scythe 7",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 180,
         "element": "",
         "element_attack": 0,
@@ -6060,9 +6060,9 @@
         "final": false
     },
     {
-        "_id": 931592,
+        "id": 931592,
         "name": "Nightfall Scythe 8",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 180,
         "element": "",
         "element_attack": 0,
@@ -6075,9 +6075,9 @@
         "final": false
     },
     {
-        "_id": 931593,
+        "id": 931593,
         "name": "Nightfall Scythe 9",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 190,
         "element": "",
         "element_attack": 0,
@@ -6090,9 +6090,9 @@
         "final": false
     },
     {
-        "_id": 931594,
+        "id": 931594,
         "name": "Morning Calm 10",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 190,
         "element": "",
         "element_attack": 0,
@@ -6105,9 +6105,9 @@
         "final": false
     },
     {
-        "_id": 931595,
+        "id": 931595,
         "name": "Morning Calm 11",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 220,
         "element": "",
         "element_attack": 0,
@@ -6120,9 +6120,9 @@
         "final": false
     },
     {
-        "_id": 931596,
+        "id": 931596,
         "name": "Morning Calm 12",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 240,
         "element": "",
         "element_attack": 0,
@@ -6135,9 +6135,9 @@
         "final": false
     },
     {
-        "_id": 931597,
+        "id": 931597,
         "name": "Morning Calm 13",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 260,
         "element": "",
         "element_attack": 0,
@@ -6150,9 +6150,9 @@
         "final": false
     },
     {
-        "_id": 931598,
+        "id": 931598,
         "name": "Morning Calm 14",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 280,
         "element": "",
         "element_attack": 0,
@@ -6165,9 +6165,9 @@
         "final": false
     },
     {
-        "_id": 931599,
+        "id": 931599,
         "name": "Mistral Scythe 15",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 300,
         "element": "",
         "element_attack": 0,
@@ -6180,9 +6180,9 @@
         "final": true
     },
     {
-        "_id": 931841,
+        "id": 931841,
         "name": "Grobo Blow 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 150,
         "element": "",
         "element_attack": 0,
@@ -6195,9 +6195,9 @@
         "final": false
     },
     {
-        "_id": 931842,
+        "id": 931842,
         "name": "Grobo Blow 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 150,
         "element": "",
         "element_attack": 0,
@@ -6210,9 +6210,9 @@
         "final": false
     },
     {
-        "_id": 931843,
+        "id": 931843,
         "name": "Grobo Blow 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 160,
         "element": "",
         "element_attack": 0,
@@ -6225,9 +6225,9 @@
         "final": false
     },
     {
-        "_id": 931844,
+        "id": 931844,
         "name": "Grobo Blow 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 170,
         "element": "",
         "element_attack": 0,
@@ -6240,9 +6240,9 @@
         "final": false
     },
     {
-        "_id": 931845,
+        "id": 931845,
         "name": "Grobo Blow 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 180,
         "element": "",
         "element_attack": 0,
@@ -6255,9 +6255,9 @@
         "final": false
     },
     {
-        "_id": 931846,
+        "id": 931846,
         "name": "Grobo Blow 6",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 180,
         "element": "",
         "element_attack": 0,
@@ -6270,9 +6270,9 @@
         "final": false
     },
     {
-        "_id": 931847,
+        "id": 931847,
         "name": "Grobo Blow 7",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 190,
         "element": "",
         "element_attack": 0,
@@ -6285,9 +6285,9 @@
         "final": false
     },
     {
-        "_id": 931848,
+        "id": 931848,
         "name": "Grobo Blow 8",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 200,
         "element": "",
         "element_attack": 0,
@@ -6300,9 +6300,9 @@
         "final": false
     },
     {
-        "_id": 931849,
+        "id": 931849,
         "name": "Grobo Blow 9",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 210,
         "element": "",
         "element_attack": 0,
@@ -6315,9 +6315,9 @@
         "final": false
     },
     {
-        "_id": 931850,
+        "id": 931850,
         "name": "Grobo Blow Zeta 10",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 220,
         "element": "",
         "element_attack": 0,
@@ -6330,9 +6330,9 @@
         "final": false
     },
     {
-        "_id": 931851,
+        "id": 931851,
         "name": "Grobo Blow Zeta 11",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 300,
         "element": "",
         "element_attack": 0,
@@ -6345,9 +6345,9 @@
         "final": false
     },
     {
-        "_id": 931852,
+        "id": 931852,
         "name": "Grobo Blow Zeta 12",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 330,
         "element": "",
         "element_attack": 0,
@@ -6360,9 +6360,9 @@
         "final": false
     },
     {
-        "_id": 931853,
+        "id": 931853,
         "name": "Grobo Blow Zeta 13",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 350,
         "element": "",
         "element_attack": 0,
@@ -6375,9 +6375,9 @@
         "final": false
     },
     {
-        "_id": 931854,
+        "id": 931854,
         "name": "Grobo Blow Zeta 14",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 370,
         "element": "",
         "element_attack": 0,
@@ -6390,9 +6390,9 @@
         "final": false
     },
     {
-        "_id": 931855,
+        "id": 931855,
         "name": "Grobo Blow Diamante 15",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 380,
         "element": "",
         "element_attack": 0,
@@ -6405,9 +6405,9 @@
         "final": true
     },
     {
-        "_id": 932097,
+        "id": 932097,
         "name": "Ashen Teuza 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 170,
         "element": "Blastblight",
         "element_attack": 21,
@@ -6420,9 +6420,9 @@
         "final": false
     },
     {
-        "_id": 932098,
+        "id": 932098,
         "name": "Ashen Teuza 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 170,
         "element": "Blastblight",
         "element_attack": 22,
@@ -6435,9 +6435,9 @@
         "final": false
     },
     {
-        "_id": 932099,
+        "id": 932099,
         "name": "Ashen Teuza 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 170,
         "element": "Blastblight",
         "element_attack": 23,
@@ -6450,9 +6450,9 @@
         "final": false
     },
     {
-        "_id": 932100,
+        "id": 932100,
         "name": "Ashen Teuza 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 180,
         "element": "Blastblight",
         "element_attack": 24,
@@ -6465,9 +6465,9 @@
         "final": false
     },
     {
-        "_id": 932101,
+        "id": 932101,
         "name": "Ashen Teuza 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 180,
         "element": "Blastblight",
         "element_attack": 25,
@@ -6480,9 +6480,9 @@
         "final": false
     },
     {
-        "_id": 932102,
+        "id": 932102,
         "name": "Ashen Teuza 6",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 180,
         "element": "Blastblight",
         "element_attack": 26,
@@ -6495,9 +6495,9 @@
         "final": false
     },
     {
-        "_id": 932103,
+        "id": 932103,
         "name": "Ashen Teuza 7",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 190,
         "element": "Blastblight",
         "element_attack": 27,
@@ -6510,9 +6510,9 @@
         "final": false
     },
     {
-        "_id": 932104,
+        "id": 932104,
         "name": "Ashen Teuza 8",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 190,
         "element": "Blastblight",
         "element_attack": 28,
@@ -6525,9 +6525,9 @@
         "final": false
     },
     {
-        "_id": 932105,
+        "id": 932105,
         "name": "Ashen Teuza 9",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 190,
         "element": "Blastblight",
         "element_attack": 29,
@@ -6540,9 +6540,9 @@
         "final": false
     },
     {
-        "_id": 932106,
+        "id": 932106,
         "name": "Ashen Helldait 10",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 200,
         "element": "Blastblight",
         "element_attack": 30,
@@ -6555,9 +6555,9 @@
         "final": false
     },
     {
-        "_id": 932107,
+        "id": 932107,
         "name": "Ashen Helldait 11",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 260,
         "element": "Blastblight",
         "element_attack": 38,
@@ -6570,9 +6570,9 @@
         "final": false
     },
     {
-        "_id": 932108,
+        "id": 932108,
         "name": "Ashen Helldait 12",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 270,
         "element": "Blastblight",
         "element_attack": 39,
@@ -6585,9 +6585,9 @@
         "final": false
     },
     {
-        "_id": 932109,
+        "id": 932109,
         "name": "Ashen Helldait 13",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 280,
         "element": "Blastblight",
         "element_attack": 40,
@@ -6600,9 +6600,9 @@
         "final": false
     },
     {
-        "_id": 932110,
+        "id": 932110,
         "name": "Ashen Helldait 14",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 290,
         "element": "Blastblight",
         "element_attack": 41,
@@ -6615,9 +6615,9 @@
         "final": false
     },
     {
-        "_id": 932111,
+        "id": 932111,
         "name": "Ashen Helldait Nova 15",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 300,
         "element": "Blastblight",
         "element_attack": 42,
@@ -6630,9 +6630,9 @@
         "final": true
     },
     {
-        "_id": 932353,
+        "id": 932353,
         "name": "Conviction Glaive J 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 160,
         "element": "",
         "element_attack": 0,
@@ -6645,9 +6645,9 @@
         "final": false
     },
     {
-        "_id": 932354,
+        "id": 932354,
         "name": "Conviction Glaive J 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 180,
         "element": "",
         "element_attack": 0,
@@ -6660,9 +6660,9 @@
         "final": false
     },
     {
-        "_id": 932355,
+        "id": 932355,
         "name": "Condemnation Glaive J 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 200,
         "element": "",
         "element_attack": 0,
@@ -6675,9 +6675,9 @@
         "final": false
     },
     {
-        "_id": 932356,
+        "id": 932356,
         "name": "Condemnation Glaive J 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 270,
         "element": "",
         "element_attack": 0,
@@ -6690,9 +6690,9 @@
         "final": false
     },
     {
-        "_id": 932357,
+        "id": 932357,
         "name": "Judgment Glaive 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 330,
         "element": "",
         "element_attack": 0,
@@ -6705,9 +6705,9 @@
         "final": true
     },
     {
-        "_id": 932609,
+        "id": 932609,
         "name": "Aladdin's Wand 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 150,
         "element": "Thunder",
         "element_attack": 26,
@@ -6720,9 +6720,9 @@
         "final": false
     },
     {
-        "_id": 932610,
+        "id": 932610,
         "name": "Aladdin's Wand 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 160,
         "element": "Thunder",
         "element_attack": 28,
@@ -6735,9 +6735,9 @@
         "final": false
     },
     {
-        "_id": 932611,
+        "id": 932611,
         "name": "Aladdin's Wand X 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 170,
         "element": "Thunder",
         "element_attack": 30,
@@ -6750,9 +6750,9 @@
         "final": false
     },
     {
-        "_id": 932612,
+        "id": 932612,
         "name": "Aladdin's Wand X 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 250,
         "element": "Thunder",
         "element_attack": 32,
@@ -6765,9 +6765,9 @@
         "final": false
     },
     {
-        "_id": 932613,
+        "id": 932613,
         "name": "Aladdin's Wand XX 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 290,
         "element": "Thunder",
         "element_attack": 35,
@@ -6780,9 +6780,9 @@
         "final": true
     },
     {
-        "_id": 932865,
+        "id": 932865,
         "name": "Spear of the Beast 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 140,
         "element": "Dragon",
         "element_attack": 36,
@@ -6795,9 +6795,9 @@
         "final": false
     },
     {
-        "_id": 932866,
+        "id": 932866,
         "name": "Spear of the Beast 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 150,
         "element": "Dragon",
         "element_attack": 38,
@@ -6810,9 +6810,9 @@
         "final": false
     },
     {
-        "_id": 932867,
+        "id": 932867,
         "name": "Spear of Rebirth 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 160,
         "element": "Dragon",
         "element_attack": 40,
@@ -6825,9 +6825,9 @@
         "final": false
     },
     {
-        "_id": 932868,
+        "id": 932868,
         "name": "Spear of Rebirth 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 250,
         "element": "Dragon",
         "element_attack": 42,
@@ -6840,9 +6840,9 @@
         "final": false
     },
     {
-        "_id": 932869,
+        "id": 932869,
         "name": "True Beast Spear 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 300,
         "element": "Dragon",
         "element_attack": 45,
@@ -6855,9 +6855,9 @@
         "final": true
     },
     {
-        "_id": 933121,
+        "id": 933121,
         "name": "Goldglaive 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 310,
         "element": "",
         "element_attack": 0,
@@ -6870,9 +6870,9 @@
         "final": false
     },
     {
-        "_id": 933122,
+        "id": 933122,
         "name": "Inscribed Aset 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 320,
         "element": "",
         "element_attack": 0,
@@ -6885,9 +6885,9 @@
         "final": false
     },
     {
-        "_id": 933123,
+        "id": 933123,
         "name": "Mehet-Uret 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 330,
         "element": "",
         "element_attack": 0,
@@ -6900,9 +6900,9 @@
         "final": true
     },
     {
-        "_id": 933377,
+        "id": 933377,
         "name": "Silverwing Glaive 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 150,
         "element": "Dragon",
         "element_attack": 35,
@@ -6915,9 +6915,9 @@
         "final": false
     },
     {
-        "_id": 933378,
+        "id": 933378,
         "name": "Dragonstar Shuma 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 170,
         "element": "Dragon",
         "element_attack": 37,
@@ -6930,9 +6930,9 @@
         "final": false
     },
     {
-        "_id": 933379,
+        "id": 933379,
         "name": "Dragonstar Shuma 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 210,
         "element": "Dragon",
         "element_attack": 39,
@@ -6945,9 +6945,9 @@
         "final": false
     },
     {
-        "_id": 933380,
+        "id": 933380,
         "name": "Dragonstar Shuma 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 240,
         "element": "Dragon",
         "element_attack": 41,
@@ -6960,9 +6960,9 @@
         "final": false
     },
     {
-        "_id": 933381,
+        "id": 933381,
         "name": "Dragonstar Shuma 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 260,
         "element": "Dragon",
         "element_attack": 43,
@@ -6975,9 +6975,9 @@
         "final": false
     },
     {
-        "_id": 933382,
+        "id": 933382,
         "name": "Magnastar Lev 6",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 280,
         "element": "Dragon",
         "element_attack": 45,
@@ -6990,9 +6990,9 @@
         "final": true
     },
     {
-        "_id": 933633,
+        "id": 933633,
         "name": "Boltreaver Glaive 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 230,
         "element": "Thunder",
         "element_attack": 16,
@@ -7005,9 +7005,9 @@
         "final": false
     },
     {
-        "_id": 933634,
+        "id": 933634,
         "name": "Boltreaver Glaive 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 240,
         "element": "Thunder",
         "element_attack": 17,
@@ -7020,9 +7020,9 @@
         "final": false
     },
     {
-        "_id": 933635,
+        "id": 933635,
         "name": "Boltreaver Pinnacle 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 250,
         "element": "Thunder",
         "element_attack": 18,
@@ -7035,9 +7035,9 @@
         "final": false
     },
     {
-        "_id": 933636,
+        "id": 933636,
         "name": "Boltreaver Pinnacle 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 270,
         "element": "Thunder",
         "element_attack": 19,
@@ -7050,9 +7050,9 @@
         "final": false
     },
     {
-        "_id": 933637,
+        "id": 933637,
         "name": "Boltreaver Unbound 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 290,
         "element": "Thunder",
         "element_attack": 20,
@@ -7065,9 +7065,9 @@
         "final": true
     },
     {
-        "_id": 933889,
+        "id": 933889,
         "name": "Melancholy 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 240,
         "element": "Water",
         "element_attack": 23,
@@ -7080,9 +7080,9 @@
         "final": false
     },
     {
-        "_id": 933890,
+        "id": 933890,
         "name": "Melancholy 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 260,
         "element": "Water",
         "element_attack": 24,
@@ -7095,9 +7095,9 @@
         "final": false
     },
     {
-        "_id": 933891,
+        "id": 933891,
         "name": "Lingering Butterfly 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 280,
         "element": "Water",
         "element_attack": 25,
@@ -7110,9 +7110,9 @@
         "final": false
     },
     {
-        "_id": 933892,
+        "id": 933892,
         "name": "Lingering Butterfly 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 300,
         "element": "Water",
         "element_attack": 26,
@@ -7125,9 +7125,9 @@
         "final": false
     },
     {
-        "_id": 933893,
+        "id": 933893,
         "name": "Fleeting Existence 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 320,
         "element": "Water",
         "element_attack": 27,
@@ -7140,9 +7140,9 @@
         "final": true
     },
     {
-        "_id": 934145,
+        "id": 934145,
         "name": "Elderfrost Club 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 340,
         "element": "Ice",
         "element_attack": 21,
@@ -7155,9 +7155,9 @@
         "final": false
     },
     {
-        "_id": 934146,
+        "id": 934146,
         "name": "Elderfrost Club 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 350,
         "element": "Ice",
         "element_attack": 22,
@@ -7170,9 +7170,9 @@
         "final": false
     },
     {
-        "_id": 934147,
+        "id": 934147,
         "name": "Elderfrost Bludgeon 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 360,
         "element": "Ice",
         "element_attack": 23,
@@ -7185,9 +7185,9 @@
         "final": false
     },
     {
-        "_id": 934148,
+        "id": 934148,
         "name": "Elderfrost Bludgeon 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 370,
         "element": "Ice",
         "element_attack": 24,
@@ -7200,9 +7200,9 @@
         "final": false
     },
     {
-        "_id": 934149,
+        "id": 934149,
         "name": "Elderfrost Gambado 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 380,
         "element": "Ice",
         "element_attack": 25,
@@ -7215,9 +7215,9 @@
         "final": true
     },
     {
-        "_id": 934401,
+        "id": 934401,
         "name": "Massacre Rod 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 330,
         "element": "",
         "element_attack": 0,
@@ -7230,9 +7230,9 @@
         "final": false
     },
     {
-        "_id": 934402,
+        "id": 934402,
         "name": "Massacre Rod 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 340,
         "element": "",
         "element_attack": 0,
@@ -7245,9 +7245,9 @@
         "final": false
     },
     {
-        "_id": 934403,
+        "id": 934403,
         "name": "Massacre Mace 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 350,
         "element": "",
         "element_attack": 0,
@@ -7260,9 +7260,9 @@
         "final": false
     },
     {
-        "_id": 934404,
+        "id": 934404,
         "name": "Massacre Mace 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 360,
         "element": "",
         "element_attack": 0,
@@ -7275,9 +7275,9 @@
         "final": false
     },
     {
-        "_id": 934405,
+        "id": 934405,
         "name": "Bai Qi 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 370,
         "element": "",
         "element_attack": 0,
@@ -7290,9 +7290,9 @@
         "final": true
     },
     {
-        "_id": 934657,
+        "id": 934657,
         "name": "Razor Reaper 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 250,
         "element": "",
         "element_attack": 0,
@@ -7305,9 +7305,9 @@
         "final": false
     },
     {
-        "_id": 934658,
+        "id": 934658,
         "name": "Razor Reaper 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 270,
         "element": "",
         "element_attack": 0,
@@ -7320,9 +7320,9 @@
         "final": false
     },
     {
-        "_id": 934659,
+        "id": 934659,
         "name": "Headlong Reaper 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 290,
         "element": "",
         "element_attack": 0,
@@ -7335,9 +7335,9 @@
         "final": false
     },
     {
-        "_id": 934660,
+        "id": 934660,
         "name": "Headlong Reaper 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 310,
         "element": "",
         "element_attack": 0,
@@ -7350,9 +7350,9 @@
         "final": false
     },
     {
-        "_id": 934661,
+        "id": 934661,
         "name": "Rustrazor Reaper 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 330,
         "element": "",
         "element_attack": 0,
@@ -7365,9 +7365,9 @@
         "final": true
     },
     {
-        "_id": 934913,
+        "id": 934913,
         "name": "True Fatalis Teni 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 280,
         "element": "Dragon",
         "element_attack": 43,
@@ -7380,9 +7380,9 @@
         "final": false
     },
     {
-        "_id": 934914,
+        "id": 934914,
         "name": "True Fatalis Tenyu 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 290,
         "element": "Dragon",
         "element_attack": 45,
@@ -7395,9 +7395,9 @@
         "final": false
     },
     {
-        "_id": 934915,
+        "id": 934915,
         "name": "True Fatalis Dyaus 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 310,
         "element": "Dragon",
         "element_attack": 48,
@@ -7410,9 +7410,9 @@
         "final": true
     },
     {
-        "_id": 935169,
+        "id": 935169,
         "name": "Ruiner Glaive 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 310,
         "element": "Blastblight",
         "element_attack": 52,
@@ -7425,9 +7425,9 @@
         "final": false
     },
     {
-        "_id": 935170,
+        "id": 935170,
         "name": "True Ruiner Glaive 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 320,
         "element": "Blastblight",
         "element_attack": 53,
@@ -7440,9 +7440,9 @@
         "final": false
     },
     {
-        "_id": 935171,
+        "id": 935171,
         "name": "Absolute Ruiner Glaive 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 330,
         "element": "Blastblight",
         "element_attack": 55,
@@ -7455,9 +7455,9 @@
         "final": true
     },
     {
-        "_id": 935425,
+        "id": 935425,
         "name": "Fatalis Soldier 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 290,
         "element": "Thunder",
         "element_attack": 42,
@@ -7470,9 +7470,9 @@
         "final": false
     },
     {
-        "_id": 935426,
+        "id": 935426,
         "name": "Fatalis Enforcer 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 310,
         "element": "Thunder",
         "element_attack": 43,
@@ -7485,9 +7485,9 @@
         "final": false
     },
     {
-        "_id": 935427,
+        "id": 935427,
         "name": "Fatalis Overlord 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 330,
         "element": "Thunder",
         "element_attack": 45,
@@ -7500,9 +7500,9 @@
         "final": true
     },
     {
-        "_id": 935681,
+        "id": 935681,
         "name": "Lightbreak Press 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 260,
         "element": "Blastblight",
         "element_attack": 40,
@@ -7515,9 +7515,9 @@
         "final": false
     },
     {
-        "_id": 935682,
+        "id": 935682,
         "name": "Lightbreak Furnace 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 270,
         "element": "Blastblight",
         "element_attack": 42,
@@ -7530,9 +7530,9 @@
         "final": false
     },
     {
-        "_id": 935683,
+        "id": 935683,
         "name": "Lightbreak Scoria 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 290,
         "element": "Blastblight",
         "element_attack": 45,
@@ -7545,9 +7545,9 @@
         "final": true
     },
     {
-        "_id": 935937,
+        "id": 935937,
         "name": "List/Confiance 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 300,
         "element": "Dragon",
         "element_attack": 7,
@@ -7560,9 +7560,9 @@
         "final": false
     },
     {
-        "_id": 935938,
+        "id": 935938,
         "name": "Bruch/Logique 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 310,
         "element": "Dragon",
         "element_attack": 8,
@@ -7575,9 +7575,9 @@
         "final": false
     },
     {
-        "_id": 935939,
+        "id": 935939,
         "name": "Wehmut/Merveille 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 330,
         "element": "Dragon",
         "element_attack": 9,
@@ -7590,9 +7590,9 @@
         "final": true
     },
     {
-        "_id": 936193,
+        "id": 936193,
         "name": "Graviafaren 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 200,
         "element": "Fire",
         "element_attack": 20,
@@ -7605,9 +7605,9 @@
         "final": false
     },
     {
-        "_id": 936194,
+        "id": 936194,
         "name": "Gravordius 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 220,
         "element": "Fire",
         "element_attack": 22,
@@ -7620,9 +7620,9 @@
         "final": false
     },
     {
-        "_id": 936195,
+        "id": 936195,
         "name": "Gravordius 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 290,
         "element": "Fire",
         "element_attack": 25,
@@ -7635,9 +7635,9 @@
         "final": false
     },
     {
-        "_id": 936196,
+        "id": 936196,
         "name": "Gravordius 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 310,
         "element": "Fire",
         "element_attack": 27,
@@ -7650,9 +7650,9 @@
         "final": false
     },
     {
-        "_id": 936197,
+        "id": 936197,
         "name": "Gravid Wyvern 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 330,
         "element": "Fire",
         "element_attack": 30,
@@ -7665,9 +7665,9 @@
         "final": true
     },
     {
-        "_id": 936449,
+        "id": 936449,
         "name": "Diablos Rod 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 210,
         "element": "",
         "element_attack": 0,
@@ -7680,9 +7680,9 @@
         "final": false
     },
     {
-        "_id": 936450,
+        "id": 936450,
         "name": "Tyrant Rod 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 230,
         "element": "",
         "element_attack": 0,
@@ -7695,9 +7695,9 @@
         "final": false
     },
     {
-        "_id": 936451,
+        "id": 936451,
         "name": "Tyrant Rod 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 310,
         "element": "",
         "element_attack": 0,
@@ -7710,9 +7710,9 @@
         "final": false
     },
     {
-        "_id": 936452,
+        "id": 936452,
         "name": "Tyrant Rod 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 330,
         "element": "",
         "element_attack": 0,
@@ -7725,9 +7725,9 @@
         "final": false
     },
     {
-        "_id": 936453,
+        "id": 936453,
         "name": "Horned Tyrant 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 350,
         "element": "",
         "element_attack": 0,
@@ -7740,9 +7740,9 @@
         "final": true
     },
     {
-        "_id": 936705,
+        "id": 936705,
         "name": "Stealth Glaive 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 160,
         "element": "Poison",
         "element_attack": 18,
@@ -7755,9 +7755,9 @@
         "final": false
     },
     {
-        "_id": 936706,
+        "id": 936706,
         "name": "Stealth Glaive 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 170,
         "element": "Poison",
         "element_attack": 20,
@@ -7770,9 +7770,9 @@
         "final": false
     },
     {
-        "_id": 936707,
+        "id": 936707,
         "name": "Stealth Glaive Redux 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 190,
         "element": "Poison",
         "element_attack": 22,
@@ -7785,9 +7785,9 @@
         "final": false
     },
     {
-        "_id": 936708,
+        "id": 936708,
         "name": "Stealth Glaive Redux 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 250,
         "element": "Poison",
         "element_attack": 24,
@@ -7800,9 +7800,9 @@
         "final": false
     },
     {
-        "_id": 936709,
+        "id": 936709,
         "name": "Stealth Glaive Redux 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 280,
         "element": "Poison",
         "element_attack": 26,
@@ -7815,9 +7815,9 @@
         "final": false
     },
     {
-        "_id": 936710,
+        "id": 936710,
         "name": "Shadow Walker 6",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 300,
         "element": "Poison",
         "element_attack": 29,
@@ -7830,9 +7830,9 @@
         "final": true
     },
     {
-        "_id": 936961,
+        "id": 936961,
         "name": "Assault Glaive 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 230,
         "element": "Sleep",
         "element_attack": 23,
@@ -7845,9 +7845,9 @@
         "final": false
     },
     {
-        "_id": 936962,
+        "id": 936962,
         "name": "Forewalker 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 250,
         "element": "Sleep",
         "element_attack": 24,
@@ -7860,9 +7860,9 @@
         "final": false
     },
     {
-        "_id": 936963,
+        "id": 936963,
         "name": "Nercharybdis 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 270,
         "element": "Sleep",
         "element_attack": 25,
@@ -7875,9 +7875,9 @@
         "final": true
     },
     {
-        "_id": 937217,
+        "id": 937217,
         "name": "Stratus Arc 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 320,
         "element": "Water",
         "element_attack": 14,
@@ -7890,9 +7890,9 @@
         "final": false
     },
     {
-        "_id": 937218,
+        "id": 937218,
         "name": "Cirrus Tears 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 340,
         "element": "Water",
         "element_attack": 16,
@@ -7905,9 +7905,9 @@
         "final": false
     },
     {
-        "_id": 937219,
+        "id": 937219,
         "name": "Empyrean Storm 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 360,
         "element": "Water",
         "element_attack": 18,
@@ -7920,9 +7920,9 @@
         "final": true
     },
     {
-        "_id": 937473,
+        "id": 937473,
         "name": "Blossomajesty 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 250,
         "element": "Fire",
         "element_attack": 44,
@@ -7935,9 +7935,9 @@
         "final": false
     },
     {
-        "_id": 937474,
+        "id": 937474,
         "name": "Universus 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 270,
         "element": "Fire",
         "element_attack": 46,
@@ -7950,9 +7950,9 @@
         "final": false
     },
     {
-        "_id": 937475,
+        "id": 937475,
         "name": "Dragonebula 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 300,
         "element": "Fire",
         "element_attack": 48,
@@ -7965,9 +7965,9 @@
         "final": true
     },
     {
-        "_id": 937729,
+        "id": 937729,
         "name": "Boltbrute 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 240,
         "element": "Thunder",
         "element_attack": 47,
@@ -7980,9 +7980,9 @@
         "final": false
     },
     {
-        "_id": 937730,
+        "id": 937730,
         "name": "King Boltbrute 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 270,
         "element": "Thunder",
         "element_attack": 50,
@@ -7995,9 +7995,9 @@
         "final": false
     },
     {
-        "_id": 937731,
+        "id": 937731,
         "name": "Emperor Boltbrute 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 290,
         "element": "Thunder",
         "element_attack": 52,
@@ -8010,9 +8010,9 @@
         "final": true
     },
     {
-        "_id": 937985,
+        "id": 937985,
         "name": "Research Glaive 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 180,
         "element": "",
         "element_attack": 0,
@@ -8025,9 +8025,9 @@
         "final": false
     },
     {
-        "_id": 937986,
+        "id": 937986,
         "name": "Discovery Glaive 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 200,
         "element": "",
         "element_attack": 0,
@@ -8040,9 +8040,9 @@
         "final": false
     },
     {
-        "_id": 937987,
+        "id": 937987,
         "name": "Discovery Glaive 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 230,
         "element": "",
         "element_attack": 0,
@@ -8055,9 +8055,9 @@
         "final": false
     },
     {
-        "_id": 937988,
+        "id": 937988,
         "name": "Discovery Glaive 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 280,
         "element": "",
         "element_attack": 0,
@@ -8070,9 +8070,9 @@
         "final": false
     },
     {
-        "_id": 937989,
+        "id": 937989,
         "name": "Authority Horizon 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 300,
         "element": "",
         "element_attack": 0,
@@ -8085,9 +8085,9 @@
         "final": true
     },
     {
-        "_id": 938241,
+        "id": 938241,
         "name": "Eldora Scepter 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 150,
         "element": "",
         "element_attack": 0,
@@ -8100,9 +8100,9 @@
         "final": false
     },
     {
-        "_id": 938242,
+        "id": 938242,
         "name": "Bygone Scepter 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 170,
         "element": "",
         "element_attack": 0,
@@ -8115,9 +8115,9 @@
         "final": false
     },
     {
-        "_id": 938243,
+        "id": 938243,
         "name": "Bygone Scepter 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 200,
         "element": "",
         "element_attack": 0,
@@ -8130,9 +8130,9 @@
         "final": false
     },
     {
-        "_id": 938244,
+        "id": 938244,
         "name": "Bygone Scepter 4",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 250,
         "element": "",
         "element_attack": 0,
@@ -8145,9 +8145,9 @@
         "final": false
     },
     {
-        "_id": 938245,
+        "id": 938245,
         "name": "Pride of Agaltia 5",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 290,
         "element": "",
         "element_attack": 0,
@@ -8160,9 +8160,9 @@
         "final": true
     },
     {
-        "_id": 938497,
+        "id": 938497,
         "name": "Elder Rod 1",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 260,
         "element": "",
         "element_attack": 0,
@@ -8175,9 +8175,9 @@
         "final": false
     },
     {
-        "_id": 938498,
+        "id": 938498,
         "name": "Sage Rod 2",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 280,
         "element": "",
         "element_attack": 0,
@@ -8190,9 +8190,9 @@
         "final": false
     },
     {
-        "_id": 938499,
+        "id": 938499,
         "name": "Philosopher Rod 3",
-        "wtype": "Insect Glaive",
+        "type": "Insect Glaive",
         "attack": 320,
         "element": "",
         "element_attack": 0,

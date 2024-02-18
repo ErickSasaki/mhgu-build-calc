@@ -2,9 +2,9 @@ import { WeaponSpecialAttacks } from "./weapon-speacial-attack";
 import { WeaponTypes } from "./weapon-type";
 
 export interface WeaponModel {
-    _id: number;
+    id: number;
     name: string;
-    wtype: WeaponTypes;
+    type: WeaponTypes;
     attack: number;
     element: WeaponSpecialAttacks;
     element_attack: number;

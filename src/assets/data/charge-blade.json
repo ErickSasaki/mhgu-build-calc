@@ -1,8 +1,8 @@
 [
     {
-        "_id": 983297,
+        "id": 983297,
         "name": "Petrified Strongarm 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 60,
         "element": "",
         "element_attack": 0,
@@ -15,9 +15,9 @@
         "final": false
     },
     {
-        "_id": 983298,
+        "id": 983298,
         "name": "Petrified Strongarm 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 80,
         "element": "",
         "element_attack": 0,
@@ -30,9 +30,9 @@
         "final": false
     },
     {
-        "_id": 983299,
+        "id": 983299,
         "name": "Petrified Strongarm 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 90,
         "element": "",
         "element_attack": 0,
@@ -45,9 +45,9 @@
         "final": false
     },
     {
-        "_id": 983300,
+        "id": 983300,
         "name": "Petrified Strongarm 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 100,
         "element": "",
         "element_attack": 0,
@@ -60,9 +60,9 @@
         "final": false
     },
     {
-        "_id": 983301,
+        "id": 983301,
         "name": "Petrified Strongarm 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 110,
         "element": "",
         "element_attack": 0,
@@ -75,9 +75,9 @@
         "final": false
     },
     {
-        "_id": 983302,
+        "id": 983302,
         "name": "Petrified Strongarm 6",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 140,
         "element": "",
         "element_attack": 0,
@@ -90,9 +90,9 @@
         "final": false
     },
     {
-        "_id": 983303,
+        "id": 983303,
         "name": "Petrified Strongarm 7",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 170,
         "element": "",
         "element_attack": 0,
@@ -105,9 +105,9 @@
         "final": false
     },
     {
-        "_id": 983304,
+        "id": 983304,
         "name": "Scholarly Strongarm 8",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 210,
         "element": "",
         "element_attack": 0,
@@ -120,9 +120,9 @@
         "final": false
     },
     {
-        "_id": 983305,
+        "id": 983305,
         "name": "Scholarly Strongarm 9",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 240,
         "element": "",
         "element_attack": 0,
@@ -135,9 +135,9 @@
         "final": false
     },
     {
-        "_id": 983306,
+        "id": 983306,
         "name": "Scholarly Strongarm 10",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 290,
         "element": "",
         "element_attack": 0,
@@ -150,9 +150,9 @@
         "final": false
     },
     {
-        "_id": 983307,
+        "id": 983307,
         "name": "Sophos Strongarm 11",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 320,
         "element": "",
         "element_attack": 0,
@@ -165,9 +165,9 @@
         "final": true
     },
     {
-        "_id": 983553,
+        "id": 983553,
         "name": "Obsidian Strongarm 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 140,
         "element": "",
         "element_attack": 0,
@@ -180,9 +180,9 @@
         "final": false
     },
     {
-        "_id": 983554,
+        "id": 983554,
         "name": "Obsidian Strongarm 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 150,
         "element": "",
         "element_attack": 0,
@@ -195,9 +195,9 @@
         "final": false
     },
     {
-        "_id": 983555,
+        "id": 983555,
         "name": "Obsidian Strongarm 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 160,
         "element": "",
         "element_attack": 0,
@@ -210,9 +210,9 @@
         "final": false
     },
     {
-        "_id": 983556,
+        "id": 983556,
         "name": "Obsidian Strongarm 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 180,
         "element": "",
         "element_attack": 0,
@@ -225,9 +225,9 @@
         "final": false
     },
     {
-        "_id": 983557,
+        "id": 983557,
         "name": "Obsidian Strongarm 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 200,
         "element": "",
         "element_attack": 0,
@@ -240,9 +240,9 @@
         "final": false
     },
     {
-        "_id": 983558,
+        "id": 983558,
         "name": "Relic Blade 6",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 220,
         "element": "",
         "element_attack": 0,
@@ -255,9 +255,9 @@
         "final": false
     },
     {
-        "_id": 983559,
+        "id": 983559,
         "name": "Relic Blade 7",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 280,
         "element": "",
         "element_attack": 0,
@@ -270,9 +270,9 @@
         "final": false
     },
     {
-        "_id": 983560,
+        "id": 983560,
         "name": "Ethereal Statera 8",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 330,
         "element": "",
         "element_attack": 0,
@@ -285,9 +285,9 @@
         "final": true
     },
     {
-        "_id": 983809,
+        "id": 983809,
         "name": "Lava's Veil 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 170,
         "element": "Fire",
         "element_attack": 12,
@@ -300,9 +300,9 @@
         "final": false
     },
     {
-        "_id": 983810,
+        "id": 983810,
         "name": "Lava's Veil 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 200,
         "element": "Fire",
         "element_attack": 14,
@@ -315,9 +315,9 @@
         "final": false
     },
     {
-        "_id": 983811,
+        "id": 983811,
         "name": "Crater Blade 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 230,
         "element": "Fire",
         "element_attack": 16,
@@ -330,9 +330,9 @@
         "final": false
     },
     {
-        "_id": 983812,
+        "id": 983812,
         "name": "Crater Blade 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 280,
         "element": "Fire",
         "element_attack": 18,
@@ -345,9 +345,9 @@
         "final": false
     },
     {
-        "_id": 983813,
+        "id": 983813,
         "name": "Volclatero Axe 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 340,
         "element": "Fire",
         "element_attack": 20,
@@ -360,9 +360,9 @@
         "final": true
     },
     {
-        "_id": 984065,
+        "id": 984065,
         "name": "Dios Strongarm 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 130,
         "element": "Blastblight",
         "element_attack": 16,
@@ -375,9 +375,9 @@
         "final": false
     },
     {
-        "_id": 984066,
+        "id": 984066,
         "name": "Dios Strongarm 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 140,
         "element": "Blastblight",
         "element_attack": 17,
@@ -390,9 +390,9 @@
         "final": false
     },
     {
-        "_id": 984067,
+        "id": 984067,
         "name": "Dios Strongarm 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 160,
         "element": "Blastblight",
         "element_attack": 18,
@@ -405,9 +405,9 @@
         "final": false
     },
     {
-        "_id": 984068,
+        "id": 984068,
         "name": "Dios Strongarm 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 180,
         "element": "Blastblight",
         "element_attack": 19,
@@ -420,9 +420,9 @@
         "final": false
     },
     {
-        "_id": 984069,
+        "id": 984069,
         "name": "Volatile Blade 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 200,
         "element": "Blastblight",
         "element_attack": 20,
@@ -435,9 +435,9 @@
         "final": false
     },
     {
-        "_id": 984070,
+        "id": 984070,
         "name": "Volatile Blade 6",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 290,
         "element": "Blastblight",
         "element_attack": 22,
@@ -450,9 +450,9 @@
         "final": false
     },
     {
-        "_id": 984071,
+        "id": 984071,
         "name": "Explosive Blade 7",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 330,
         "element": "Blastblight",
         "element_attack": 24,
@@ -465,9 +465,9 @@
         "final": true
     },
     {
-        "_id": 984321,
+        "id": 984321,
         "name": "Demolition Blade 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 150,
         "element": "Blastblight",
         "element_attack": 22,
@@ -480,9 +480,9 @@
         "final": false
     },
     {
-        "_id": 984322,
+        "id": 984322,
         "name": "Demolition Blade 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 160,
         "element": "Blastblight",
         "element_attack": 24,
@@ -495,9 +495,9 @@
         "final": false
     },
     {
-        "_id": 984323,
+        "id": 984323,
         "name": "Fulgent Demolisher 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 180,
         "element": "Blastblight",
         "element_attack": 26,
@@ -510,9 +510,9 @@
         "final": false
     },
     {
-        "_id": 984324,
+        "id": 984324,
         "name": "Fulgent Demolisher 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 260,
         "element": "Blastblight",
         "element_attack": 27,
@@ -525,9 +525,9 @@
         "final": false
     },
     {
-        "_id": 984325,
+        "id": 984325,
         "name": "Fulgent Demolisher 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 280,
         "element": "Blastblight",
         "element_attack": 28,
@@ -540,9 +540,9 @@
         "final": false
     },
     {
-        "_id": 984326,
+        "id": 984326,
         "name": "Fulgent Annihilator 6",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 310,
         "element": "Blastblight",
         "element_attack": 30,
@@ -555,9 +555,9 @@
         "final": true
     },
     {
-        "_id": 984577,
+        "id": 984577,
         "name": "Type 31 Wyvernslayer 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 90,
         "element": "Water",
         "element_attack": 10,
@@ -570,9 +570,9 @@
         "final": false
     },
     {
-        "_id": 984578,
+        "id": 984578,
         "name": "Type 31 Wyvernslayer 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 100,
         "element": "Water",
         "element_attack": 14,
@@ -585,9 +585,9 @@
         "final": false
     },
     {
-        "_id": 984579,
+        "id": 984579,
         "name": "Type 31 Wyvernslayer 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 120,
         "element": "Water",
         "element_attack": 16,
@@ -600,9 +600,9 @@
         "final": false
     },
     {
-        "_id": 984580,
+        "id": 984580,
         "name": "Type 31 Wyvernslayer 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 140,
         "element": "Water",
         "element_attack": 17,
@@ -615,9 +615,9 @@
         "final": false
     },
     {
-        "_id": 984581,
+        "id": 984581,
         "name": "Type 31 Wyvernslayer 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 190,
         "element": "Water",
         "element_attack": 18,
@@ -630,9 +630,9 @@
         "final": false
     },
     {
-        "_id": 984582,
+        "id": 984582,
         "name": "Reactive Border 6",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 220,
         "element": "Water",
         "element_attack": 20,
@@ -645,9 +645,9 @@
         "final": false
     },
     {
-        "_id": 984583,
+        "id": 984583,
         "name": "Reactive Border 7",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 270,
         "element": "Water",
         "element_attack": 22,
@@ -660,9 +660,9 @@
         "final": false
     },
     {
-        "_id": 984584,
+        "id": 984584,
         "name": "Composite Border 8",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 330,
         "element": "Water",
         "element_attack": 24,
@@ -675,9 +675,9 @@
         "final": true
     },
     {
-        "_id": 984833,
+        "id": 984833,
         "name": "Poison Blade 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 90,
         "element": "Poison",
         "element_attack": 12,
@@ -690,9 +690,9 @@
         "final": false
     },
     {
-        "_id": 984834,
+        "id": 984834,
         "name": "Poison Blade 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 100,
         "element": "Poison",
         "element_attack": 16,
@@ -705,9 +705,9 @@
         "final": false
     },
     {
-        "_id": 984835,
+        "id": 984835,
         "name": "Poison Blade 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 120,
         "element": "Poison",
         "element_attack": 20,
@@ -720,9 +720,9 @@
         "final": false
     },
     {
-        "_id": 984836,
+        "id": 984836,
         "name": "Poison Blade 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 140,
         "element": "Poison",
         "element_attack": 24,
@@ -735,9 +735,9 @@
         "final": false
     },
     {
-        "_id": 984837,
+        "id": 984837,
         "name": "Poison Blade 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 160,
         "element": "Poison",
         "element_attack": 26,
@@ -750,9 +750,9 @@
         "final": false
     },
     {
-        "_id": 984838,
+        "id": 984838,
         "name": "Venom's Kiss 6",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 190,
         "element": "Poison",
         "element_attack": 28,
@@ -765,9 +765,9 @@
         "final": false
     },
     {
-        "_id": 984839,
+        "id": 984839,
         "name": "Venom's Kiss 7",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 210,
         "element": "Poison",
         "element_attack": 30,
@@ -780,9 +780,9 @@
         "final": false
     },
     {
-        "_id": 984840,
+        "id": 984840,
         "name": "Venom's Kiss 8",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 240,
         "element": "Poison",
         "element_attack": 32,
@@ -795,9 +795,9 @@
         "final": false
     },
     {
-        "_id": 984841,
+        "id": 984841,
         "name": "Hell Venom Blade 9",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 300,
         "element": "Poison",
         "element_attack": 35,
@@ -810,9 +810,9 @@
         "final": true
     },
     {
-        "_id": 985089,
+        "id": 985089,
         "name": "Elite Blade 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 70,
         "element": "",
         "element_attack": 0,
@@ -825,9 +825,9 @@
         "final": false
     },
     {
-        "_id": 985090,
+        "id": 985090,
         "name": "Elite Blade 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 80,
         "element": "",
         "element_attack": 0,
@@ -840,9 +840,9 @@
         "final": false
     },
     {
-        "_id": 985091,
+        "id": 985091,
         "name": "Elite Blade 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 100,
         "element": "",
         "element_attack": 0,
@@ -855,9 +855,9 @@
         "final": false
     },
     {
-        "_id": 985092,
+        "id": 985092,
         "name": "Elite Blade 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 120,
         "element": "",
         "element_attack": 0,
@@ -870,9 +870,9 @@
         "final": false
     },
     {
-        "_id": 985093,
+        "id": 985093,
         "name": "Elite Blade 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 130,
         "element": "",
         "element_attack": 0,
@@ -885,9 +885,9 @@
         "final": false
     },
     {
-        "_id": 985094,
+        "id": 985094,
         "name": "Elite Blade 6",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 150,
         "element": "",
         "element_attack": 0,
@@ -900,9 +900,9 @@
         "final": false
     },
     {
-        "_id": 985095,
+        "id": 985095,
         "name": "Elite Blade 7",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 180,
         "element": "",
         "element_attack": 0,
@@ -915,9 +915,9 @@
         "final": false
     },
     {
-        "_id": 985096,
+        "id": 985096,
         "name": "Kaiser Blade 8",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 230,
         "element": "",
         "element_attack": 0,
@@ -930,9 +930,9 @@
         "final": false
     },
     {
-        "_id": 985097,
+        "id": 985097,
         "name": "Kaiser Blade 9",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 250,
         "element": "",
         "element_attack": 0,
@@ -945,9 +945,9 @@
         "final": false
     },
     {
-        "_id": 985098,
+        "id": 985098,
         "name": "Kaiser Blade 10",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 310,
         "element": "",
         "element_attack": 0,
@@ -960,9 +960,9 @@
         "final": false
     },
     {
-        "_id": 985099,
+        "id": 985099,
         "name": "Kaiser Kommandant 11",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 340,
         "element": "",
         "element_attack": 0,
@@ -975,9 +975,9 @@
         "final": true
     },
     {
-        "_id": 985345,
+        "id": 985345,
         "name": "Guardsqual 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 160,
         "element": "Ice",
         "element_attack": 25,
@@ -990,9 +990,9 @@
         "final": false
     },
     {
-        "_id": 985346,
+        "id": 985346,
         "name": "Guardsqual 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 170,
         "element": "Ice",
         "element_attack": 27,
@@ -1005,9 +1005,9 @@
         "final": false
     },
     {
-        "_id": 985347,
+        "id": 985347,
         "name": "Guardsqual 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 190,
         "element": "Ice",
         "element_attack": 30,
@@ -1020,9 +1020,9 @@
         "final": false
     },
     {
-        "_id": 985348,
+        "id": 985348,
         "name": "Squaliarma 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 220,
         "element": "Ice",
         "element_attack": 32,
@@ -1035,9 +1035,9 @@
         "final": false
     },
     {
-        "_id": 985349,
+        "id": 985349,
         "name": "Squaliarma 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 280,
         "element": "Ice",
         "element_attack": 34,
@@ -1050,9 +1050,9 @@
         "final": false
     },
     {
-        "_id": 985350,
+        "id": 985350,
         "name": "Squaliarmada 6",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 340,
         "element": "Ice",
         "element_attack": 37,
@@ -1065,9 +1065,9 @@
         "final": true
     },
     {
-        "_id": 985601,
+        "id": 985601,
         "name": "Serrated Glace 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 170,
         "element": "Ice",
         "element_attack": 34,
@@ -1080,9 +1080,9 @@
         "final": false
     },
     {
-        "_id": 985602,
+        "id": 985602,
         "name": "Serrated Glace 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 180,
         "element": "Ice",
         "element_attack": 35,
@@ -1095,9 +1095,9 @@
         "final": false
     },
     {
-        "_id": 985603,
+        "id": 985603,
         "name": "Trios Tristesse 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 200,
         "element": "Ice",
         "element_attack": 36,
@@ -1110,9 +1110,9 @@
         "final": false
     },
     {
-        "_id": 985604,
+        "id": 985604,
         "name": "Trios Tristesse 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 260,
         "element": "Ice",
         "element_attack": 39,
@@ -1125,9 +1125,9 @@
         "final": false
     },
     {
-        "_id": 985605,
+        "id": 985605,
         "name": "Tristesse Durera 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 290,
         "element": "Ice",
         "element_attack": 42,
@@ -1140,9 +1140,9 @@
         "final": true
     },
     {
-        "_id": 985857,
+        "id": 985857,
         "name": "Blackguard 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 100,
         "element": "",
         "element_attack": 0,
@@ -1155,9 +1155,9 @@
         "final": false
     },
     {
-        "_id": 985858,
+        "id": 985858,
         "name": "Blackguard 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 120,
         "element": "",
         "element_attack": 0,
@@ -1170,9 +1170,9 @@
         "final": false
     },
     {
-        "_id": 985859,
+        "id": 985859,
         "name": "Blackguard 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 130,
         "element": "",
         "element_attack": 0,
@@ -1185,9 +1185,9 @@
         "final": false
     },
     {
-        "_id": 985860,
+        "id": 985860,
         "name": "Blackguard 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 140,
         "element": "",
         "element_attack": 0,
@@ -1200,9 +1200,9 @@
         "final": false
     },
     {
-        "_id": 985861,
+        "id": 985861,
         "name": "Blackguard 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 160,
         "element": "",
         "element_attack": 0,
@@ -1215,9 +1215,9 @@
         "final": false
     },
     {
-        "_id": 985862,
+        "id": 985862,
         "name": "Full Blackguard 6",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 200,
         "element": "",
         "element_attack": 0,
@@ -1230,9 +1230,9 @@
         "final": false
     },
     {
-        "_id": 985863,
+        "id": 985863,
         "name": "Full Blackguard 7",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 250,
         "element": "",
         "element_attack": 0,
@@ -1245,9 +1245,9 @@
         "final": false
     },
     {
-        "_id": 985864,
+        "id": 985864,
         "name": "Schwarzschild 8",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 310,
         "element": "",
         "element_attack": 0,
@@ -1260,9 +1260,9 @@
         "final": true
     },
     {
-        "_id": 986113,
+        "id": 986113,
         "name": "Sentinel Blade 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 130,
         "element": "Thunder",
         "element_attack": 24,
@@ -1275,9 +1275,9 @@
         "final": false
     },
     {
-        "_id": 986114,
+        "id": 986114,
         "name": "Sentinel Blade 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 150,
         "element": "Thunder",
         "element_attack": 26,
@@ -1290,9 +1290,9 @@
         "final": false
     },
     {
-        "_id": 986115,
+        "id": 986115,
         "name": "Sentinel Blade 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 180,
         "element": "Thunder",
         "element_attack": 28,
@@ -1305,9 +1305,9 @@
         "final": false
     },
     {
-        "_id": 986116,
+        "id": 986116,
         "name": "Noblest of Lieges 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 210,
         "element": "Thunder",
         "element_attack": 30,
@@ -1320,9 +1320,9 @@
         "final": false
     },
     {
-        "_id": 986117,
+        "id": 986117,
         "name": "Noblest of Lieges 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 260,
         "element": "Thunder",
         "element_attack": 32,
@@ -1335,9 +1335,9 @@
         "final": false
     },
     {
-        "_id": 986118,
+        "id": 986118,
         "name": "Noblest of Victories 6",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 310,
         "element": "Thunder",
         "element_attack": 34,
@@ -1350,9 +1350,9 @@
         "final": true
     },
     {
-        "_id": 986369,
+        "id": 986369,
         "name": "K. Captain's Blade 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 150,
         "element": "Thunder",
         "element_attack": 34,
@@ -1365,9 +1365,9 @@
         "final": false
     },
     {
-        "_id": 986370,
+        "id": 986370,
         "name": "K. Captain's Blade 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 160,
         "element": "Thunder",
         "element_attack": 35,
@@ -1380,9 +1380,9 @@
         "final": false
     },
     {
-        "_id": 986371,
+        "id": 986371,
         "name": "Die Walküre 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 180,
         "element": "Thunder",
         "element_attack": 37,
@@ -1395,9 +1395,9 @@
         "final": false
     },
     {
-        "_id": 986372,
+        "id": 986372,
         "name": "Die Walküre 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 260,
         "element": "Thunder",
         "element_attack": 39,
@@ -1410,9 +1410,9 @@
         "final": false
     },
     {
-        "_id": 986373,
+        "id": 986373,
         "name": "Tristan and Isolde 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 280,
         "element": "Thunder",
         "element_attack": 40,
@@ -1425,9 +1425,9 @@
         "final": true
     },
     {
-        "_id": 986625,
+        "id": 986625,
         "name": "Tigrex Divide 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 140,
         "element": "",
         "element_attack": 0,
@@ -1440,9 +1440,9 @@
         "final": false
     },
     {
-        "_id": 986626,
+        "id": 986626,
         "name": "Tigrex Divide 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 180,
         "element": "",
         "element_attack": 0,
@@ -1455,9 +1455,9 @@
         "final": false
     },
     {
-        "_id": 986627,
+        "id": 986627,
         "name": "Tigrex Divide 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 200,
         "element": "",
         "element_attack": 0,
@@ -1470,9 +1470,9 @@
         "final": false
     },
     {
-        "_id": 986628,
+        "id": 986628,
         "name": "Tigrex Blade 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 220,
         "element": "",
         "element_attack": 0,
@@ -1485,9 +1485,9 @@
         "final": false
     },
     {
-        "_id": 986629,
+        "id": 986629,
         "name": "Tigrex Blade 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 280,
         "element": "",
         "element_attack": 0,
@@ -1500,9 +1500,9 @@
         "final": false
     },
     {
-        "_id": 986630,
+        "id": 986630,
         "name": "Tigrex Blade 6",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 320,
         "element": "",
         "element_attack": 0,
@@ -1515,9 +1515,9 @@
         "final": false
     },
     {
-        "_id": 986631,
+        "id": 986631,
         "name": "Huge Tigrex Blade 7",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 340,
         "element": "",
         "element_attack": 0,
@@ -1530,9 +1530,9 @@
         "final": true
     },
     {
-        "_id": 986881,
+        "id": 986881,
         "name": "Dear Lutemis 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 90,
         "element": "Fire",
         "element_attack": 15,
@@ -1545,9 +1545,9 @@
         "final": false
     },
     {
-        "_id": 986882,
+        "id": 986882,
         "name": "Dear Lutemis 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 110,
         "element": "Fire",
         "element_attack": 22,
@@ -1560,9 +1560,9 @@
         "final": false
     },
     {
-        "_id": 986883,
+        "id": 986883,
         "name": "Dear Lutemis 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 130,
         "element": "Fire",
         "element_attack": 25,
@@ -1575,9 +1575,9 @@
         "final": false
     },
     {
-        "_id": 986884,
+        "id": 986884,
         "name": "Dear Lutemis 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 160,
         "element": "Fire",
         "element_attack": 28,
@@ -1590,9 +1590,9 @@
         "final": false
     },
     {
-        "_id": 986885,
+        "id": 986885,
         "name": "Dear Lutemia 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 210,
         "element": "Fire",
         "element_attack": 30,
@@ -1605,9 +1605,9 @@
         "final": false
     },
     {
-        "_id": 986886,
+        "id": 986886,
         "name": "Dear Lutemia 6",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 260,
         "element": "Fire",
         "element_attack": 32,
@@ -1620,9 +1620,9 @@
         "final": false
     },
     {
-        "_id": 986887,
+        "id": 986887,
         "name": "Dear Lutemia 7",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 280,
         "element": "Fire",
         "element_attack": 36,
@@ -1635,9 +1635,9 @@
         "final": false
     },
     {
-        "_id": 986888,
+        "id": 986888,
         "name": "Dear Lutemineva 8",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 320,
         "element": "Fire",
         "element_attack": 40,
@@ -1650,9 +1650,9 @@
         "final": true
     },
     {
-        "_id": 987137,
+        "id": 987137,
         "name": "Luna Eostre 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 160,
         "element": "Fire",
         "element_attack": 34,
@@ -1665,9 +1665,9 @@
         "final": false
     },
     {
-        "_id": 987138,
+        "id": 987138,
         "name": "Luna Eostre 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 170,
         "element": "Fire",
         "element_attack": 35,
@@ -1680,9 +1680,9 @@
         "final": false
     },
     {
-        "_id": 987139,
+        "id": 987139,
         "name": "Glimmering Eostre 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 180,
         "element": "Fire",
         "element_attack": 36,
@@ -1695,9 +1695,9 @@
         "final": false
     },
     {
-        "_id": 987140,
+        "id": 987140,
         "name": "Glimmering Eostre 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 270,
         "element": "Fire",
         "element_attack": 39,
@@ -1710,9 +1710,9 @@
         "final": false
     },
     {
-        "_id": 987141,
+        "id": 987141,
         "name": "Luna Crucible 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 290,
         "element": "Fire",
         "element_attack": 42,
@@ -1725,9 +1725,9 @@
         "final": true
     },
     {
-        "_id": 987393,
+        "id": 987393,
         "name": "Rogue Axe 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 80,
         "element": "",
         "element_attack": 0,
@@ -1740,9 +1740,9 @@
         "final": false
     },
     {
-        "_id": 987394,
+        "id": 987394,
         "name": "Rogue Axe 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 90,
         "element": "",
         "element_attack": 0,
@@ -1755,9 +1755,9 @@
         "final": false
     },
     {
-        "_id": 987395,
+        "id": 987395,
         "name": "Rogue Axe 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 100,
         "element": "",
         "element_attack": 0,
@@ -1770,9 +1770,9 @@
         "final": false
     },
     {
-        "_id": 987396,
+        "id": 987396,
         "name": "Rogue Axe 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 130,
         "element": "",
         "element_attack": 0,
@@ -1785,9 +1785,9 @@
         "final": false
     },
     {
-        "_id": 987397,
+        "id": 987397,
         "name": "Rogue Axe 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 150,
         "element": "",
         "element_attack": 0,
@@ -1800,9 +1800,9 @@
         "final": false
     },
     {
-        "_id": 987398,
+        "id": 987398,
         "name": "Rogue Axe 6",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 190,
         "element": "",
         "element_attack": 0,
@@ -1815,9 +1815,9 @@
         "final": false
     },
     {
-        "_id": 987399,
+        "id": 987399,
         "name": "Dashing Rogue 7",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 210,
         "element": "",
         "element_attack": 0,
@@ -1830,9 +1830,9 @@
         "final": false
     },
     {
-        "_id": 987400,
+        "id": 987400,
         "name": "Dashing Rogue 8",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 240,
         "element": "",
         "element_attack": 0,
@@ -1845,9 +1845,9 @@
         "final": false
     },
     {
-        "_id": 987401,
+        "id": 987401,
         "name": "Dashing Rogue 9",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 270,
         "element": "",
         "element_attack": 0,
@@ -1860,9 +1860,9 @@
         "final": false
     },
     {
-        "_id": 987402,
+        "id": 987402,
         "name": "Dashing Bandit 10",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 330,
         "element": "",
         "element_attack": 0,
@@ -1875,9 +1875,9 @@
         "final": true
     },
     {
-        "_id": 987649,
+        "id": 987649,
         "name": "Horror Zofar 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 90,
         "element": "Sleep",
         "element_attack": 8,
@@ -1890,9 +1890,9 @@
         "final": false
     },
     {
-        "_id": 987650,
+        "id": 987650,
         "name": "Horror Zofar 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 110,
         "element": "Sleep",
         "element_attack": 10,
@@ -1905,9 +1905,9 @@
         "final": false
     },
     {
-        "_id": 987651,
+        "id": 987651,
         "name": "Horror Zofar 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 120,
         "element": "Sleep",
         "element_attack": 11,
@@ -1920,9 +1920,9 @@
         "final": false
     },
     {
-        "_id": 987652,
+        "id": 987652,
         "name": "Horror Zofar 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 140,
         "element": "Sleep",
         "element_attack": 12,
@@ -1935,9 +1935,9 @@
         "final": false
     },
     {
-        "_id": 987653,
+        "id": 987653,
         "name": "Horror Zofar 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 160,
         "element": "Sleep",
         "element_attack": 14,
@@ -1950,9 +1950,9 @@
         "final": false
     },
     {
-        "_id": 987654,
+        "id": 987654,
         "name": "Dormant Wings 6",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 180,
         "element": "Sleep",
         "element_attack": 15,
@@ -1965,9 +1965,9 @@
         "final": false
     },
     {
-        "_id": 987655,
+        "id": 987655,
         "name": "Dormant Wings 7",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 240,
         "element": "Sleep",
         "element_attack": 17,
@@ -1980,9 +1980,9 @@
         "final": false
     },
     {
-        "_id": 987656,
+        "id": 987656,
         "name": "Dormant Wings 8",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 270,
         "element": "Sleep",
         "element_attack": 19,
@@ -1995,9 +1995,9 @@
         "final": false
     },
     {
-        "_id": 987657,
+        "id": 987657,
         "name": "Zofar Wings 9",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 310,
         "element": "Sleep",
         "element_attack": 22,
@@ -2010,9 +2010,9 @@
         "final": true
     },
     {
-        "_id": 987905,
+        "id": 987905,
         "name": "Snowy Veil 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 80,
         "element": "Ice",
         "element_attack": 14,
@@ -2025,9 +2025,9 @@
         "final": false
     },
     {
-        "_id": 987906,
+        "id": 987906,
         "name": "Snowy Veil 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 100,
         "element": "Ice",
         "element_attack": 16,
@@ -2040,9 +2040,9 @@
         "final": false
     },
     {
-        "_id": 987907,
+        "id": 987907,
         "name": "Snowy Veil 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 130,
         "element": "Ice",
         "element_attack": 18,
@@ -2055,9 +2055,9 @@
         "final": false
     },
     {
-        "_id": 987908,
+        "id": 987908,
         "name": "Snowy Veil 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 150,
         "element": "Ice",
         "element_attack": 20,
@@ -2070,9 +2070,9 @@
         "final": false
     },
     {
-        "_id": 987909,
+        "id": 987909,
         "name": "Snowy Veil 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 170,
         "element": "Ice",
         "element_attack": 22,
@@ -2085,9 +2085,9 @@
         "final": false
     },
     {
-        "_id": 987910,
+        "id": 987910,
         "name": "Frosted Veil 6",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 210,
         "element": "Ice",
         "element_attack": 24,
@@ -2100,9 +2100,9 @@
         "final": false
     },
     {
-        "_id": 987911,
+        "id": 987911,
         "name": "Frosted Veil 7",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 240,
         "element": "Ice",
         "element_attack": 26,
@@ -2115,9 +2115,9 @@
         "final": false
     },
     {
-        "_id": 987912,
+        "id": 987912,
         "name": "Pure Veil 8",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 330,
         "element": "Ice",
         "element_attack": 29,
@@ -2130,9 +2130,9 @@
         "final": true
     },
     {
-        "_id": 988161,
+        "id": 988161,
         "name": "Bone Blade 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 80,
         "element": "",
         "element_attack": 0,
@@ -2145,9 +2145,9 @@
         "final": false
     },
     {
-        "_id": 988162,
+        "id": 988162,
         "name": "Bone Blade 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 100,
         "element": "",
         "element_attack": 0,
@@ -2160,9 +2160,9 @@
         "final": false
     },
     {
-        "_id": 988163,
+        "id": 988163,
         "name": "Bone Blade 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 110,
         "element": "",
         "element_attack": 0,
@@ -2175,9 +2175,9 @@
         "final": false
     },
     {
-        "_id": 988164,
+        "id": 988164,
         "name": "Bone Blade 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 130,
         "element": "",
         "element_attack": 0,
@@ -2190,9 +2190,9 @@
         "final": false
     },
     {
-        "_id": 988165,
+        "id": 988165,
         "name": "Bone Blade 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 140,
         "element": "",
         "element_attack": 0,
@@ -2205,9 +2205,9 @@
         "final": false
     },
     {
-        "_id": 988166,
+        "id": 988166,
         "name": "Bone Blade 6",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 170,
         "element": "",
         "element_attack": 0,
@@ -2220,9 +2220,9 @@
         "final": false
     },
     {
-        "_id": 988167,
+        "id": 988167,
         "name": "Bone Blade 7",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 210,
         "element": "",
         "element_attack": 0,
@@ -2235,9 +2235,9 @@
         "final": false
     },
     {
-        "_id": 988168,
+        "id": 988168,
         "name": "Bonesilt Veil 8",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 240,
         "element": "",
         "element_attack": 0,
@@ -2250,9 +2250,9 @@
         "final": false
     },
     {
-        "_id": 988169,
+        "id": 988169,
         "name": "Bonesilt Veil 9",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 270,
         "element": "",
         "element_attack": 0,
@@ -2265,9 +2265,9 @@
         "final": false
     },
     {
-        "_id": 988170,
+        "id": 988170,
         "name": "Bonesilt Veil 10",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 320,
         "element": "",
         "element_attack": 0,
@@ -2280,9 +2280,9 @@
         "final": false
     },
     {
-        "_id": 988171,
+        "id": 988171,
         "name": "Bonebreaker Veil 11",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 350,
         "element": "",
         "element_attack": 0,
@@ -2295,9 +2295,9 @@
         "final": true
     },
     {
-        "_id": 988417,
+        "id": 988417,
         "name": "Poisonous Veil 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 130,
         "element": "Poison",
         "element_attack": 8,
@@ -2310,9 +2310,9 @@
         "final": false
     },
     {
-        "_id": 988418,
+        "id": 988418,
         "name": "Poisonous Veil 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 150,
         "element": "Poison",
         "element_attack": 10,
@@ -2325,9 +2325,9 @@
         "final": false
     },
     {
-        "_id": 988419,
+        "id": 988419,
         "name": "Poisonous Veil 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 170,
         "element": "Poison",
         "element_attack": 12,
@@ -2340,9 +2340,9 @@
         "final": false
     },
     {
-        "_id": 988420,
+        "id": 988420,
         "name": "Poisonous Veil 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 190,
         "element": "Poison",
         "element_attack": 14,
@@ -2355,9 +2355,9 @@
         "final": false
     },
     {
-        "_id": 988421,
+        "id": 988421,
         "name": "Infected Veil 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 220,
         "element": "Poison",
         "element_attack": 15,
@@ -2370,9 +2370,9 @@
         "final": false
     },
     {
-        "_id": 988422,
+        "id": 988422,
         "name": "Infected Veil 6",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 280,
         "element": "Poison",
         "element_attack": 17,
@@ -2385,9 +2385,9 @@
         "final": false
     },
     {
-        "_id": 988423,
+        "id": 988423,
         "name": "Malefico Veil 7",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 330,
         "element": "Poison",
         "element_attack": 20,
@@ -2400,9 +2400,9 @@
         "final": true
     },
     {
-        "_id": 988673,
+        "id": 988673,
         "name": "Axelion Blade 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 130,
         "element": "Fire",
         "element_attack": 10,
@@ -2415,9 +2415,9 @@
         "final": false
     },
     {
-        "_id": 988674,
+        "id": 988674,
         "name": "Axelion Blade 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 140,
         "element": "Fire",
         "element_attack": 12,
@@ -2430,9 +2430,9 @@
         "final": false
     },
     {
-        "_id": 988675,
+        "id": 988675,
         "name": "Axelion Blade 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 170,
         "element": "Fire",
         "element_attack": 15,
@@ -2445,9 +2445,9 @@
         "final": false
     },
     {
-        "_id": 988676,
+        "id": 988676,
         "name": "Axelion Blade 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 180,
         "element": "Fire",
         "element_attack": 17,
@@ -2460,9 +2460,9 @@
         "final": false
     },
     {
-        "_id": 988677,
+        "id": 988677,
         "name": "Bardichion Blade 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 200,
         "element": "Fire",
         "element_attack": 20,
@@ -2475,9 +2475,9 @@
         "final": false
     },
     {
-        "_id": 988678,
+        "id": 988678,
         "name": "Bardichion Blade 6",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 280,
         "element": "Fire",
         "element_attack": 21,
@@ -2490,9 +2490,9 @@
         "final": false
     },
     {
-        "_id": 988679,
+        "id": 988679,
         "name": "Bardichion Blade 7",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 300,
         "element": "Fire",
         "element_attack": 22,
@@ -2505,9 +2505,9 @@
         "final": false
     },
     {
-        "_id": 988680,
+        "id": 988680,
         "name": "Amgalion Blade 8",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 330,
         "element": "Fire",
         "element_attack": 24,
@@ -2520,9 +2520,9 @@
         "final": true
     },
     {
-        "_id": 988929,
+        "id": 988929,
         "name": "Hellsire Blade 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 170,
         "element": "Fire",
         "element_attack": 22,
@@ -2535,9 +2535,9 @@
         "final": false
     },
     {
-        "_id": 988930,
+        "id": 988930,
         "name": "Hellsire Blade 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 180,
         "element": "Fire",
         "element_attack": 23,
@@ -2550,9 +2550,9 @@
         "final": false
     },
     {
-        "_id": 988931,
+        "id": 988931,
         "name": "Hellspawn Blade 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 190,
         "element": "Fire",
         "element_attack": 24,
@@ -2565,9 +2565,9 @@
         "final": false
     },
     {
-        "_id": 988932,
+        "id": 988932,
         "name": "Hellspawn Blade 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 290,
         "element": "Fire",
         "element_attack": 27,
@@ -2580,9 +2580,9 @@
         "final": false
     },
     {
-        "_id": 988933,
+        "id": 988933,
         "name": "Rathflame Ubernova 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 310,
         "element": "Fire",
         "element_attack": 30,
@@ -2595,9 +2595,9 @@
         "final": true
     },
     {
-        "_id": 989185,
+        "id": 989185,
         "name": "Lagia Storm 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 130,
         "element": "Thunder",
         "element_attack": 12,
@@ -2610,9 +2610,9 @@
         "final": false
     },
     {
-        "_id": 989186,
+        "id": 989186,
         "name": "Lagia Storm 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 140,
         "element": "Thunder",
         "element_attack": 14,
@@ -2625,9 +2625,9 @@
         "final": false
     },
     {
-        "_id": 989187,
+        "id": 989187,
         "name": "Lagia Storm 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 150,
         "element": "Thunder",
         "element_attack": 15,
@@ -2640,9 +2640,9 @@
         "final": false
     },
     {
-        "_id": 989188,
+        "id": 989188,
         "name": "Lagia Storm 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 190,
         "element": "Thunder",
         "element_attack": 17,
@@ -2655,9 +2655,9 @@
         "final": false
     },
     {
-        "_id": 989189,
+        "id": 989189,
         "name": "Vankrom Blade 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 220,
         "element": "Thunder",
         "element_attack": 18,
@@ -2670,9 +2670,9 @@
         "final": false
     },
     {
-        "_id": 989190,
+        "id": 989190,
         "name": "Vankrom Blade 6",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 300,
         "element": "Thunder",
         "element_attack": 19,
@@ -2685,9 +2685,9 @@
         "final": false
     },
     {
-        "_id": 989191,
+        "id": 989191,
         "name": "Vankrom Blade 7",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 320,
         "element": "Thunder",
         "element_attack": 20,
@@ -2700,9 +2700,9 @@
         "final": false
     },
     {
-        "_id": 989192,
+        "id": 989192,
         "name": "Vankrom Voltblade 8",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 340,
         "element": "Thunder",
         "element_attack": 22,
@@ -2715,9 +2715,9 @@
         "final": true
     },
     {
-        "_id": 989441,
+        "id": 989441,
         "name": "Guardian Blade 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 110,
         "element": "",
         "element_attack": 0,
@@ -2730,9 +2730,9 @@
         "final": false
     },
     {
-        "_id": 989442,
+        "id": 989442,
         "name": "Guardian Blade 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 120,
         "element": "",
         "element_attack": 0,
@@ -2745,9 +2745,9 @@
         "final": false
     },
     {
-        "_id": 989443,
+        "id": 989443,
         "name": "Guardian Blade 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 130,
         "element": "",
         "element_attack": 0,
@@ -2760,9 +2760,9 @@
         "final": false
     },
     {
-        "_id": 989444,
+        "id": 989444,
         "name": "Guardian Blade 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 170,
         "element": "",
         "element_attack": 0,
@@ -2775,9 +2775,9 @@
         "final": false
     },
     {
-        "_id": 989445,
+        "id": 989445,
         "name": "Guardian Blade 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 190,
         "element": "",
         "element_attack": 0,
@@ -2790,9 +2790,9 @@
         "final": false
     },
     {
-        "_id": 989446,
+        "id": 989446,
         "name": "Nadegiri 6",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 210,
         "element": "",
         "element_attack": 0,
@@ -2805,9 +2805,9 @@
         "final": false
     },
     {
-        "_id": 989447,
+        "id": 989447,
         "name": "Nadegiri 7",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 270,
         "element": "",
         "element_attack": 0,
@@ -2820,9 +2820,9 @@
         "final": false
     },
     {
-        "_id": 989448,
+        "id": 989448,
         "name": "Ceanataur Nadegiri 8",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 330,
         "element": "",
         "element_attack": 0,
@@ -2835,9 +2835,9 @@
         "final": true
     },
     {
-        "_id": 989697,
+        "id": 989697,
         "name": "Schildsect 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 140,
         "element": "Water",
         "element_attack": 21,
@@ -2850,9 +2850,9 @@
         "final": false
     },
     {
-        "_id": 989698,
+        "id": 989698,
         "name": "Schildsect 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 160,
         "element": "Water",
         "element_attack": 23,
@@ -2865,9 +2865,9 @@
         "final": false
     },
     {
-        "_id": 989699,
+        "id": 989699,
         "name": "Schildsect 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 180,
         "element": "Water",
         "element_attack": 24,
@@ -2880,9 +2880,9 @@
         "final": false
     },
     {
-        "_id": 989700,
+        "id": 989700,
         "name": "Galvanisect 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 210,
         "element": "Water",
         "element_attack": 25,
@@ -2895,9 +2895,9 @@
         "final": false
     },
     {
-        "_id": 989701,
+        "id": 989701,
         "name": "Galvanisect 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 240,
         "element": "Water",
         "element_attack": 27,
@@ -2910,9 +2910,9 @@
         "final": false
     },
     {
-        "_id": 989702,
+        "id": 989702,
         "name": "Galvanisect 6",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 270,
         "element": "Water",
         "element_attack": 29,
@@ -2925,9 +2925,9 @@
         "final": false
     },
     {
-        "_id": 989703,
+        "id": 989703,
         "name": "Excelsisect 7",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 330,
         "element": "Water",
         "element_attack": 31,
@@ -2940,9 +2940,9 @@
         "final": true
     },
     {
-        "_id": 989953,
+        "id": 989953,
         "name": "Dominisect 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 160,
         "element": "Water",
         "element_attack": 30,
@@ -2955,9 +2955,9 @@
         "final": false
     },
     {
-        "_id": 989954,
+        "id": 989954,
         "name": "Dominisect 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 170,
         "element": "Water",
         "element_attack": 32,
@@ -2970,9 +2970,9 @@
         "final": false
     },
     {
-        "_id": 989955,
+        "id": 989955,
         "name": "Maximinsect 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 180,
         "element": "Water",
         "element_attack": 35,
@@ -2985,9 +2985,9 @@
         "final": false
     },
     {
-        "_id": 989956,
+        "id": 989956,
         "name": "Maximinsect 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 260,
         "element": "Water",
         "element_attack": 38,
@@ -3000,9 +3000,9 @@
         "final": false
     },
     {
-        "_id": 989957,
+        "id": 989957,
         "name": "Apex Predator 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 290,
         "element": "Water",
         "element_attack": 40,
@@ -3015,9 +3015,9 @@
         "final": true
     },
     {
-        "_id": 990209,
+        "id": 990209,
         "name": "Desertfall 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 80,
         "element": "Paralysis",
         "element_attack": 8,
@@ -3030,9 +3030,9 @@
         "final": false
     },
     {
-        "_id": 990210,
+        "id": 990210,
         "name": "Desertfall 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 100,
         "element": "Paralysis",
         "element_attack": 10,
@@ -3045,9 +3045,9 @@
         "final": false
     },
     {
-        "_id": 990211,
+        "id": 990211,
         "name": "Desertfall 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 120,
         "element": "Paralysis",
         "element_attack": 11,
@@ -3060,9 +3060,9 @@
         "final": false
     },
     {
-        "_id": 990212,
+        "id": 990212,
         "name": "Desertfall 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 140,
         "element": "Paralysis",
         "element_attack": 12,
@@ -3075,9 +3075,9 @@
         "final": false
     },
     {
-        "_id": 990213,
+        "id": 990213,
         "name": "Desertfall 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 160,
         "element": "Paralysis",
         "element_attack": 14,
@@ -3090,9 +3090,9 @@
         "final": false
     },
     {
-        "_id": 990214,
+        "id": 990214,
         "name": "Desert Sidefin 6",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 180,
         "element": "Paralysis",
         "element_attack": 15,
@@ -3105,9 +3105,9 @@
         "final": false
     },
     {
-        "_id": 990215,
+        "id": 990215,
         "name": "Desert Sidefin 7",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 210,
         "element": "Paralysis",
         "element_attack": 17,
@@ -3120,9 +3120,9 @@
         "final": false
     },
     {
-        "_id": 990216,
+        "id": 990216,
         "name": "Desert Sidefin 8",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 240,
         "element": "Paralysis",
         "element_attack": 19,
@@ -3135,9 +3135,9 @@
         "final": false
     },
     {
-        "_id": 990217,
+        "id": 990217,
         "name": "Desert Death 9",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 290,
         "element": "Paralysis",
         "element_attack": 22,
@@ -3150,9 +3150,9 @@
         "final": true
     },
     {
-        "_id": 990465,
+        "id": 990465,
         "name": "Aslat Charger 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 140,
         "element": "",
         "element_attack": 0,
@@ -3165,9 +3165,9 @@
         "final": false
     },
     {
-        "_id": 990466,
+        "id": 990466,
         "name": "Aslat Charger 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 150,
         "element": "",
         "element_attack": 0,
@@ -3180,9 +3180,9 @@
         "final": false
     },
     {
-        "_id": 990467,
+        "id": 990467,
         "name": "Aslat Charger 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 160,
         "element": "",
         "element_attack": 0,
@@ -3195,9 +3195,9 @@
         "final": false
     },
     {
-        "_id": 990468,
+        "id": 990468,
         "name": "Aslat Charger 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 180,
         "element": "",
         "element_attack": 0,
@@ -3210,9 +3210,9 @@
         "final": false
     },
     {
-        "_id": 990469,
+        "id": 990469,
         "name": "Rebellious Charger 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 190,
         "element": "",
         "element_attack": 0,
@@ -3225,9 +3225,9 @@
         "final": false
     },
     {
-        "_id": 990470,
+        "id": 990470,
         "name": "Rebellious Charger 6",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 280,
         "element": "",
         "element_attack": 0,
@@ -3240,9 +3240,9 @@
         "final": false
     },
     {
-        "_id": 990471,
+        "id": 990471,
         "name": "Aslat Revolution 7",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 320,
         "element": "",
         "element_attack": 0,
@@ -3255,9 +3255,9 @@
         "final": true
     },
     {
-        "_id": 990721,
+        "id": 990721,
         "name": "Seditious Blade 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 160,
         "element": "",
         "element_attack": 0,
@@ -3270,9 +3270,9 @@
         "final": false
     },
     {
-        "_id": 990722,
+        "id": 990722,
         "name": "Seditious Blade 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 170,
         "element": "",
         "element_attack": 0,
@@ -3285,9 +3285,9 @@
         "final": false
     },
     {
-        "_id": 990723,
+        "id": 990723,
         "name": "Garuda Sedition 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 180,
         "element": "",
         "element_attack": 0,
@@ -3300,9 +3300,9 @@
         "final": false
     },
     {
-        "_id": 990724,
+        "id": 990724,
         "name": "Garuda Sedition 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 240,
         "element": "",
         "element_attack": 0,
@@ -3315,9 +3315,9 @@
         "final": false
     },
     {
-        "_id": 990725,
+        "id": 990725,
         "name": "Garuda Sedition 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 260,
         "element": "",
         "element_attack": 0,
@@ -3330,9 +3330,9 @@
         "final": false
     },
     {
-        "_id": 990726,
+        "id": 990726,
         "name": "Sedition Severer 6",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 290,
         "element": "",
         "element_attack": 0,
@@ -3345,9 +3345,9 @@
         "final": true
     },
     {
-        "_id": 990977,
+        "id": 990977,
         "name": "Axela Blade 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 120,
         "element": "Thunder",
         "element_attack": 16,
@@ -3360,9 +3360,9 @@
         "final": false
     },
     {
-        "_id": 990978,
+        "id": 990978,
         "name": "Axela Blade 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 130,
         "element": "Thunder",
         "element_attack": 18,
@@ -3375,9 +3375,9 @@
         "final": false
     },
     {
-        "_id": 990979,
+        "id": 990979,
         "name": "Axela Blade 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 150,
         "element": "Thunder",
         "element_attack": 20,
@@ -3390,9 +3390,9 @@
         "final": false
     },
     {
-        "_id": 990980,
+        "id": 990980,
         "name": "Axela Blade 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 160,
         "element": "Thunder",
         "element_attack": 22,
@@ -3405,9 +3405,9 @@
         "final": false
     },
     {
-        "_id": 990981,
+        "id": 990981,
         "name": "Axela Blade 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 170,
         "element": "Thunder",
         "element_attack": 26,
@@ -3420,9 +3420,9 @@
         "final": false
     },
     {
-        "_id": 990982,
+        "id": 990982,
         "name": "Harbarex Blade 6",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 180,
         "element": "Thunder",
         "element_attack": 28,
@@ -3435,9 +3435,9 @@
         "final": false
     },
     {
-        "_id": 990983,
+        "id": 990983,
         "name": "Harbarex Blade 7",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 250,
         "element": "Thunder",
         "element_attack": 30,
@@ -3450,9 +3450,9 @@
         "final": false
     },
     {
-        "_id": 990984,
+        "id": 990984,
         "name": "Harbarex Blade 8",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 270,
         "element": "Thunder",
         "element_attack": 32,
@@ -3465,9 +3465,9 @@
         "final": false
     },
     {
-        "_id": 990985,
+        "id": 990985,
         "name": "Amagarex Blade 9",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 290,
         "element": "Thunder",
         "element_attack": 35,
@@ -3480,9 +3480,9 @@
         "final": true
     },
     {
-        "_id": 991233,
+        "id": 991233,
         "name": "Giant's Edge 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 140,
         "element": "Ice",
         "element_attack": 12,
@@ -3495,9 +3495,9 @@
         "final": false
     },
     {
-        "_id": 991234,
+        "id": 991234,
         "name": "Giant's Edge 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 150,
         "element": "Ice",
         "element_attack": 14,
@@ -3510,9 +3510,9 @@
         "final": false
     },
     {
-        "_id": 991235,
+        "id": 991235,
         "name": "Giant's Edge 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 170,
         "element": "Ice",
         "element_attack": 15,
@@ -3525,9 +3525,9 @@
         "final": false
     },
     {
-        "_id": 991236,
+        "id": 991236,
         "name": "Giant's Edge 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 190,
         "element": "Ice",
         "element_attack": 16,
@@ -3540,9 +3540,9 @@
         "final": false
     },
     {
-        "_id": 991237,
+        "id": 991237,
         "name": "Giant's Edge 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 210,
         "element": "Ice",
         "element_attack": 18,
@@ -3555,9 +3555,9 @@
         "final": false
     },
     {
-        "_id": 991238,
+        "id": 991238,
         "name": "Colossus's Edge 6",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 230,
         "element": "Ice",
         "element_attack": 20,
@@ -3570,9 +3570,9 @@
         "final": false
     },
     {
-        "_id": 991239,
+        "id": 991239,
         "name": "Colossus's Edge 7",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 300,
         "element": "Ice",
         "element_attack": 22,
@@ -3585,9 +3585,9 @@
         "final": false
     },
     {
-        "_id": 991240,
+        "id": 991240,
         "name": "Colossus's Edge 8",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 320,
         "element": "Ice",
         "element_attack": 22,
@@ -3600,9 +3600,9 @@
         "final": false
     },
     {
-        "_id": 991241,
+        "id": 991241,
         "name": "Behemoth's Edge 9",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 340,
         "element": "Ice",
         "element_attack": 25,
@@ -3615,9 +3615,9 @@
         "final": true
     },
     {
-        "_id": 991489,
+        "id": 991489,
         "name": "Mizuniya Drill 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 130,
         "element": "Water",
         "element_attack": 16,
@@ -3630,9 +3630,9 @@
         "final": false
     },
     {
-        "_id": 991490,
+        "id": 991490,
         "name": "Mizuniya Drill 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 140,
         "element": "Water",
         "element_attack": 18,
@@ -3645,9 +3645,9 @@
         "final": false
     },
     {
-        "_id": 991491,
+        "id": 991491,
         "name": "Mizuniya Drill 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 150,
         "element": "Water",
         "element_attack": 22,
@@ -3660,9 +3660,9 @@
         "final": false
     },
     {
-        "_id": 991492,
+        "id": 991492,
         "name": "Mizuniya Drill 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 170,
         "element": "Water",
         "element_attack": 24,
@@ -3675,9 +3675,9 @@
         "final": false
     },
     {
-        "_id": 991493,
+        "id": 991493,
         "name": "Mizuniya Drill 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 190,
         "element": "Water",
         "element_attack": 26,
@@ -3690,9 +3690,9 @@
         "final": false
     },
     {
-        "_id": 991494,
+        "id": 991494,
         "name": "Final Fieldblade 6",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 200,
         "element": "Water",
         "element_attack": 28,
@@ -3705,9 +3705,9 @@
         "final": false
     },
     {
-        "_id": 991495,
+        "id": 991495,
         "name": "Final Fieldblade 7",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 270,
         "element": "Water",
         "element_attack": 30,
@@ -3720,9 +3720,9 @@
         "final": false
     },
     {
-        "_id": 991496,
+        "id": 991496,
         "name": "Final Fieldblade 8",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 290,
         "element": "Water",
         "element_attack": 32,
@@ -3735,9 +3735,9 @@
         "final": false
     },
     {
-        "_id": 991497,
+        "id": 991497,
         "name": "Divine Fieldblade 9",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 310,
         "element": "Water",
         "element_attack": 35,
@@ -3750,9 +3750,9 @@
         "final": true
     },
     {
-        "_id": 991745,
+        "id": 991745,
         "name": "Scorching Demander 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 130,
         "element": "Fire",
         "element_attack": 16,
@@ -3765,9 +3765,9 @@
         "final": false
     },
     {
-        "_id": 991746,
+        "id": 991746,
         "name": "Scorching Demander 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 140,
         "element": "Fire",
         "element_attack": 18,
@@ -3780,9 +3780,9 @@
         "final": false
     },
     {
-        "_id": 991747,
+        "id": 991747,
         "name": "Scorching Demander 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 160,
         "element": "Fire",
         "element_attack": 20,
@@ -3795,9 +3795,9 @@
         "final": false
     },
     {
-        "_id": 991748,
+        "id": 991748,
         "name": "Scorching Demander 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 180,
         "element": "Fire",
         "element_attack": 22,
@@ -3810,9 +3810,9 @@
         "final": false
     },
     {
-        "_id": 991749,
+        "id": 991749,
         "name": "Scorching Demander 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 200,
         "element": "Fire",
         "element_attack": 24,
@@ -3825,9 +3825,9 @@
         "final": false
     },
     {
-        "_id": 991750,
+        "id": 991750,
         "name": "Glavenus Bardred 6",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 210,
         "element": "Fire",
         "element_attack": 26,
@@ -3840,9 +3840,9 @@
         "final": false
     },
     {
-        "_id": 991751,
+        "id": 991751,
         "name": "Glavenus Bardred 7",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 280,
         "element": "Fire",
         "element_attack": 28,
@@ -3855,9 +3855,9 @@
         "final": false
     },
     {
-        "_id": 991752,
+        "id": 991752,
         "name": "Glavenus Bardred 8",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 300,
         "element": "Fire",
         "element_attack": 30,
@@ -3870,9 +3870,9 @@
         "final": false
     },
     {
-        "_id": 991753,
+        "id": 991753,
         "name": "Glavenus Bardnova 9",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 320,
         "element": "Fire",
         "element_attack": 33,
@@ -3885,9 +3885,9 @@
         "final": true
     },
     {
-        "_id": 992001,
+        "id": 992001,
         "name": "Elendskraft 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 120,
         "element": "Dragon",
         "element_attack": 10,
@@ -3900,9 +3900,9 @@
         "final": false
     },
     {
-        "_id": 992002,
+        "id": 992002,
         "name": "Elendskraft 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 130,
         "element": "Dragon",
         "element_attack": 12,
@@ -3915,9 +3915,9 @@
         "final": false
     },
     {
-        "_id": 992003,
+        "id": 992003,
         "name": "Elendskraft 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 150,
         "element": "Dragon",
         "element_attack": 14,
@@ -3930,9 +3930,9 @@
         "final": false
     },
     {
-        "_id": 992004,
+        "id": 992004,
         "name": "Elendskraft 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 170,
         "element": "Dragon",
         "element_attack": 16,
@@ -3945,9 +3945,9 @@
         "final": false
     },
     {
-        "_id": 992005,
+        "id": 992005,
         "name": "Leidenskraft 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 190,
         "element": "Dragon",
         "element_attack": 18,
@@ -3960,9 +3960,9 @@
         "final": false
     },
     {
-        "_id": 992006,
+        "id": 992006,
         "name": "Leidenskraft 6",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 290,
         "element": "Dragon",
         "element_attack": 20,
@@ -3975,9 +3975,9 @@
         "final": false
     },
     {
-        "_id": 992007,
+        "id": 992007,
         "name": "Unheilskraft 7",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 320,
         "element": "Dragon",
         "element_attack": 22,
@@ -3990,9 +3990,9 @@
         "final": true
     },
     {
-        "_id": 992257,
+        "id": 992257,
         "name": "L'Oppresseur 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 120,
         "element": "Dragon",
         "element_attack": 22,
@@ -4005,9 +4005,9 @@
         "final": false
     },
     {
-        "_id": 992258,
+        "id": 992258,
         "name": "L'Oppresseur 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 130,
         "element": "Dragon",
         "element_attack": 24,
@@ -4020,9 +4020,9 @@
         "final": false
     },
     {
-        "_id": 992259,
+        "id": 992259,
         "name": "L'Oppresseur 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 140,
         "element": "Dragon",
         "element_attack": 25,
@@ -4035,9 +4035,9 @@
         "final": false
     },
     {
-        "_id": 992260,
+        "id": 992260,
         "name": "L'Oppresseur 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 150,
         "element": "Dragon",
         "element_attack": 26,
@@ -4050,9 +4050,9 @@
         "final": false
     },
     {
-        "_id": 992261,
+        "id": 992261,
         "name": "L'Essor 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 160,
         "element": "Dragon",
         "element_attack": 28,
@@ -4065,9 +4065,9 @@
         "final": false
     },
     {
-        "_id": 992262,
+        "id": 992262,
         "name": "L'Essor 6",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 240,
         "element": "Dragon",
         "element_attack": 30,
@@ -4080,9 +4080,9 @@
         "final": false
     },
     {
-        "_id": 992263,
+        "id": 992263,
         "name": "L'Essor 7",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 260,
         "element": "Dragon",
         "element_attack": 32,
@@ -4095,9 +4095,9 @@
         "final": false
     },
     {
-        "_id": 992264,
+        "id": 992264,
         "name": "Le Salut 8",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 280,
         "element": "Dragon",
         "element_attack": 35,
@@ -4110,9 +4110,9 @@
         "final": true
     },
     {
-        "_id": 992513,
+        "id": 992513,
         "name": "Daora's Casca 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 120,
         "element": "Ice",
         "element_attack": 22,
@@ -4125,9 +4125,9 @@
         "final": false
     },
     {
-        "_id": 992514,
+        "id": 992514,
         "name": "Daora's Casca 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 130,
         "element": "Ice",
         "element_attack": 24,
@@ -4140,9 +4140,9 @@
         "final": false
     },
     {
-        "_id": 992515,
+        "id": 992515,
         "name": "Daora's Casca 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 160,
         "element": "Ice",
         "element_attack": 28,
@@ -4155,9 +4155,9 @@
         "final": false
     },
     {
-        "_id": 992516,
+        "id": 992516,
         "name": "Daora's Thwartoise 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 180,
         "element": "Ice",
         "element_attack": 31,
@@ -4170,9 +4170,9 @@
         "final": false
     },
     {
-        "_id": 992517,
+        "id": 992517,
         "name": "Daora's Thwartoise 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 280,
         "element": "Ice",
         "element_attack": 33,
@@ -4185,9 +4185,9 @@
         "final": false
     },
     {
-        "_id": 992518,
+        "id": 992518,
         "name": "Daora's Worldbearer 6",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 300,
         "element": "Ice",
         "element_attack": 35,
@@ -4200,9 +4200,9 @@
         "final": true
     },
     {
-        "_id": 992769,
+        "id": 992769,
         "name": "Demonlord Blade 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 190,
         "element": "Thunder",
         "element_attack": 20,
@@ -4215,9 +4215,9 @@
         "final": false
     },
     {
-        "_id": 992770,
+        "id": 992770,
         "name": "Demonlord Blade 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 200,
         "element": "Thunder",
         "element_attack": 22,
@@ -4230,9 +4230,9 @@
         "final": false
     },
     {
-        "_id": 992771,
+        "id": 992771,
         "name": "Demonlord Blade 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 210,
         "element": "Thunder",
         "element_attack": 24,
@@ -4245,9 +4245,9 @@
         "final": false
     },
     {
-        "_id": 992772,
+        "id": 992772,
         "name": "Demonlord Supersurge 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 230,
         "element": "Thunder",
         "element_attack": 26,
@@ -4260,9 +4260,9 @@
         "final": false
     },
     {
-        "_id": 992773,
+        "id": 992773,
         "name": "Demonlord Supersurge 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 310,
         "element": "Thunder",
         "element_attack": 28,
@@ -4275,9 +4275,9 @@
         "final": false
     },
     {
-        "_id": 992774,
+        "id": 992774,
         "name": "Demonlord Supersurge 6",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 330,
         "element": "Thunder",
         "element_attack": 30,
@@ -4290,9 +4290,9 @@
         "final": false
     },
     {
-        "_id": 992775,
+        "id": 992775,
         "name": "Demonlord Eradicator 7",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 350,
         "element": "Thunder",
         "element_attack": 32,
@@ -4305,9 +4305,9 @@
         "final": true
     },
     {
-        "_id": 993025,
+        "id": 993025,
         "name": "Wicked Edge 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 160,
         "element": "Dragon",
         "element_attack": 10,
@@ -4320,9 +4320,9 @@
         "final": false
     },
     {
-        "_id": 993026,
+        "id": 993026,
         "name": "Wicked Edge 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 180,
         "element": "Dragon",
         "element_attack": 12,
@@ -4335,9 +4335,9 @@
         "final": false
     },
     {
-        "_id": 993027,
+        "id": 993027,
         "name": "Wicked Edge 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 230,
         "element": "Dragon",
         "element_attack": 13,
@@ -4350,9 +4350,9 @@
         "final": false
     },
     {
-        "_id": 993028,
+        "id": 993028,
         "name": "Wicked Edge 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 250,
         "element": "Dragon",
         "element_attack": 14,
@@ -4365,9 +4365,9 @@
         "final": false
     },
     {
-        "_id": 993029,
+        "id": 993029,
         "name": "Malevolent Blade 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 260,
         "element": "Dragon",
         "element_attack": 16,
@@ -4380,9 +4380,9 @@
         "final": false
     },
     {
-        "_id": 993030,
+        "id": 993030,
         "name": "Malevolent Blade 6",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 330,
         "element": "Dragon",
         "element_attack": 19,
@@ -4395,9 +4395,9 @@
         "final": false
     },
     {
-        "_id": 993031,
+        "id": 993031,
         "name": "Menkar Edge 7",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 380,
         "element": "Dragon",
         "element_attack": 22,
@@ -4410,9 +4410,9 @@
         "final": true
     },
     {
-        "_id": 993281,
+        "id": 993281,
         "name": "Gant Blade 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 170,
         "element": "Dragon",
         "element_attack": 6,
@@ -4425,9 +4425,9 @@
         "final": false
     },
     {
-        "_id": 993282,
+        "id": 993282,
         "name": "Gant Blade 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 180,
         "element": "Dragon",
         "element_attack": 8,
@@ -4440,9 +4440,9 @@
         "final": false
     },
     {
-        "_id": 993283,
+        "id": 993283,
         "name": "Cosmic Edge 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 190,
         "element": "Dragon",
         "element_attack": 10,
@@ -4455,9 +4455,9 @@
         "final": false
     },
     {
-        "_id": 993284,
+        "id": 993284,
         "name": "Cosmic Edge 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 280,
         "element": "Dragon",
         "element_attack": 11,
@@ -4470,9 +4470,9 @@
         "final": false
     },
     {
-        "_id": 993285,
+        "id": 993285,
         "name": "Sirius Blade 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 310,
         "element": "Dragon",
         "element_attack": 12,
@@ -4485,9 +4485,9 @@
         "final": true
     },
     {
-        "_id": 993537,
+        "id": 993537,
         "name": "Akantor C. Blade 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 250,
         "element": "",
         "element_attack": 0,
@@ -4500,9 +4500,9 @@
         "final": false
     },
     {
-        "_id": 993538,
+        "id": 993538,
         "name": "Akantor C. Blade 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 250,
         "element": "",
         "element_attack": 0,
@@ -4515,9 +4515,9 @@
         "final": false
     },
     {
-        "_id": 993539,
+        "id": 993539,
         "name": "Akantor Severance 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 250,
         "element": "",
         "element_attack": 0,
@@ -4530,9 +4530,9 @@
         "final": false
     },
     {
-        "_id": 993540,
+        "id": 993540,
         "name": "Akantor Severance 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 320,
         "element": "",
         "element_attack": 0,
@@ -4545,9 +4545,9 @@
         "final": false
     },
     {
-        "_id": 993541,
+        "id": 993541,
         "name": "Akantor Supremacy 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 370,
         "element": "",
         "element_attack": 0,
@@ -4560,9 +4560,9 @@
         "final": true
     },
     {
-        "_id": 993793,
+        "id": 993793,
         "name": "Altostratus Blade 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 200,
         "element": "Water",
         "element_attack": 12,
@@ -4575,9 +4575,9 @@
         "final": false
     },
     {
-        "_id": 993794,
+        "id": 993794,
         "name": "Altostratus Blade 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 220,
         "element": "Water",
         "element_attack": 14,
@@ -4590,9 +4590,9 @@
         "final": false
     },
     {
-        "_id": 993795,
+        "id": 993795,
         "name": "Celestial Vortex 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 240,
         "element": "Water",
         "element_attack": 16,
@@ -4605,9 +4605,9 @@
         "final": false
     },
     {
-        "_id": 993796,
+        "id": 993796,
         "name": "Celestial Vortex 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 320,
         "element": "Water",
         "element_attack": 18,
@@ -4620,9 +4620,9 @@
         "final": false
     },
     {
-        "_id": 993797,
+        "id": 993797,
         "name": "Universal Vortex 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 360,
         "element": "Water",
         "element_attack": 20,
@@ -4635,9 +4635,9 @@
         "final": true
     },
     {
-        "_id": 994049,
+        "id": 994049,
         "name": "Worn C. Blade 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 110,
         "element": "",
         "element_attack": 0,
@@ -4650,9 +4650,9 @@
         "final": false
     },
     {
-        "_id": 994050,
+        "id": 994050,
         "name": "Worn C. Blade 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 110,
         "element": "",
         "element_attack": 0,
@@ -4665,9 +4665,9 @@
         "final": false
     },
     {
-        "_id": 994051,
+        "id": 994051,
         "name": "Worn C. Blade 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 110,
         "element": "",
         "element_attack": 0,
@@ -4680,9 +4680,9 @@
         "final": false
     },
     {
-        "_id": 994052,
+        "id": 994052,
         "name": "Worn C. Blade 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 110,
         "element": "",
         "element_attack": 0,
@@ -4695,9 +4695,9 @@
         "final": false
     },
     {
-        "_id": 994053,
+        "id": 994053,
         "name": "Weathered C. Blade 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 270,
         "element": "",
         "element_attack": 0,
@@ -4710,9 +4710,9 @@
         "final": false
     },
     {
-        "_id": 994054,
+        "id": 994054,
         "name": "Weathered C. Blade 6",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 280,
         "element": "",
         "element_attack": 0,
@@ -4725,9 +4725,9 @@
         "final": false
     },
     {
-        "_id": 994055,
+        "id": 994055,
         "name": "Aged C. Blade 7",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 380,
         "element": "",
         "element_attack": 0,
@@ -4740,9 +4740,9 @@
         "final": true
     },
     {
-        "_id": 994305,
+        "id": 994305,
         "name": "Chrono Gear 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 150,
         "element": "Dragon",
         "element_attack": 36,
@@ -4755,9 +4755,9 @@
         "final": false
     },
     {
-        "_id": 994306,
+        "id": 994306,
         "name": "Chrono Gear 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 160,
         "element": "Dragon",
         "element_attack": 38,
@@ -4770,9 +4770,9 @@
         "final": false
     },
     {
-        "_id": 994307,
+        "id": 994307,
         "name": "Ionian Gear 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 170,
         "element": "Dragon",
         "element_attack": 40,
@@ -4785,9 +4785,9 @@
         "final": false
     },
     {
-        "_id": 994308,
+        "id": 994308,
         "name": "Ionian Gear 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 230,
         "element": "Dragon",
         "element_attack": 42,
@@ -4800,9 +4800,9 @@
         "final": false
     },
     {
-        "_id": 994309,
+        "id": 994309,
         "name": "Tourbillon Gear 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 290,
         "element": "Dragon",
         "element_attack": 45,
@@ -4815,9 +4815,9 @@
         "final": true
     },
     {
-        "_id": 994561,
+        "id": 994561,
         "name": "Teostra's Striker 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 140,
         "element": "Blastblight",
         "element_attack": 38,
@@ -4830,9 +4830,9 @@
         "final": false
     },
     {
-        "_id": 994562,
+        "id": 994562,
         "name": "Teostra's Striker 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 160,
         "element": "Blastblight",
         "element_attack": 40,
@@ -4845,9 +4845,9 @@
         "final": false
     },
     {
-        "_id": 994563,
+        "id": 994563,
         "name": "Teostra's Nova 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 170,
         "element": "Blastblight",
         "element_attack": 43,
@@ -4860,9 +4860,9 @@
         "final": false
     },
     {
-        "_id": 994564,
+        "id": 994564,
         "name": "Teostra's Nova 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 250,
         "element": "Blastblight",
         "element_attack": 45,
@@ -4875,9 +4875,9 @@
         "final": false
     },
     {
-        "_id": 994565,
+        "id": 994565,
         "name": "Teostra's Redeemer 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 280,
         "element": "Blastblight",
         "element_attack": 48,
@@ -4890,9 +4890,9 @@
         "final": true
     },
     {
-        "_id": 994817,
+        "id": 994817,
         "name": "Black Strongarm 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 100,
         "element": "Dragon",
         "element_attack": 7,
@@ -4905,9 +4905,9 @@
         "final": false
     },
     {
-        "_id": 994818,
+        "id": 994818,
         "name": "Black Strongarm 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 120,
         "element": "Dragon",
         "element_attack": 8,
@@ -4920,9 +4920,9 @@
         "final": false
     },
     {
-        "_id": 994819,
+        "id": 994819,
         "name": "Black Strongarm 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 140,
         "element": "Dragon",
         "element_attack": 10,
@@ -4935,9 +4935,9 @@
         "final": false
     },
     {
-        "_id": 994820,
+        "id": 994820,
         "name": "Black Strongarm 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 180,
         "element": "Dragon",
         "element_attack": 12,
@@ -4950,9 +4950,9 @@
         "final": false
     },
     {
-        "_id": 994821,
+        "id": 994821,
         "name": "Onyx Strongarm 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 210,
         "element": "Dragon",
         "element_attack": 14,
@@ -4965,9 +4965,9 @@
         "final": false
     },
     {
-        "_id": 994822,
+        "id": 994822,
         "name": "Onyx Strongarm 6",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 320,
         "element": "Dragon",
         "element_attack": 17,
@@ -4980,9 +4980,9 @@
         "final": false
     },
     {
-        "_id": 994823,
+        "id": 994823,
         "name": "Fatalis Charger 7",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 340,
         "element": "Dragon",
         "element_attack": 20,
@@ -4995,9 +4995,9 @@
         "final": true
     },
     {
-        "_id": 995073,
+        "id": 995073,
         "name": "Pizzaxe 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 100,
         "element": "",
         "element_attack": 0,
@@ -5010,9 +5010,9 @@
         "final": false
     },
     {
-        "_id": 995074,
+        "id": 995074,
         "name": "Pizzaxe 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 110,
         "element": "",
         "element_attack": 0,
@@ -5025,9 +5025,9 @@
         "final": false
     },
     {
-        "_id": 995075,
+        "id": 995075,
         "name": "Pizzaxe 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 130,
         "element": "",
         "element_attack": 0,
@@ -5040,9 +5040,9 @@
         "final": false
     },
     {
-        "_id": 995076,
+        "id": 995076,
         "name": "Pizzaxe 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 140,
         "element": "",
         "element_attack": 0,
@@ -5055,9 +5055,9 @@
         "final": false
     },
     {
-        "_id": 995077,
+        "id": 995077,
         "name": "Pizza Wheel 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 150,
         "element": "",
         "element_attack": 0,
@@ -5070,9 +5070,9 @@
         "final": false
     },
     {
-        "_id": 995078,
+        "id": 995078,
         "name": "Pizza Wheel 6",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 180,
         "element": "",
         "element_attack": 0,
@@ -5085,9 +5085,9 @@
         "final": false
     },
     {
-        "_id": 995079,
+        "id": 995079,
         "name": "Deluxe Pizzaxe 7",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 270,
         "element": "",
         "element_attack": 0,
@@ -5100,9 +5100,9 @@
         "final": true
     },
     {
-        "_id": 995329,
+        "id": 995329,
         "name": "Hero Strongarm 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 140,
         "element": "",
         "element_attack": 0,
@@ -5115,9 +5115,9 @@
         "final": false
     },
     {
-        "_id": 995330,
+        "id": 995330,
         "name": "Hero Strongarm 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 160,
         "element": "",
         "element_attack": 0,
@@ -5130,9 +5130,9 @@
         "final": false
     },
     {
-        "_id": 995331,
+        "id": 995331,
         "name": "Master Strongarm 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 180,
         "element": "",
         "element_attack": 0,
@@ -5145,9 +5145,9 @@
         "final": false
     },
     {
-        "_id": 995332,
+        "id": 995332,
         "name": "Master Strongarm 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 220,
         "element": "",
         "element_attack": 0,
@@ -5160,9 +5160,9 @@
         "final": false
     },
     {
-        "_id": 995333,
+        "id": 995333,
         "name": "Master Strongarm 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 260,
         "element": "",
         "element_attack": 0,
@@ -5175,9 +5175,9 @@
         "final": false
     },
     {
-        "_id": 995334,
+        "id": 995334,
         "name": "Legend Strongarm 6",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 290,
         "element": "",
         "element_attack": 0,
@@ -5190,9 +5190,9 @@
         "final": true
     },
     {
-        "_id": 995585,
+        "id": 995585,
         "name": "Vaik Veil 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 110,
         "element": "Water",
         "element_attack": 8,
@@ -5205,9 +5205,9 @@
         "final": false
     },
     {
-        "_id": 995586,
+        "id": 995586,
         "name": "Vaik Veil 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 130,
         "element": "Water",
         "element_attack": 10,
@@ -5220,9 +5220,9 @@
         "final": false
     },
     {
-        "_id": 995587,
+        "id": 995587,
         "name": "Vaik Veil 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 150,
         "element": "Water",
         "element_attack": 12,
@@ -5235,9 +5235,9 @@
         "final": false
     },
     {
-        "_id": 995588,
+        "id": 995588,
         "name": "Shieldraad 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 170,
         "element": "Water",
         "element_attack": 14,
@@ -5250,9 +5250,9 @@
         "final": false
     },
     {
-        "_id": 995589,
+        "id": 995589,
         "name": "Shieldraad 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 240,
         "element": "Water",
         "element_attack": 18,
@@ -5265,9 +5265,9 @@
         "final": false
     },
     {
-        "_id": 995590,
+        "id": 995590,
         "name": "Armordraad 6",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 300,
         "element": "Water",
         "element_attack": 22,
@@ -5280,9 +5280,9 @@
         "final": true
     },
     {
-        "_id": 995841,
+        "id": 995841,
         "name": "Mandible Blade 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 130,
         "element": "Dragon",
         "element_attack": 8,
@@ -5295,9 +5295,9 @@
         "final": false
     },
     {
-        "_id": 995842,
+        "id": 995842,
         "name": "Mandible Blade 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 150,
         "element": "Dragon",
         "element_attack": 10,
@@ -5310,9 +5310,9 @@
         "final": false
     },
     {
-        "_id": 995843,
+        "id": 995843,
         "name": "Mandible Blade 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 180,
         "element": "Dragon",
         "element_attack": 11,
@@ -5325,9 +5325,9 @@
         "final": false
     },
     {
-        "_id": 995844,
+        "id": 995844,
         "name": "Maxilla Edge 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 200,
         "element": "Dragon",
         "element_attack": 12,
@@ -5340,9 +5340,9 @@
         "final": false
     },
     {
-        "_id": 995845,
+        "id": 995845,
         "name": "Maxilla Edge 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 230,
         "element": "Dragon",
         "element_attack": 15,
@@ -5355,9 +5355,9 @@
         "final": false
     },
     {
-        "_id": 995846,
+        "id": 995846,
         "name": "Skull Edge 6",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 300,
         "element": "Dragon",
         "element_attack": 18,
@@ -5370,9 +5370,9 @@
         "final": true
     },
     {
-        "_id": 996097,
+        "id": 996097,
         "name": "Cuddly Cat 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 90,
         "element": "Paralysis",
         "element_attack": 18,
@@ -5385,9 +5385,9 @@
         "final": false
     },
     {
-        "_id": 996098,
+        "id": 996098,
         "name": "Cuddly Cat 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 100,
         "element": "Paralysis",
         "element_attack": 20,
@@ -5400,9 +5400,9 @@
         "final": false
     },
     {
-        "_id": 996099,
+        "id": 996099,
         "name": "Cuddly Cat 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 110,
         "element": "Paralysis",
         "element_attack": 21,
@@ -5415,9 +5415,9 @@
         "final": false
     },
     {
-        "_id": 996100,
+        "id": 996100,
         "name": "Felyne Fancy 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 130,
         "element": "Paralysis",
         "element_attack": 22,
@@ -5430,9 +5430,9 @@
         "final": false
     },
     {
-        "_id": 996101,
+        "id": 996101,
         "name": "Felyne Fancy 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 170,
         "element": "Paralysis",
         "element_attack": 25,
@@ -5445,9 +5445,9 @@
         "final": false
     },
     {
-        "_id": 996102,
+        "id": 996102,
         "name": "Ominous Puss 6",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 250,
         "element": "Paralysis",
         "element_attack": 28,
@@ -5460,9 +5460,9 @@
         "final": true
     },
     {
-        "_id": 996353,
+        "id": 996353,
         "name": "Chameleos C. Blade 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 140,
         "element": "",
         "element_attack": 0,
@@ -5475,9 +5475,9 @@
         "final": false
     },
     {
-        "_id": 996354,
+        "id": 996354,
         "name": "Chameleos C. Blade 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 180,
         "element": "",
         "element_attack": 0,
@@ -5490,9 +5490,9 @@
         "final": false
     },
     {
-        "_id": 996355,
+        "id": 996355,
         "name": "Chameleos C. Blade 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 200,
         "element": "",
         "element_attack": 0,
@@ -5505,9 +5505,9 @@
         "final": false
     },
     {
-        "_id": 996356,
+        "id": 996356,
         "name": "Chameleos Edge 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 220,
         "element": "",
         "element_attack": 0,
@@ -5520,9 +5520,9 @@
         "final": false
     },
     {
-        "_id": 996357,
+        "id": 996357,
         "name": "Chameleos Edge 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 320,
         "element": "",
         "element_attack": 0,
@@ -5535,9 +5535,9 @@
         "final": false
     },
     {
-        "_id": 996358,
+        "id": 996358,
         "name": "Chameleos Miasma 6",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 380,
         "element": "",
         "element_attack": 0,
@@ -5550,9 +5550,9 @@
         "final": true
     },
     {
-        "_id": 996609,
+        "id": 996609,
         "name": "Dear Regina 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 80,
         "element": "Poison",
         "element_attack": 15,
@@ -5565,9 +5565,9 @@
         "final": false
     },
     {
-        "_id": 996610,
+        "id": 996610,
         "name": "Dear Regina 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 100,
         "element": "Poison",
         "element_attack": 16,
@@ -5580,9 +5580,9 @@
         "final": false
     },
     {
-        "_id": 996611,
+        "id": 996611,
         "name": "Dear Regina 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 110,
         "element": "Poison",
         "element_attack": 17,
@@ -5595,9 +5595,9 @@
         "final": false
     },
     {
-        "_id": 996612,
+        "id": 996612,
         "name": "Dear Regina 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 120,
         "element": "Poison",
         "element_attack": 18,
@@ -5610,9 +5610,9 @@
         "final": false
     },
     {
-        "_id": 996613,
+        "id": 996613,
         "name": "Dear Regina 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 130,
         "element": "Poison",
         "element_attack": 19,
@@ -5625,9 +5625,9 @@
         "final": false
     },
     {
-        "_id": 996614,
+        "id": 996614,
         "name": "Dear Regina 6",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 140,
         "element": "Poison",
         "element_attack": 20,
@@ -5640,9 +5640,9 @@
         "final": false
     },
     {
-        "_id": 996615,
+        "id": 996615,
         "name": "Dear Regina 7",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 150,
         "element": "Poison",
         "element_attack": 21,
@@ -5655,9 +5655,9 @@
         "final": false
     },
     {
-        "_id": 996616,
+        "id": 996616,
         "name": "Dear Regina 8",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 160,
         "element": "Poison",
         "element_attack": 22,
@@ -5670,9 +5670,9 @@
         "final": false
     },
     {
-        "_id": 996617,
+        "id": 996617,
         "name": "Dear Regina 9",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 180,
         "element": "Poison",
         "element_attack": 23,
@@ -5685,9 +5685,9 @@
         "final": false
     },
     {
-        "_id": 996618,
+        "id": 996618,
         "name": "Dearest Regina 10",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 190,
         "element": "Poison",
         "element_attack": 24,
@@ -5700,9 +5700,9 @@
         "final": false
     },
     {
-        "_id": 996619,
+        "id": 996619,
         "name": "Dearest Regina 11",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 230,
         "element": "Poison",
         "element_attack": 26,
@@ -5715,9 +5715,9 @@
         "final": false
     },
     {
-        "_id": 996620,
+        "id": 996620,
         "name": "Dearest Regina 12",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 240,
         "element": "Poison",
         "element_attack": 27,
@@ -5730,9 +5730,9 @@
         "final": false
     },
     {
-        "_id": 996621,
+        "id": 996621,
         "name": "Dearest Regina 13",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 260,
         "element": "Poison",
         "element_attack": 28,
@@ -5745,9 +5745,9 @@
         "final": false
     },
     {
-        "_id": 996622,
+        "id": 996622,
         "name": "Dearest Regina 14",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 280,
         "element": "Poison",
         "element_attack": 29,
@@ -5760,9 +5760,9 @@
         "final": false
     },
     {
-        "_id": 996623,
+        "id": 996623,
         "name": "Dear Regina Nobis 15",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 290,
         "element": "Poison",
         "element_attack": 30,
@@ -5775,9 +5775,9 @@
         "final": true
     },
     {
-        "_id": 996865,
+        "id": 996865,
         "name": "Dreaded Blade 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 170,
         "element": "Fire",
         "element_attack": 16,
@@ -5790,9 +5790,9 @@
         "final": false
     },
     {
-        "_id": 996866,
+        "id": 996866,
         "name": "Dreaded Blade 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 170,
         "element": "Fire",
         "element_attack": 17,
@@ -5805,9 +5805,9 @@
         "final": false
     },
     {
-        "_id": 996867,
+        "id": 996867,
         "name": "Dreaded Blade 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 170,
         "element": "Fire",
         "element_attack": 18,
@@ -5820,9 +5820,9 @@
         "final": false
     },
     {
-        "_id": 996868,
+        "id": 996868,
         "name": "Dreaded Blade 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 180,
         "element": "Fire",
         "element_attack": 19,
@@ -5835,9 +5835,9 @@
         "final": false
     },
     {
-        "_id": 996869,
+        "id": 996869,
         "name": "Dreaded Blade 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 180,
         "element": "Fire",
         "element_attack": 20,
@@ -5850,9 +5850,9 @@
         "final": false
     },
     {
-        "_id": 996870,
+        "id": 996870,
         "name": "Dreaded Blade 6",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 180,
         "element": "Fire",
         "element_attack": 21,
@@ -5865,9 +5865,9 @@
         "final": false
     },
     {
-        "_id": 996871,
+        "id": 996871,
         "name": "Dreaded Blade 7",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 190,
         "element": "Fire",
         "element_attack": 22,
@@ -5880,9 +5880,9 @@
         "final": false
     },
     {
-        "_id": 996872,
+        "id": 996872,
         "name": "Dreaded Blade 8",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 190,
         "element": "Fire",
         "element_attack": 23,
@@ -5895,9 +5895,9 @@
         "final": false
     },
     {
-        "_id": 996873,
+        "id": 996873,
         "name": "Dreaded Blade 9",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 190,
         "element": "Fire",
         "element_attack": 24,
@@ -5910,9 +5910,9 @@
         "final": false
     },
     {
-        "_id": 996874,
+        "id": 996874,
         "name": "Dreadking's Path 10",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 200,
         "element": "Fire",
         "element_attack": 25,
@@ -5925,9 +5925,9 @@
         "final": false
     },
     {
-        "_id": 996875,
+        "id": 996875,
         "name": "Dreadking's Path 11",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 240,
         "element": "Fire",
         "element_attack": 27,
@@ -5940,9 +5940,9 @@
         "final": false
     },
     {
-        "_id": 996876,
+        "id": 996876,
         "name": "Dreadking's Path 12",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 260,
         "element": "Fire",
         "element_attack": 28,
@@ -5955,9 +5955,9 @@
         "final": false
     },
     {
-        "_id": 996877,
+        "id": 996877,
         "name": "Dreadking's Path 13",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 270,
         "element": "Fire",
         "element_attack": 29,
@@ -5970,9 +5970,9 @@
         "final": false
     },
     {
-        "_id": 996878,
+        "id": 996878,
         "name": "Dreadking's Path 14",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 290,
         "element": "Fire",
         "element_attack": 30,
@@ -5985,9 +5985,9 @@
         "final": false
     },
     {
-        "_id": 996879,
+        "id": 996879,
         "name": "Darkflame Blade 15",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 300,
         "element": "Fire",
         "element_attack": 31,
@@ -6000,9 +6000,9 @@
         "final": true
     },
     {
-        "_id": 997121,
+        "id": 997121,
         "name": "Rudra Divide 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 170,
         "element": "",
         "element_attack": 0,
@@ -6015,9 +6015,9 @@
         "final": false
     },
     {
-        "_id": 997122,
+        "id": 997122,
         "name": "Rudra Divide 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 170,
         "element": "",
         "element_attack": 0,
@@ -6030,9 +6030,9 @@
         "final": false
     },
     {
-        "_id": 997123,
+        "id": 997123,
         "name": "Rudra Divide 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 170,
         "element": "",
         "element_attack": 0,
@@ -6045,9 +6045,9 @@
         "final": false
     },
     {
-        "_id": 997124,
+        "id": 997124,
         "name": "Rudra Divide 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 180,
         "element": "",
         "element_attack": 0,
@@ -6060,9 +6060,9 @@
         "final": false
     },
     {
-        "_id": 997125,
+        "id": 997125,
         "name": "Rudra Divide 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 180,
         "element": "",
         "element_attack": 0,
@@ -6075,9 +6075,9 @@
         "final": false
     },
     {
-        "_id": 997126,
+        "id": 997126,
         "name": "Rudra Divide 6",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 180,
         "element": "",
         "element_attack": 0,
@@ -6090,9 +6090,9 @@
         "final": false
     },
     {
-        "_id": 997127,
+        "id": 997127,
         "name": "Rudra Divide 7",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 190,
         "element": "",
         "element_attack": 0,
@@ -6105,9 +6105,9 @@
         "final": false
     },
     {
-        "_id": 997128,
+        "id": 997128,
         "name": "Rudra Divide 8",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 190,
         "element": "",
         "element_attack": 0,
@@ -6120,9 +6120,9 @@
         "final": false
     },
     {
-        "_id": 997129,
+        "id": 997129,
         "name": "Rudra Divide 9",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 190,
         "element": "",
         "element_attack": 0,
@@ -6135,9 +6135,9 @@
         "final": false
     },
     {
-        "_id": 997130,
+        "id": 997130,
         "name": "Grimclaw Rider 10",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 200,
         "element": "",
         "element_attack": 0,
@@ -6150,9 +6150,9 @@
         "final": false
     },
     {
-        "_id": 997131,
+        "id": 997131,
         "name": "Grimclaw Rider 11",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 270,
         "element": "",
         "element_attack": 0,
@@ -6165,9 +6165,9 @@
         "final": false
     },
     {
-        "_id": 997132,
+        "id": 997132,
         "name": "Grimclaw Rider 12",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 280,
         "element": "",
         "element_attack": 0,
@@ -6180,9 +6180,9 @@
         "final": false
     },
     {
-        "_id": 997133,
+        "id": 997133,
         "name": "Grimclaw Rider 13",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 290,
         "element": "",
         "element_attack": 0,
@@ -6195,9 +6195,9 @@
         "final": false
     },
     {
-        "_id": 997134,
+        "id": 997134,
         "name": "Grimclaw Rider 14",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 300,
         "element": "",
         "element_attack": 0,
@@ -6210,9 +6210,9 @@
         "final": false
     },
     {
-        "_id": 997135,
+        "id": 997135,
         "name": "Grimclaw Biter 15",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 310,
         "element": "",
         "element_attack": 0,
@@ -6225,9 +6225,9 @@
         "final": true
     },
     {
-        "_id": 997377,
+        "id": 997377,
         "name": "Ashen Demander 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 170,
         "element": "Blastblight",
         "element_attack": 14,
@@ -6240,9 +6240,9 @@
         "final": false
     },
     {
-        "_id": 997378,
+        "id": 997378,
         "name": "Ashen Demander 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 170,
         "element": "Blastblight",
         "element_attack": 15,
@@ -6255,9 +6255,9 @@
         "final": false
     },
     {
-        "_id": 997379,
+        "id": 997379,
         "name": "Ashen Demander 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 170,
         "element": "Blastblight",
         "element_attack": 16,
@@ -6270,9 +6270,9 @@
         "final": false
     },
     {
-        "_id": 997380,
+        "id": 997380,
         "name": "Ashen Demander 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 180,
         "element": "Blastblight",
         "element_attack": 17,
@@ -6285,9 +6285,9 @@
         "final": false
     },
     {
-        "_id": 997381,
+        "id": 997381,
         "name": "Ashen Demander 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 180,
         "element": "Blastblight",
         "element_attack": 18,
@@ -6300,9 +6300,9 @@
         "final": false
     },
     {
-        "_id": 997382,
+        "id": 997382,
         "name": "Ashen Demander 6",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 180,
         "element": "Blastblight",
         "element_attack": 19,
@@ -6315,9 +6315,9 @@
         "final": false
     },
     {
-        "_id": 997383,
+        "id": 997383,
         "name": "Ashen Demander 7",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 190,
         "element": "Blastblight",
         "element_attack": 20,
@@ -6330,9 +6330,9 @@
         "final": false
     },
     {
-        "_id": 997384,
+        "id": 997384,
         "name": "Ashen Demander 8",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 190,
         "element": "Blastblight",
         "element_attack": 21,
@@ -6345,9 +6345,9 @@
         "final": false
     },
     {
-        "_id": 997385,
+        "id": 997385,
         "name": "Ashen Demander 9",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 190,
         "element": "Blastblight",
         "element_attack": 22,
@@ -6360,9 +6360,9 @@
         "final": false
     },
     {
-        "_id": 997386,
+        "id": 997386,
         "name": "Ashen Bardredd 10",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 200,
         "element": "Blastblight",
         "element_attack": 23,
@@ -6375,9 +6375,9 @@
         "final": false
     },
     {
-        "_id": 997387,
+        "id": 997387,
         "name": "Ashen Bardredd 11",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 260,
         "element": "Blastblight",
         "element_attack": 25,
@@ -6390,9 +6390,9 @@
         "final": false
     },
     {
-        "_id": 997388,
+        "id": 997388,
         "name": "Ashen Bardredd 12",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 270,
         "element": "Blastblight",
         "element_attack": 26,
@@ -6405,9 +6405,9 @@
         "final": false
     },
     {
-        "_id": 997389,
+        "id": 997389,
         "name": "Ashen Bardredd 13",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 280,
         "element": "Blastblight",
         "element_attack": 27,
@@ -6420,9 +6420,9 @@
         "final": false
     },
     {
-        "_id": 997390,
+        "id": 997390,
         "name": "Ashen Bardredd 14",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 290,
         "element": "Blastblight",
         "element_attack": 28,
@@ -6435,9 +6435,9 @@
         "final": false
     },
     {
-        "_id": 997391,
+        "id": 997391,
         "name": "Ashen Bardredd Nova 15",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 300,
         "element": "Blastblight",
         "element_attack": 30,
@@ -6450,9 +6450,9 @@
         "final": true
     },
     {
-        "_id": 997633,
+        "id": 997633,
         "name": "Charge Fox 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 130,
         "element": "Fire",
         "element_attack": 12,
@@ -6465,9 +6465,9 @@
         "final": false
     },
     {
-        "_id": 997634,
+        "id": 997634,
         "name": "Charge Fox 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 140,
         "element": "Fire",
         "element_attack": 14,
@@ -6480,9 +6480,9 @@
         "final": false
     },
     {
-        "_id": 997635,
+        "id": 997635,
         "name": "Press Corps Axe 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 160,
         "element": "Fire",
         "element_attack": 16,
@@ -6495,9 +6495,9 @@
         "final": false
     },
     {
-        "_id": 997636,
+        "id": 997636,
         "name": "Press Corps Axe 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 250,
         "element": "Fire",
         "element_attack": 18,
@@ -6510,9 +6510,9 @@
         "final": false
     },
     {
-        "_id": 997637,
+        "id": 997637,
         "name": "Confidante 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 280,
         "element": "Fire",
         "element_attack": 20,
@@ -6525,9 +6525,9 @@
         "final": true
     },
     {
-        "_id": 997889,
+        "id": 997889,
         "name": "Legendary Anchor J 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 180,
         "element": "",
         "element_attack": 0,
@@ -6540,9 +6540,9 @@
         "final": false
     },
     {
-        "_id": 997890,
+        "id": 997890,
         "name": "Legendary Anchor J 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 200,
         "element": "",
         "element_attack": 0,
@@ -6555,9 +6555,9 @@
         "final": false
     },
     {
-        "_id": 997891,
+        "id": 997891,
         "name": "Legendary Legacy J 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 220,
         "element": "",
         "element_attack": 0,
@@ -6570,9 +6570,9 @@
         "final": false
     },
     {
-        "_id": 997892,
+        "id": 997892,
         "name": "Legendary Legacy J 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 300,
         "element": "",
         "element_attack": 0,
@@ -6585,9 +6585,9 @@
         "final": false
     },
     {
-        "_id": 997893,
+        "id": 997893,
         "name": "Legendary Strongarm J 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 350,
         "element": "",
         "element_attack": 0,
@@ -6600,9 +6600,9 @@
         "final": true
     },
     {
-        "_id": 998401,
+        "id": 998401,
         "name": "Gold Edge 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 310,
         "element": "",
         "element_attack": 0,
@@ -6615,9 +6615,9 @@
         "final": false
     },
     {
-        "_id": 998402,
+        "id": 998402,
         "name": "Inscribed Nephthys 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 320,
         "element": "",
         "element_attack": 0,
@@ -6630,9 +6630,9 @@
         "final": false
     },
     {
-        "_id": 998403,
+        "id": 998403,
         "name": "Nebethetepet 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 330,
         "element": "",
         "element_attack": 0,
@@ -6645,9 +6645,9 @@
         "final": true
     },
     {
-        "_id": 998657,
+        "id": 998657,
         "name": "Silverwing Edge 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 160,
         "element": "Dragon",
         "element_attack": 38,
@@ -6660,9 +6660,9 @@
         "final": false
     },
     {
-        "_id": 998658,
+        "id": 998658,
         "name": "Dragonstar Tenag 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 180,
         "element": "Dragon",
         "element_attack": 40,
@@ -6675,9 +6675,9 @@
         "final": false
     },
     {
-        "_id": 998659,
+        "id": 998659,
         "name": "Dragonstar Tenag 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 240,
         "element": "Dragon",
         "element_attack": 42,
@@ -6690,9 +6690,9 @@
         "final": false
     },
     {
-        "_id": 998660,
+        "id": 998660,
         "name": "Dragonstar Tenag 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 270,
         "element": "Dragon",
         "element_attack": 44,
@@ -6705,9 +6705,9 @@
         "final": false
     },
     {
-        "_id": 998661,
+        "id": 998661,
         "name": "Dragonstar Tenag 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 280,
         "element": "Dragon",
         "element_attack": 46,
@@ -6720,9 +6720,9 @@
         "final": false
     },
     {
-        "_id": 998662,
+        "id": 998662,
         "name": "Magnastar Tobah 6",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 300,
         "element": "Dragon",
         "element_attack": 48,
@@ -6735,9 +6735,9 @@
         "final": true
     },
     {
-        "_id": 998913,
+        "id": 998913,
         "name": "Axebolt Edge 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 230,
         "element": "Thunder",
         "element_attack": 15,
@@ -6750,9 +6750,9 @@
         "final": false
     },
     {
-        "_id": 998914,
+        "id": 998914,
         "name": "Axebolt Edge 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 240,
         "element": "Thunder",
         "element_attack": 16,
@@ -6765,9 +6765,9 @@
         "final": false
     },
     {
-        "_id": 998915,
+        "id": 998915,
         "name": "Axebolt Cleaver 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 250,
         "element": "Thunder",
         "element_attack": 17,
@@ -6780,9 +6780,9 @@
         "final": false
     },
     {
-        "_id": 998916,
+        "id": 998916,
         "name": "Axebolt Cleaver 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 270,
         "element": "Thunder",
         "element_attack": 18,
@@ -6795,9 +6795,9 @@
         "final": false
     },
     {
-        "_id": 998917,
+        "id": 998917,
         "name": "Maxbolt 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 280,
         "element": "Thunder",
         "element_attack": 19,
@@ -6810,9 +6810,9 @@
         "final": true
     },
     {
-        "_id": 999169,
+        "id": 999169,
         "name": "Fugitive Hours 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 240,
         "element": "Water",
         "element_attack": 24,
@@ -6825,9 +6825,9 @@
         "final": false
     },
     {
-        "_id": 999170,
+        "id": 999170,
         "name": "Fugitive Hours 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 260,
         "element": "Water",
         "element_attack": 25,
@@ -6840,9 +6840,9 @@
         "final": false
     },
     {
-        "_id": 999171,
+        "id": 999171,
         "name": "Red-Clad Rebellion 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 280,
         "element": "Water",
         "element_attack": 26,
@@ -6855,9 +6855,9 @@
         "final": false
     },
     {
-        "_id": 999172,
+        "id": 999172,
         "name": "Red-Clad Rebellion 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 300,
         "element": "Water",
         "element_attack": 27,
@@ -6870,9 +6870,9 @@
         "final": false
     },
     {
-        "_id": 999173,
+        "id": 999173,
         "name": "Adoration Unwound 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 320,
         "element": "Water",
         "element_attack": 28,
@@ -6885,9 +6885,9 @@
         "final": true
     },
     {
-        "_id": 999425,
+        "id": 999425,
         "name": "Elderfrost Edge 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 340,
         "element": "Ice",
         "element_attack": 16,
@@ -6900,9 +6900,9 @@
         "final": false
     },
     {
-        "_id": 999426,
+        "id": 999426,
         "name": "Elderfrost Edge 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 350,
         "element": "Ice",
         "element_attack": 17,
@@ -6915,9 +6915,9 @@
         "final": false
     },
     {
-        "_id": 999427,
+        "id": 999427,
         "name": "Elderfrost Warder 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 360,
         "element": "Ice",
         "element_attack": 18,
@@ -6930,9 +6930,9 @@
         "final": false
     },
     {
-        "_id": 999428,
+        "id": 999428,
         "name": "Elderfrost Warder 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 370,
         "element": "Ice",
         "element_attack": 19,
@@ -6945,9 +6945,9 @@
         "final": false
     },
     {
-        "_id": 999429,
+        "id": 999429,
         "name": "Elderfrost Animosity 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 380,
         "element": "Ice",
         "element_attack": 20,
@@ -6960,9 +6960,9 @@
         "final": true
     },
     {
-        "_id": 999681,
+        "id": 999681,
         "name": "Massacre Strongarm 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 330,
         "element": "",
         "element_attack": 0,
@@ -6975,9 +6975,9 @@
         "final": false
     },
     {
-        "_id": 999682,
+        "id": 999682,
         "name": "Massacre Strongarm 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 340,
         "element": "",
         "element_attack": 0,
@@ -6990,9 +6990,9 @@
         "final": false
     },
     {
-        "_id": 999683,
+        "id": 999683,
         "name": "Massacre Enforcer 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 350,
         "element": "",
         "element_attack": 0,
@@ -7005,9 +7005,9 @@
         "final": false
     },
     {
-        "_id": 999684,
+        "id": 999684,
         "name": "Massacre Enforcer 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 360,
         "element": "",
         "element_attack": 0,
@@ -7020,9 +7020,9 @@
         "final": false
     },
     {
-        "_id": 999685,
+        "id": 999685,
         "name": "Column Buster 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 370,
         "element": "",
         "element_attack": 0,
@@ -7035,9 +7035,9 @@
         "final": true
     },
     {
-        "_id": 999937,
+        "id": 999937,
         "name": "Razor Slasher 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 250,
         "element": "",
         "element_attack": 0,
@@ -7050,9 +7050,9 @@
         "final": false
     },
     {
-        "_id": 999938,
+        "id": 999938,
         "name": "Razor Slasher 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 270,
         "element": "",
         "element_attack": 0,
@@ -7065,9 +7065,9 @@
         "final": false
     },
     {
-        "_id": 999939,
+        "id": 999939,
         "name": "Relentless Slasher 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 290,
         "element": "",
         "element_attack": 0,
@@ -7080,9 +7080,9 @@
         "final": false
     },
     {
-        "_id": 999940,
+        "id": 999940,
         "name": "Relentless Slasher 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 310,
         "element": "",
         "element_attack": 0,
@@ -7095,9 +7095,9 @@
         "final": false
     },
     {
-        "_id": 999941,
+        "id": 999941,
         "name": "Rustrazor Slasher 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 330,
         "element": "",
         "element_attack": 0,
@@ -7110,9 +7110,9 @@
         "final": true
     },
     {
-        "_id": 1000193,
+        "id": 1000193,
         "name": "Cloaked Edge 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 260,
         "element": "Sleep",
         "element_attack": 14,
@@ -7125,9 +7125,9 @@
         "final": false
     },
     {
-        "_id": 1000194,
+        "id": 1000194,
         "name": "Cloaked Edge 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 270,
         "element": "Sleep",
         "element_attack": 15,
@@ -7140,9 +7140,9 @@
         "final": false
     },
     {
-        "_id": 1000195,
+        "id": 1000195,
         "name": "Cloaked Gloom 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 310,
         "element": "Sleep",
         "element_attack": 16,
@@ -7155,9 +7155,9 @@
         "final": false
     },
     {
-        "_id": 1000196,
+        "id": 1000196,
         "name": "Cloaked Gloom 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 320,
         "element": "Sleep",
         "element_attack": 17,
@@ -7170,9 +7170,9 @@
         "final": false
     },
     {
-        "_id": 1000197,
+        "id": 1000197,
         "name": "Cloaked Twilight 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 330,
         "element": "Sleep",
         "element_attack": 18,
@@ -7185,9 +7185,9 @@
         "final": true
     },
     {
-        "_id": 1000449,
+        "id": 1000449,
         "name": "Vermilion Veil 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 270,
         "element": "Dragon",
         "element_attack": 45,
@@ -7200,9 +7200,9 @@
         "final": false
     },
     {
-        "_id": 1000450,
+        "id": 1000450,
         "name": "Draconic Veil 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 290,
         "element": "Dragon",
         "element_attack": 47,
@@ -7215,9 +7215,9 @@
         "final": false
     },
     {
-        "_id": 1000451,
+        "id": 1000451,
         "name": "Sealed Dragonveil 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 300,
         "element": "Dragon",
         "element_attack": 50,
@@ -7230,9 +7230,9 @@
         "final": true
     },
     {
-        "_id": 1000705,
+        "id": 1000705,
         "name": "Ruiner Reaver 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 230,
         "element": "Blastblight",
         "element_attack": 40,
@@ -7245,9 +7245,9 @@
         "final": false
     },
     {
-        "_id": 1000706,
+        "id": 1000706,
         "name": "True Ruiner Reaver 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 250,
         "element": "Blastblight",
         "element_attack": 45,
@@ -7260,9 +7260,9 @@
         "final": false
     },
     {
-        "_id": 1000707,
+        "id": 1000707,
         "name": "Absolute Ruiner Dawn 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 270,
         "element": "Blastblight",
         "element_attack": 50,
@@ -7275,9 +7275,9 @@
         "final": true
     },
     {
-        "_id": 1000961,
+        "id": 1000961,
         "name": "Fatalis Mien 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 260,
         "element": "Thunder",
         "element_attack": 44,
@@ -7290,9 +7290,9 @@
         "final": false
     },
     {
-        "_id": 1000962,
+        "id": 1000962,
         "name": "Fatalis Demeanor 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 280,
         "element": "Thunder",
         "element_attack": 47,
@@ -7305,9 +7305,9 @@
         "final": false
     },
     {
-        "_id": 1000963,
+        "id": 1000963,
         "name": "Fatalis Countenance 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 300,
         "element": "Thunder",
         "element_attack": 50,
@@ -7320,9 +7320,9 @@
         "final": true
     },
     {
-        "_id": 1001217,
+        "id": 1001217,
         "name": "Lightbreak C. Blade 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 260,
         "element": "Blastblight",
         "element_attack": 34,
@@ -7335,9 +7335,9 @@
         "final": false
     },
     {
-        "_id": 1001218,
+        "id": 1001218,
         "name": "Lightbreak Vent 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 280,
         "element": "Blastblight",
         "element_attack": 37,
@@ -7350,9 +7350,9 @@
         "final": false
     },
     {
-        "_id": 1001219,
+        "id": 1001219,
         "name": "Lightbreak Unleasher 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 300,
         "element": "Blastblight",
         "element_attack": 40,
@@ -7365,9 +7365,9 @@
         "final": true
     },
     {
-        "_id": 1001473,
+        "id": 1001473,
         "name": "Elends/Essor 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 300,
         "element": "Dragon",
         "element_attack": 11,
@@ -7380,9 +7380,9 @@
         "final": false
     },
     {
-        "_id": 1001474,
+        "id": 1001474,
         "name": "Gefunden/Ruine 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 310,
         "element": "Dragon",
         "element_attack": 12,
@@ -7395,9 +7395,9 @@
         "final": false
     },
     {
-        "_id": 1001475,
+        "id": 1001475,
         "name": "Friede/Désastre 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 320,
         "element": "Dragon",
         "element_attack": 13,
@@ -7410,9 +7410,9 @@
         "final": true
     },
     {
-        "_id": 1001729,
+        "id": 1001729,
         "name": "Diablos Strongarm 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 220,
         "element": "",
         "element_attack": 0,
@@ -7425,9 +7425,9 @@
         "final": false
     },
     {
-        "_id": 1001730,
+        "id": 1001730,
         "name": "Cera Strongarm 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 240,
         "element": "",
         "element_attack": 0,
@@ -7440,9 +7440,9 @@
         "final": false
     },
     {
-        "_id": 1001731,
+        "id": 1001731,
         "name": "Cera Strongarm 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 330,
         "element": "",
         "element_attack": 0,
@@ -7455,9 +7455,9 @@
         "final": false
     },
     {
-        "_id": 1001732,
+        "id": 1001732,
         "name": "Cera Strongarm 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 350,
         "element": "",
         "element_attack": 0,
@@ -7470,9 +7470,9 @@
         "final": false
     },
     {
-        "_id": 1001733,
+        "id": 1001733,
         "name": "Cera Cediment 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 370,
         "element": "",
         "element_attack": 0,
@@ -7485,9 +7485,9 @@
         "final": true
     },
     {
-        "_id": 1001985,
+        "id": 1001985,
         "name": "Barroth Anchor 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 180,
         "element": "",
         "element_attack": 0,
@@ -7500,9 +7500,9 @@
         "final": false
     },
     {
-        "_id": 1001986,
+        "id": 1001986,
         "name": "Barroth Anchor 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 200,
         "element": "",
         "element_attack": 0,
@@ -7515,9 +7515,9 @@
         "final": false
     },
     {
-        "_id": 1001987,
+        "id": 1001987,
         "name": "Rugged Anchor 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 230,
         "element": "",
         "element_attack": 0,
@@ -7530,9 +7530,9 @@
         "final": false
     },
     {
-        "_id": 1001988,
+        "id": 1001988,
         "name": "Rugged Anchor 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 280,
         "element": "",
         "element_attack": 0,
@@ -7545,9 +7545,9 @@
         "final": false
     },
     {
-        "_id": 1001989,
+        "id": 1001989,
         "name": "Rugged Anchor 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 310,
         "element": "",
         "element_attack": 0,
@@ -7560,9 +7560,9 @@
         "final": false
     },
     {
-        "_id": 1001990,
+        "id": 1001990,
         "name": "Barroth Reanchor 6",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 360,
         "element": "",
         "element_attack": 0,
@@ -7575,9 +7575,9 @@
         "final": true
     },
     {
-        "_id": 1002241,
+        "id": 1002241,
         "name": "Arachnoscale 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 140,
         "element": "Poison",
         "element_attack": 16,
@@ -7590,9 +7590,9 @@
         "final": false
     },
     {
-        "_id": 1002242,
+        "id": 1002242,
         "name": "Arachnoscale 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 160,
         "element": "Poison",
         "element_attack": 18,
@@ -7605,9 +7605,9 @@
         "final": false
     },
     {
-        "_id": 1002243,
+        "id": 1002243,
         "name": "Arachnoscythe 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 190,
         "element": "Poison",
         "element_attack": 20,
@@ -7620,9 +7620,9 @@
         "final": false
     },
     {
-        "_id": 1002244,
+        "id": 1002244,
         "name": "Arachnoscythe 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 220,
         "element": "Poison",
         "element_attack": 23,
@@ -7635,9 +7635,9 @@
         "final": false
     },
     {
-        "_id": 1002245,
+        "id": 1002245,
         "name": "Arachnoscythe 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 250,
         "element": "Poison",
         "element_attack": 25,
@@ -7650,9 +7650,9 @@
         "final": false
     },
     {
-        "_id": 1002246,
+        "id": 1002246,
         "name": "Belobog's Scythe 6",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 280,
         "element": "Poison",
         "element_attack": 28,
@@ -7665,9 +7665,9 @@
         "final": true
     },
     {
-        "_id": 1002497,
+        "id": 1002497,
         "name": "Alatreon Edge 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 250,
         "element": "Dragon",
         "element_attack": 41,
@@ -7680,9 +7680,9 @@
         "final": false
     },
     {
-        "_id": 1002498,
+        "id": 1002498,
         "name": "Alatreon Morphblade 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 270,
         "element": "Dragon",
         "element_attack": 42,
@@ -7695,9 +7695,9 @@
         "final": false
     },
     {
-        "_id": 1002499,
+        "id": 1002499,
         "name": "Altheos Transmutation 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 280,
         "element": "Dragon",
         "element_attack": 43,
@@ -7710,9 +7710,9 @@
         "final": true
     },
     {
-        "_id": 1002753,
+        "id": 1002753,
         "name": "Blossomauler 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 270,
         "element": "Fire",
         "element_attack": 17,
@@ -7725,9 +7725,9 @@
         "final": false
     },
     {
-        "_id": 1002754,
+        "id": 1002754,
         "name": "Propensity 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 280,
         "element": "Fire",
         "element_attack": 20,
@@ -7740,9 +7740,9 @@
         "final": false
     },
     {
-        "_id": 1002755,
+        "id": 1002755,
         "name": "Cornucopia 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 290,
         "element": "Fire",
         "element_attack": 22,
@@ -7755,9 +7755,9 @@
         "final": true
     },
     {
-        "_id": 1003009,
+        "id": 1003009,
         "name": "Research Blade 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 180,
         "element": "",
         "element_attack": 0,
@@ -7770,9 +7770,9 @@
         "final": false
     },
     {
-        "_id": 1003010,
+        "id": 1003010,
         "name": "Discovery Blade 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 200,
         "element": "",
         "element_attack": 0,
@@ -7785,9 +7785,9 @@
         "final": false
     },
     {
-        "_id": 1003011,
+        "id": 1003011,
         "name": "Discovery Blade 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 230,
         "element": "",
         "element_attack": 0,
@@ -7800,9 +7800,9 @@
         "final": false
     },
     {
-        "_id": 1003012,
+        "id": 1003012,
         "name": "Discovery Blade 4",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 280,
         "element": "",
         "element_attack": 0,
@@ -7815,9 +7815,9 @@
         "final": false
     },
     {
-        "_id": 1003013,
+        "id": 1003013,
         "name": "Authority Teleblade 5",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 300,
         "element": "",
         "element_attack": 0,
@@ -7830,9 +7830,9 @@
         "final": true
     },
     {
-        "_id": 1003265,
+        "id": 1003265,
         "name": "Chili Axe 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 200,
         "element": "Paralysis",
         "element_attack": 6,
@@ -7845,9 +7845,9 @@
         "final": false
     },
     {
-        "_id": 1003266,
+        "id": 1003266,
         "name": "Jalapeno Axe 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 230,
         "element": "Paralysis",
         "element_attack": 7,
@@ -7860,9 +7860,9 @@
         "final": false
     },
     {
-        "_id": 1003267,
+        "id": 1003267,
         "name": "Scotch Bonnet Axe 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 290,
         "element": "Paralysis",
         "element_attack": 8,
@@ -7875,9 +7875,9 @@
         "final": true
     },
     {
-        "_id": 1003521,
+        "id": 1003521,
         "name": "Elder Strongarm 1",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 260,
         "element": "",
         "element_attack": 0,
@@ -7890,9 +7890,9 @@
         "final": false
     },
     {
-        "_id": 1003522,
+        "id": 1003522,
         "name": "Sage Strongarm 2",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 280,
         "element": "",
         "element_attack": 0,
@@ -7905,9 +7905,9 @@
         "final": false
     },
     {
-        "_id": 1003523,
+        "id": 1003523,
         "name": "Philosopher Strongarm 3",
-        "wtype": "Charge Blade",
+        "type": "Charge Blade",
         "attack": 320,
         "element": "",
         "element_attack": 0,
