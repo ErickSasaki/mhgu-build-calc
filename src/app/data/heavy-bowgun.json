@@ -12,7 +12,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 327938,
@@ -27,7 +27,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 327939,
@@ -42,7 +42,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 327940,
@@ -57,7 +57,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 327941,
@@ -72,7 +72,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 327942,
@@ -87,7 +87,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 327943,
@@ -102,7 +102,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 327944,
@@ -117,7 +117,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 327945,
@@ -132,7 +132,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 327946,
@@ -147,7 +147,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 327947,
@@ -162,7 +162,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 3,
-        "final": 1
+        "final": true
     },
     {
         "_id": 328193,
@@ -177,7 +177,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 328194,
@@ -192,7 +192,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 328195,
@@ -207,7 +207,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 328196,
@@ -222,7 +222,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 328197,
@@ -237,7 +237,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 328198,
@@ -252,7 +252,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 3,
-        "final": 1
+        "final": true
     },
     {
         "_id": 328449,
@@ -267,7 +267,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 328450,
@@ -282,7 +282,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 328451,
@@ -297,7 +297,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 328452,
@@ -312,7 +312,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 328453,
@@ -327,7 +327,7 @@
         "sharpness": "",
         "affinity": 15,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 328454,
@@ -342,7 +342,7 @@
         "sharpness": "",
         "affinity": 15,
         "num_slots": 0,
-        "final": 1
+        "final": true
     },
     {
         "_id": 328705,
@@ -357,7 +357,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 328706,
@@ -372,7 +372,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 328707,
@@ -387,7 +387,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 328708,
@@ -402,7 +402,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 328709,
@@ -417,7 +417,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 1
+        "final": true
     },
     {
         "_id": 328961,
@@ -432,7 +432,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 328962,
@@ -447,7 +447,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 328963,
@@ -462,7 +462,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 328964,
@@ -477,7 +477,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 328965,
@@ -492,7 +492,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 328966,
@@ -507,7 +507,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 3,
-        "final": 0
+        "final": false
     },
     {
         "_id": 328967,
@@ -522,7 +522,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 3,
-        "final": 0
+        "final": false
     },
     {
         "_id": 328968,
@@ -537,7 +537,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 3,
-        "final": 1
+        "final": true
     },
     {
         "_id": 329217,
@@ -552,7 +552,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 329218,
@@ -567,7 +567,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 329219,
@@ -582,7 +582,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 329220,
@@ -597,7 +597,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 329221,
@@ -612,7 +612,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 329222,
@@ -627,7 +627,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 1
+        "final": true
     },
     {
         "_id": 329473,
@@ -642,7 +642,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 329474,
@@ -657,7 +657,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 329475,
@@ -672,7 +672,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 329476,
@@ -687,7 +687,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 329477,
@@ -702,7 +702,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 329478,
@@ -717,7 +717,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 329479,
@@ -732,7 +732,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 1
+        "final": true
     },
     {
         "_id": 329729,
@@ -747,7 +747,7 @@
         "sharpness": "",
         "affinity": 20,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 329730,
@@ -762,7 +762,7 @@
         "sharpness": "",
         "affinity": 20,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 329731,
@@ -777,7 +777,7 @@
         "sharpness": "",
         "affinity": 30,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 329732,
@@ -792,7 +792,7 @@
         "sharpness": "",
         "affinity": 30,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 329733,
@@ -807,7 +807,7 @@
         "sharpness": "",
         "affinity": 30,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 329734,
@@ -822,7 +822,7 @@
         "sharpness": "",
         "affinity": 30,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 329735,
@@ -837,7 +837,7 @@
         "sharpness": "",
         "affinity": 30,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 329736,
@@ -852,7 +852,7 @@
         "sharpness": "",
         "affinity": 30,
         "num_slots": 1,
-        "final": 1
+        "final": true
     },
     {
         "_id": 329985,
@@ -867,7 +867,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 329986,
@@ -882,7 +882,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 329987,
@@ -897,7 +897,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 329988,
@@ -912,7 +912,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 329989,
@@ -927,7 +927,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 329990,
@@ -942,7 +942,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 329991,
@@ -957,7 +957,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 1
+        "final": true
     },
     {
         "_id": 330241,
@@ -972,7 +972,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 330242,
@@ -987,7 +987,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 330243,
@@ -1002,7 +1002,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 330244,
@@ -1017,7 +1017,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 330245,
@@ -1032,7 +1032,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 1
+        "final": true
     },
     {
         "_id": 330497,
@@ -1047,7 +1047,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 330498,
@@ -1062,7 +1062,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 330499,
@@ -1077,7 +1077,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 330500,
@@ -1092,7 +1092,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 330501,
@@ -1107,7 +1107,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 330502,
@@ -1122,7 +1122,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 1
+        "final": true
     },
     {
         "_id": 330753,
@@ -1137,7 +1137,7 @@
         "sharpness": "",
         "affinity": 5,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 330754,
@@ -1152,7 +1152,7 @@
         "sharpness": "",
         "affinity": 5,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 330755,
@@ -1167,7 +1167,7 @@
         "sharpness": "",
         "affinity": 5,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 330756,
@@ -1182,7 +1182,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 330757,
@@ -1197,7 +1197,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 1,
-        "final": 1
+        "final": true
     },
     {
         "_id": 331009,
@@ -1212,7 +1212,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 331010,
@@ -1227,7 +1227,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 331011,
@@ -1242,7 +1242,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 331012,
@@ -1257,7 +1257,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 331013,
@@ -1272,7 +1272,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 331014,
@@ -1287,7 +1287,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 331015,
@@ -1302,7 +1302,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 331016,
@@ -1317,7 +1317,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 1
+        "final": true
     },
     {
         "_id": 331265,
@@ -1332,7 +1332,7 @@
         "sharpness": "",
         "affinity": 5,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 331266,
@@ -1347,7 +1347,7 @@
         "sharpness": "",
         "affinity": 5,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 331267,
@@ -1362,7 +1362,7 @@
         "sharpness": "",
         "affinity": 5,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 331268,
@@ -1377,7 +1377,7 @@
         "sharpness": "",
         "affinity": 5,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 331269,
@@ -1392,7 +1392,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 331270,
@@ -1407,7 +1407,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 0,
-        "final": 1
+        "final": true
     },
     {
         "_id": 331521,
@@ -1422,7 +1422,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 331522,
@@ -1437,7 +1437,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 331523,
@@ -1452,7 +1452,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 331524,
@@ -1467,7 +1467,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 331525,
@@ -1482,7 +1482,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 331526,
@@ -1497,7 +1497,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 331527,
@@ -1512,7 +1512,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 331528,
@@ -1527,7 +1527,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 331529,
@@ -1542,7 +1542,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 331530,
@@ -1557,7 +1557,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 331531,
@@ -1572,7 +1572,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 1
+        "final": true
     },
     {
         "_id": 331777,
@@ -1587,7 +1587,7 @@
         "sharpness": "",
         "affinity": -10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 331778,
@@ -1602,7 +1602,7 @@
         "sharpness": "",
         "affinity": -10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 331779,
@@ -1617,7 +1617,7 @@
         "sharpness": "",
         "affinity": -10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 331780,
@@ -1632,7 +1632,7 @@
         "sharpness": "",
         "affinity": -10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 331781,
@@ -1647,7 +1647,7 @@
         "sharpness": "",
         "affinity": -10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 331782,
@@ -1662,7 +1662,7 @@
         "sharpness": "",
         "affinity": -10,
         "num_slots": 0,
-        "final": 1
+        "final": true
     },
     {
         "_id": 332033,
@@ -1677,7 +1677,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 332034,
@@ -1692,7 +1692,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 332035,
@@ -1707,7 +1707,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 332036,
@@ -1722,7 +1722,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 332037,
@@ -1737,7 +1737,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 332038,
@@ -1752,7 +1752,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 332039,
@@ -1767,7 +1767,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 1
+        "final": true
     },
     {
         "_id": 332289,
@@ -1782,7 +1782,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 332290,
@@ -1797,7 +1797,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 332291,
@@ -1812,7 +1812,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 332292,
@@ -1827,7 +1827,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 332293,
@@ -1842,7 +1842,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 332294,
@@ -1857,7 +1857,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 332295,
@@ -1872,7 +1872,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 1
+        "final": true
     },
     {
         "_id": 332545,
@@ -1887,7 +1887,7 @@
         "sharpness": "",
         "affinity": 5,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 332546,
@@ -1902,7 +1902,7 @@
         "sharpness": "",
         "affinity": 5,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 332547,
@@ -1917,7 +1917,7 @@
         "sharpness": "",
         "affinity": 5,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 332548,
@@ -1932,7 +1932,7 @@
         "sharpness": "",
         "affinity": 5,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 332549,
@@ -1947,7 +1947,7 @@
         "sharpness": "",
         "affinity": 5,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 332550,
@@ -1962,7 +1962,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 332551,
@@ -1977,7 +1977,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 2,
-        "final": 1
+        "final": true
     },
     {
         "_id": 332801,
@@ -1992,7 +1992,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 332802,
@@ -2007,7 +2007,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 332803,
@@ -2022,7 +2022,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 332804,
@@ -2037,7 +2037,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 332805,
@@ -2052,7 +2052,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 332806,
@@ -2067,7 +2067,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 332807,
@@ -2082,7 +2082,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 1
+        "final": true
     },
     {
         "_id": 333057,
@@ -2097,7 +2097,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 333058,
@@ -2112,7 +2112,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 333059,
@@ -2127,7 +2127,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 333060,
@@ -2142,7 +2142,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 333061,
@@ -2157,7 +2157,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 333062,
@@ -2172,7 +2172,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 333063,
@@ -2187,7 +2187,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 1
+        "final": true
     },
     {
         "_id": 333313,
@@ -2202,7 +2202,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 333314,
@@ -2217,7 +2217,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 333315,
@@ -2232,7 +2232,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 333316,
@@ -2247,7 +2247,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 333317,
@@ -2262,7 +2262,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 1
+        "final": true
     },
     {
         "_id": 333569,
@@ -2277,7 +2277,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 333570,
@@ -2292,7 +2292,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 333571,
@@ -2307,7 +2307,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 333572,
@@ -2322,7 +2322,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 333573,
@@ -2337,7 +2337,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 333574,
@@ -2352,7 +2352,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 333575,
@@ -2367,7 +2367,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 333576,
@@ -2382,7 +2382,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 1
+        "final": true
     },
     {
         "_id": 333825,
@@ -2397,7 +2397,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 333826,
@@ -2412,7 +2412,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 333827,
@@ -2427,7 +2427,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 333828,
@@ -2442,7 +2442,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 333829,
@@ -2457,7 +2457,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 333830,
@@ -2472,7 +2472,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 1
+        "final": true
     },
     {
         "_id": 334081,
@@ -2487,7 +2487,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 334082,
@@ -2502,7 +2502,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 334083,
@@ -2517,7 +2517,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 334084,
@@ -2532,7 +2532,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 3,
-        "final": 0
+        "final": false
     },
     {
         "_id": 334085,
@@ -2547,7 +2547,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 3,
-        "final": 0
+        "final": false
     },
     {
         "_id": 334086,
@@ -2562,7 +2562,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 3,
-        "final": 0
+        "final": false
     },
     {
         "_id": 334087,
@@ -2577,7 +2577,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 3,
-        "final": 1
+        "final": true
     },
     {
         "_id": 334337,
@@ -2592,7 +2592,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 334338,
@@ -2607,7 +2607,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 334339,
@@ -2622,7 +2622,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 334340,
@@ -2637,7 +2637,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 334341,
@@ -2652,7 +2652,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 334342,
@@ -2667,7 +2667,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 1
+        "final": true
     },
     {
         "_id": 334593,
@@ -2682,7 +2682,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 334594,
@@ -2697,7 +2697,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 334595,
@@ -2712,7 +2712,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 334596,
@@ -2727,7 +2727,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 334597,
@@ -2742,7 +2742,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 1
+        "final": true
     },
     {
         "_id": 334849,
@@ -2757,7 +2757,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 334850,
@@ -2772,7 +2772,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 334851,
@@ -2787,7 +2787,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 334852,
@@ -2802,7 +2802,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 334853,
@@ -2817,7 +2817,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 334854,
@@ -2832,7 +2832,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 1
+        "final": true
     },
     {
         "_id": 335105,
@@ -2847,7 +2847,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 335106,
@@ -2862,7 +2862,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 335107,
@@ -2877,7 +2877,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 335108,
@@ -2892,7 +2892,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 335109,
@@ -2907,7 +2907,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 335110,
@@ -2922,7 +2922,7 @@
         "sharpness": "",
         "affinity": 15,
         "num_slots": 2,
-        "final": 1
+        "final": true
     },
     {
         "_id": 335361,
@@ -2937,7 +2937,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 335362,
@@ -2952,7 +2952,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 335363,
@@ -2967,7 +2967,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 335364,
@@ -2982,7 +2982,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 335365,
@@ -2997,7 +2997,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 335366,
@@ -3012,7 +3012,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 1,
-        "final": 1
+        "final": true
     },
     {
         "_id": 335617,
@@ -3027,7 +3027,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 335618,
@@ -3042,7 +3042,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 335619,
@@ -3057,7 +3057,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 335620,
@@ -3072,7 +3072,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 335621,
@@ -3087,7 +3087,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 335622,
@@ -3102,7 +3102,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 335623,
@@ -3117,7 +3117,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 335624,
@@ -3132,7 +3132,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 335625,
@@ -3147,7 +3147,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 335626,
@@ -3162,7 +3162,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 335627,
@@ -3177,7 +3177,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 1
+        "final": true
     },
     {
         "_id": 335873,
@@ -3192,7 +3192,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 335874,
@@ -3207,7 +3207,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 335875,
@@ -3222,7 +3222,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 335876,
@@ -3237,7 +3237,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 335877,
@@ -3252,7 +3252,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 1
+        "final": true
     },
     {
         "_id": 336129,
@@ -3267,7 +3267,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 336130,
@@ -3282,7 +3282,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 336131,
@@ -3297,7 +3297,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 336132,
@@ -3312,7 +3312,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 336133,
@@ -3327,7 +3327,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 336134,
@@ -3342,7 +3342,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 1
+        "final": true
     },
     {
         "_id": 336385,
@@ -3357,7 +3357,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 336386,
@@ -3372,7 +3372,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 336387,
@@ -3387,7 +3387,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 336388,
@@ -3402,7 +3402,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 336389,
@@ -3417,7 +3417,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 336390,
@@ -3432,7 +3432,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 336391,
@@ -3447,7 +3447,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 3,
-        "final": 1
+        "final": true
     },
     {
         "_id": 336641,
@@ -3462,7 +3462,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 336642,
@@ -3477,7 +3477,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 336643,
@@ -3492,7 +3492,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 336644,
@@ -3507,7 +3507,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 336645,
@@ -3522,7 +3522,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 336646,
@@ -3537,7 +3537,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 336647,
@@ -3552,7 +3552,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 1
+        "final": true
     },
     {
         "_id": 336897,
@@ -3567,7 +3567,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 336898,
@@ -3582,7 +3582,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 336899,
@@ -3597,7 +3597,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 336900,
@@ -3612,7 +3612,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 336901,
@@ -3627,7 +3627,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 336902,
@@ -3642,7 +3642,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 1,
-        "final": 1
+        "final": true
     },
     {
         "_id": 337153,
@@ -3657,7 +3657,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 337154,
@@ -3672,7 +3672,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 337155,
@@ -3687,7 +3687,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 337156,
@@ -3702,7 +3702,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 337157,
@@ -3717,7 +3717,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 337158,
@@ -3732,7 +3732,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 337159,
@@ -3747,7 +3747,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 1
+        "final": true
     },
     {
         "_id": 337409,
@@ -3762,7 +3762,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 337410,
@@ -3777,7 +3777,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 337411,
@@ -3792,7 +3792,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 337412,
@@ -3807,7 +3807,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 337413,
@@ -3822,7 +3822,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 1
+        "final": true
     },
     {
         "_id": 337665,
@@ -3837,7 +3837,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 337666,
@@ -3852,7 +3852,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 337667,
@@ -3867,7 +3867,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 337668,
@@ -3882,7 +3882,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 337669,
@@ -3897,7 +3897,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 1
+        "final": true
     },
     {
         "_id": 337921,
@@ -3912,7 +3912,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 337922,
@@ -3927,7 +3927,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 337923,
@@ -3942,7 +3942,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 337924,
@@ -3957,7 +3957,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 337925,
@@ -3972,7 +3972,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 337926,
@@ -3987,7 +3987,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 1
+        "final": true
     },
     {
         "_id": 338177,
@@ -4002,7 +4002,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 338178,
@@ -4017,7 +4017,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 338179,
@@ -4032,7 +4032,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 338180,
@@ -4047,7 +4047,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 338181,
@@ -4062,7 +4062,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 1
+        "final": true
     },
     {
         "_id": 338433,
@@ -4077,7 +4077,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 338434,
@@ -4092,7 +4092,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 338435,
@@ -4107,7 +4107,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 338436,
@@ -4122,7 +4122,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 338437,
@@ -4137,7 +4137,7 @@
         "sharpness": "",
         "affinity": 15,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 338438,
@@ -4152,7 +4152,7 @@
         "sharpness": "",
         "affinity": 15,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 338439,
@@ -4167,7 +4167,7 @@
         "sharpness": "",
         "affinity": 20,
         "num_slots": 2,
-        "final": 1
+        "final": true
     },
     {
         "_id": 338689,
@@ -4182,7 +4182,7 @@
         "sharpness": "",
         "affinity": -10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 338690,
@@ -4197,7 +4197,7 @@
         "sharpness": "",
         "affinity": -10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 338691,
@@ -4212,7 +4212,7 @@
         "sharpness": "",
         "affinity": -10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 338692,
@@ -4227,7 +4227,7 @@
         "sharpness": "",
         "affinity": -10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 338693,
@@ -4242,7 +4242,7 @@
         "sharpness": "",
         "affinity": -10,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 338694,
@@ -4257,7 +4257,7 @@
         "sharpness": "",
         "affinity": -10,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 338695,
@@ -4272,7 +4272,7 @@
         "sharpness": "",
         "affinity": -10,
         "num_slots": 1,
-        "final": 1
+        "final": true
     },
     {
         "_id": 338945,
@@ -4287,7 +4287,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 338946,
@@ -4302,7 +4302,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 338947,
@@ -4317,7 +4317,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 338948,
@@ -4332,7 +4332,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 338949,
@@ -4347,7 +4347,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 338950,
@@ -4362,7 +4362,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 338951,
@@ -4377,7 +4377,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 1
+        "final": true
     },
     {
         "_id": 339201,
@@ -4392,7 +4392,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 339202,
@@ -4407,7 +4407,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 339203,
@@ -4422,7 +4422,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 339204,
@@ -4437,7 +4437,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 339205,
@@ -4452,7 +4452,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 339206,
@@ -4467,7 +4467,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 339207,
@@ -4482,7 +4482,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 1
+        "final": true
     },
     {
         "_id": 339457,
@@ -4497,7 +4497,7 @@
         "sharpness": "",
         "affinity": 20,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 339458,
@@ -4512,7 +4512,7 @@
         "sharpness": "",
         "affinity": 20,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 339459,
@@ -4527,7 +4527,7 @@
         "sharpness": "",
         "affinity": 20,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 339460,
@@ -4542,7 +4542,7 @@
         "sharpness": "",
         "affinity": 20,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 339461,
@@ -4557,7 +4557,7 @@
         "sharpness": "",
         "affinity": 20,
         "num_slots": 2,
-        "final": 1
+        "final": true
     },
     {
         "_id": 339713,
@@ -4572,7 +4572,7 @@
         "sharpness": "",
         "affinity": 30,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 339714,
@@ -4587,7 +4587,7 @@
         "sharpness": "",
         "affinity": 30,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 339715,
@@ -4602,7 +4602,7 @@
         "sharpness": "",
         "affinity": 30,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 339716,
@@ -4617,7 +4617,7 @@
         "sharpness": "",
         "affinity": 30,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 339717,
@@ -4632,7 +4632,7 @@
         "sharpness": "",
         "affinity": 30,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 339718,
@@ -4647,7 +4647,7 @@
         "sharpness": "",
         "affinity": 30,
         "num_slots": 1,
-        "final": 1
+        "final": true
     },
     {
         "_id": 339969,
@@ -4662,7 +4662,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 339970,
@@ -4677,7 +4677,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 339971,
@@ -4692,7 +4692,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 339972,
@@ -4707,7 +4707,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 339973,
@@ -4722,7 +4722,7 @@
         "sharpness": "",
         "affinity": 20,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 339974,
@@ -4737,7 +4737,7 @@
         "sharpness": "",
         "affinity": 20,
         "num_slots": 1,
-        "final": 1
+        "final": true
     },
     {
         "_id": 340225,
@@ -4752,7 +4752,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 340226,
@@ -4767,7 +4767,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 340227,
@@ -4782,7 +4782,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 340228,
@@ -4797,7 +4797,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 340229,
@@ -4812,7 +4812,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 3,
-        "final": 1
+        "final": true
     },
     {
         "_id": 340481,
@@ -4827,7 +4827,7 @@
         "sharpness": "",
         "affinity": 5,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 340482,
@@ -4842,7 +4842,7 @@
         "sharpness": "",
         "affinity": 5,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 340483,
@@ -4857,7 +4857,7 @@
         "sharpness": "",
         "affinity": 5,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 340484,
@@ -4872,7 +4872,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 340485,
@@ -4887,7 +4887,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 0,
-        "final": 1
+        "final": true
     },
     {
         "_id": 340737,
@@ -4902,7 +4902,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 340738,
@@ -4917,7 +4917,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 340739,
@@ -4932,7 +4932,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 340740,
@@ -4947,7 +4947,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 340741,
@@ -4962,7 +4962,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 340742,
@@ -4977,7 +4977,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 1
+        "final": true
     },
     {
         "_id": 340993,
@@ -4992,7 +4992,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 3,
-        "final": 0
+        "final": false
     },
     {
         "_id": 340994,
@@ -5007,7 +5007,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 3,
-        "final": 0
+        "final": false
     },
     {
         "_id": 340995,
@@ -5022,7 +5022,7 @@
         "sharpness": "",
         "affinity": 15,
         "num_slots": 3,
-        "final": 0
+        "final": false
     },
     {
         "_id": 340996,
@@ -5037,7 +5037,7 @@
         "sharpness": "",
         "affinity": 15,
         "num_slots": 3,
-        "final": 0
+        "final": false
     },
     {
         "_id": 340997,
@@ -5052,7 +5052,7 @@
         "sharpness": "",
         "affinity": 20,
         "num_slots": 3,
-        "final": 1
+        "final": true
     },
     {
         "_id": 341249,
@@ -5067,7 +5067,7 @@
         "sharpness": "",
         "affinity": -10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 341250,
@@ -5082,7 +5082,7 @@
         "sharpness": "",
         "affinity": -10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 341251,
@@ -5097,7 +5097,7 @@
         "sharpness": "",
         "affinity": -10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 341252,
@@ -5112,7 +5112,7 @@
         "sharpness": "",
         "affinity": -10,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 341253,
@@ -5127,7 +5127,7 @@
         "sharpness": "",
         "affinity": -10,
         "num_slots": 1,
-        "final": 1
+        "final": true
     },
     {
         "_id": 341505,
@@ -5142,7 +5142,7 @@
         "sharpness": "",
         "affinity": -15,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 341506,
@@ -5157,7 +5157,7 @@
         "sharpness": "",
         "affinity": -15,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 341507,
@@ -5172,7 +5172,7 @@
         "sharpness": "",
         "affinity": -15,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 341508,
@@ -5187,7 +5187,7 @@
         "sharpness": "",
         "affinity": -15,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 341509,
@@ -5202,7 +5202,7 @@
         "sharpness": "",
         "affinity": -15,
         "num_slots": 0,
-        "final": 1
+        "final": true
     },
     {
         "_id": 341761,
@@ -5217,7 +5217,7 @@
         "sharpness": "",
         "affinity": 40,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 341762,
@@ -5232,7 +5232,7 @@
         "sharpness": "",
         "affinity": 40,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 341763,
@@ -5247,7 +5247,7 @@
         "sharpness": "",
         "affinity": 40,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 341764,
@@ -5262,7 +5262,7 @@
         "sharpness": "",
         "affinity": 40,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 341765,
@@ -5277,7 +5277,7 @@
         "sharpness": "",
         "affinity": 40,
         "num_slots": 0,
-        "final": 1
+        "final": true
     },
     {
         "_id": 342017,
@@ -5292,7 +5292,7 @@
         "sharpness": "",
         "affinity": -30,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 342018,
@@ -5307,7 +5307,7 @@
         "sharpness": "",
         "affinity": -30,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 342019,
@@ -5322,7 +5322,7 @@
         "sharpness": "",
         "affinity": -30,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 342020,
@@ -5337,7 +5337,7 @@
         "sharpness": "",
         "affinity": -30,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 342021,
@@ -5352,7 +5352,7 @@
         "sharpness": "",
         "affinity": -30,
         "num_slots": 2,
-        "final": 1
+        "final": true
     },
     {
         "_id": 342273,
@@ -5367,7 +5367,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 342274,
@@ -5382,7 +5382,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 342275,
@@ -5397,7 +5397,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 342276,
@@ -5412,7 +5412,7 @@
         "sharpness": "",
         "affinity": 15,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 342277,
@@ -5427,7 +5427,7 @@
         "sharpness": "",
         "affinity": 15,
         "num_slots": 0,
-        "final": 1
+        "final": true
     },
     {
         "_id": 342529,
@@ -5442,7 +5442,7 @@
         "sharpness": "",
         "affinity": -5,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 342530,
@@ -5457,7 +5457,7 @@
         "sharpness": "",
         "affinity": -5,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 342531,
@@ -5472,7 +5472,7 @@
         "sharpness": "",
         "affinity": -5,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 342532,
@@ -5487,7 +5487,7 @@
         "sharpness": "",
         "affinity": -5,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 342533,
@@ -5502,7 +5502,7 @@
         "sharpness": "",
         "affinity": -5,
         "num_slots": 2,
-        "final": 1
+        "final": true
     },
     {
         "_id": 342785,
@@ -5517,7 +5517,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 342786,
@@ -5532,7 +5532,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 342787,
@@ -5547,7 +5547,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 342788,
@@ -5562,7 +5562,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 342789,
@@ -5577,7 +5577,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 342790,
@@ -5592,7 +5592,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 342791,
@@ -5607,7 +5607,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 1
+        "final": true
     },
     {
         "_id": 343041,
@@ -5622,7 +5622,7 @@
         "sharpness": "",
         "affinity": 40,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 343042,
@@ -5637,7 +5637,7 @@
         "sharpness": "",
         "affinity": 40,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 343043,
@@ -5652,7 +5652,7 @@
         "sharpness": "",
         "affinity": 40,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 343044,
@@ -5667,7 +5667,7 @@
         "sharpness": "",
         "affinity": 40,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 343045,
@@ -5682,7 +5682,7 @@
         "sharpness": "",
         "affinity": 40,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 343046,
@@ -5697,7 +5697,7 @@
         "sharpness": "",
         "affinity": 40,
         "num_slots": 2,
-        "final": 1
+        "final": true
     },
     {
         "_id": 343297,
@@ -5712,7 +5712,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 343298,
@@ -5727,7 +5727,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 343299,
@@ -5742,7 +5742,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 343300,
@@ -5757,7 +5757,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 343301,
@@ -5772,7 +5772,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 343302,
@@ -5787,7 +5787,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 1
+        "final": true
     },
     {
         "_id": 343553,
@@ -5802,7 +5802,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 343554,
@@ -5817,7 +5817,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 343555,
@@ -5832,7 +5832,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 343556,
@@ -5847,7 +5847,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 343557,
@@ -5862,7 +5862,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 343558,
@@ -5877,7 +5877,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 343559,
@@ -5892,7 +5892,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 343560,
@@ -5907,7 +5907,7 @@
         "sharpness": "",
         "affinity": 20,
         "num_slots": 0,
-        "final": 1
+        "final": true
     },
     {
         "_id": 343809,
@@ -5922,7 +5922,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 343810,
@@ -5937,7 +5937,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 343811,
@@ -5952,7 +5952,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 343812,
@@ -5967,7 +5967,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 343813,
@@ -5982,7 +5982,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 3,
-        "final": 0
+        "final": false
     },
     {
         "_id": 343814,
@@ -5997,7 +5997,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 3,
-        "final": 1
+        "final": true
     },
     {
         "_id": 344065,
@@ -6012,7 +6012,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 3,
-        "final": 0
+        "final": false
     },
     {
         "_id": 344066,
@@ -6027,7 +6027,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 3,
-        "final": 0
+        "final": false
     },
     {
         "_id": 344067,
@@ -6042,7 +6042,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 3,
-        "final": 0
+        "final": false
     },
     {
         "_id": 344068,
@@ -6057,7 +6057,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 3,
-        "final": 0
+        "final": false
     },
     {
         "_id": 344069,
@@ -6072,7 +6072,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 3,
-        "final": 1
+        "final": true
     },
     {
         "_id": 344321,
@@ -6087,7 +6087,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 344322,
@@ -6102,7 +6102,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 344323,
@@ -6117,7 +6117,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 344324,
@@ -6132,7 +6132,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 344325,
@@ -6147,7 +6147,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 1
+        "final": true
     },
     {
         "_id": 344577,
@@ -6162,7 +6162,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 344578,
@@ -6177,7 +6177,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 344579,
@@ -6192,7 +6192,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 344580,
@@ -6207,7 +6207,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 344581,
@@ -6222,7 +6222,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 1
+        "final": true
     },
     {
         "_id": 344833,
@@ -6237,7 +6237,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 344834,
@@ -6252,7 +6252,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 344835,
@@ -6267,7 +6267,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 344836,
@@ -6282,7 +6282,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 344837,
@@ -6297,7 +6297,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 344838,
@@ -6312,7 +6312,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 344839,
@@ -6327,7 +6327,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 1
+        "final": true
     },
     {
         "_id": 345089,
@@ -6342,7 +6342,7 @@
         "sharpness": "",
         "affinity": -30,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 345090,
@@ -6357,7 +6357,7 @@
         "sharpness": "",
         "affinity": -30,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 345091,
@@ -6372,7 +6372,7 @@
         "sharpness": "",
         "affinity": -30,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 345092,
@@ -6387,7 +6387,7 @@
         "sharpness": "",
         "affinity": -30,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 345093,
@@ -6402,7 +6402,7 @@
         "sharpness": "",
         "affinity": -30,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 345094,
@@ -6417,7 +6417,7 @@
         "sharpness": "",
         "affinity": -30,
         "num_slots": 0,
-        "final": 1
+        "final": true
     },
     {
         "_id": 345345,
@@ -6432,7 +6432,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 345346,
@@ -6447,7 +6447,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 345347,
@@ -6462,7 +6462,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 345348,
@@ -6477,7 +6477,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 345349,
@@ -6492,7 +6492,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 345350,
@@ -6507,7 +6507,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 345351,
@@ -6522,7 +6522,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 345352,
@@ -6537,7 +6537,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 345353,
@@ -6552,7 +6552,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 345354,
@@ -6567,7 +6567,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 345355,
@@ -6582,7 +6582,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 345356,
@@ -6597,7 +6597,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 345357,
@@ -6612,7 +6612,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 345358,
@@ -6627,7 +6627,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 345359,
@@ -6642,7 +6642,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 1
+        "final": true
     },
     {
         "_id": 345601,
@@ -6657,7 +6657,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 345602,
@@ -6672,7 +6672,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 345603,
@@ -6687,7 +6687,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 345604,
@@ -6702,7 +6702,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 345605,
@@ -6717,7 +6717,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 345606,
@@ -6732,7 +6732,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 345607,
@@ -6747,7 +6747,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 345608,
@@ -6762,7 +6762,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 345609,
@@ -6777,7 +6777,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 345610,
@@ -6792,7 +6792,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 345611,
@@ -6807,7 +6807,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 345612,
@@ -6822,7 +6822,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 345613,
@@ -6837,7 +6837,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 345614,
@@ -6852,7 +6852,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 345615,
@@ -6867,7 +6867,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 1
+        "final": true
     },
     {
         "_id": 345857,
@@ -6882,7 +6882,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 345858,
@@ -6897,7 +6897,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 345859,
@@ -6912,7 +6912,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 345860,
@@ -6927,7 +6927,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 345861,
@@ -6942,7 +6942,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 345862,
@@ -6957,7 +6957,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 345863,
@@ -6972,7 +6972,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 345864,
@@ -6987,7 +6987,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 345865,
@@ -7002,7 +7002,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 345866,
@@ -7017,7 +7017,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 345867,
@@ -7032,7 +7032,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 345868,
@@ -7047,7 +7047,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 345869,
@@ -7062,7 +7062,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 345870,
@@ -7077,7 +7077,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 345871,
@@ -7092,7 +7092,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 1
+        "final": true
     },
     {
         "_id": 346113,
@@ -7107,7 +7107,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346114,
@@ -7122,7 +7122,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346115,
@@ -7137,7 +7137,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346116,
@@ -7152,7 +7152,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346117,
@@ -7167,7 +7167,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346118,
@@ -7182,7 +7182,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346119,
@@ -7197,7 +7197,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346120,
@@ -7212,7 +7212,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346121,
@@ -7227,7 +7227,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346122,
@@ -7242,7 +7242,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346123,
@@ -7257,7 +7257,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346124,
@@ -7272,7 +7272,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346125,
@@ -7287,7 +7287,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346126,
@@ -7302,7 +7302,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346127,
@@ -7317,7 +7317,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 1
+        "final": true
     },
     {
         "_id": 346369,
@@ -7332,7 +7332,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346370,
@@ -7347,7 +7347,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346371,
@@ -7362,7 +7362,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346372,
@@ -7377,7 +7377,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346373,
@@ -7392,7 +7392,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346374,
@@ -7407,7 +7407,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346375,
@@ -7422,7 +7422,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346376,
@@ -7437,7 +7437,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346377,
@@ -7452,7 +7452,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346378,
@@ -7467,7 +7467,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346379,
@@ -7482,7 +7482,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346380,
@@ -7497,7 +7497,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346381,
@@ -7512,7 +7512,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346382,
@@ -7527,7 +7527,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346383,
@@ -7542,7 +7542,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 1
+        "final": true
     },
     {
         "_id": 346625,
@@ -7557,7 +7557,7 @@
         "sharpness": "",
         "affinity": 20,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346626,
@@ -7572,7 +7572,7 @@
         "sharpness": "",
         "affinity": 30,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346627,
@@ -7587,7 +7587,7 @@
         "sharpness": "",
         "affinity": 20,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346628,
@@ -7602,7 +7602,7 @@
         "sharpness": "",
         "affinity": 30,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346629,
@@ -7617,7 +7617,7 @@
         "sharpness": "",
         "affinity": 20,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346630,
@@ -7632,7 +7632,7 @@
         "sharpness": "",
         "affinity": 30,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346631,
@@ -7647,7 +7647,7 @@
         "sharpness": "",
         "affinity": 20,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346632,
@@ -7662,7 +7662,7 @@
         "sharpness": "",
         "affinity": 30,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346633,
@@ -7677,7 +7677,7 @@
         "sharpness": "",
         "affinity": 20,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346634,
@@ -7692,7 +7692,7 @@
         "sharpness": "",
         "affinity": 30,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346635,
@@ -7707,7 +7707,7 @@
         "sharpness": "",
         "affinity": 30,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346636,
@@ -7722,7 +7722,7 @@
         "sharpness": "",
         "affinity": 30,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346637,
@@ -7737,7 +7737,7 @@
         "sharpness": "",
         "affinity": 30,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346638,
@@ -7752,7 +7752,7 @@
         "sharpness": "",
         "affinity": 30,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346639,
@@ -7767,7 +7767,7 @@
         "sharpness": "",
         "affinity": 30,
         "num_slots": 0,
-        "final": 1
+        "final": true
     },
     {
         "_id": 346881,
@@ -7782,7 +7782,7 @@
         "sharpness": "",
         "affinity": -20,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346882,
@@ -7797,7 +7797,7 @@
         "sharpness": "",
         "affinity": -10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346883,
@@ -7812,7 +7812,7 @@
         "sharpness": "",
         "affinity": -20,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346884,
@@ -7827,7 +7827,7 @@
         "sharpness": "",
         "affinity": -10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346885,
@@ -7842,7 +7842,7 @@
         "sharpness": "",
         "affinity": -20,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346886,
@@ -7857,7 +7857,7 @@
         "sharpness": "",
         "affinity": -10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346887,
@@ -7872,7 +7872,7 @@
         "sharpness": "",
         "affinity": -20,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346888,
@@ -7887,7 +7887,7 @@
         "sharpness": "",
         "affinity": -10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346889,
@@ -7902,7 +7902,7 @@
         "sharpness": "",
         "affinity": -20,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346890,
@@ -7917,7 +7917,7 @@
         "sharpness": "",
         "affinity": -10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346891,
@@ -7932,7 +7932,7 @@
         "sharpness": "",
         "affinity": -10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346892,
@@ -7947,7 +7947,7 @@
         "sharpness": "",
         "affinity": -10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346893,
@@ -7962,7 +7962,7 @@
         "sharpness": "",
         "affinity": -10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346894,
@@ -7977,7 +7977,7 @@
         "sharpness": "",
         "affinity": -10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 346895,
@@ -7992,7 +7992,7 @@
         "sharpness": "",
         "affinity": -10,
         "num_slots": 0,
-        "final": 1
+        "final": true
     },
     {
         "_id": 347137,
@@ -8007,7 +8007,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347138,
@@ -8022,7 +8022,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347139,
@@ -8037,7 +8037,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347140,
@@ -8052,7 +8052,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347141,
@@ -8067,7 +8067,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347142,
@@ -8082,7 +8082,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347143,
@@ -8097,7 +8097,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347144,
@@ -8112,7 +8112,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347145,
@@ -8127,7 +8127,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347146,
@@ -8142,7 +8142,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347147,
@@ -8157,7 +8157,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347148,
@@ -8172,7 +8172,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347149,
@@ -8187,7 +8187,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347150,
@@ -8202,7 +8202,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347151,
@@ -8217,7 +8217,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 1
+        "final": true
     },
     {
         "_id": 347393,
@@ -8232,7 +8232,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347394,
@@ -8247,7 +8247,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347395,
@@ -8262,7 +8262,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347396,
@@ -8277,7 +8277,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347397,
@@ -8292,7 +8292,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347398,
@@ -8307,7 +8307,7 @@
         "sharpness": "",
         "affinity": 20,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347399,
@@ -8322,7 +8322,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347400,
@@ -8337,7 +8337,7 @@
         "sharpness": "",
         "affinity": 20,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347401,
@@ -8352,7 +8352,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347402,
@@ -8367,7 +8367,7 @@
         "sharpness": "",
         "affinity": 20,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347403,
@@ -8382,7 +8382,7 @@
         "sharpness": "",
         "affinity": 20,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347404,
@@ -8397,7 +8397,7 @@
         "sharpness": "",
         "affinity": 20,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347405,
@@ -8412,7 +8412,7 @@
         "sharpness": "",
         "affinity": 20,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347406,
@@ -8427,7 +8427,7 @@
         "sharpness": "",
         "affinity": 20,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347407,
@@ -8442,7 +8442,7 @@
         "sharpness": "",
         "affinity": 20,
         "num_slots": 0,
-        "final": 1
+        "final": true
     },
     {
         "_id": 347649,
@@ -8457,7 +8457,7 @@
         "sharpness": "",
         "affinity": -20,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347650,
@@ -8472,7 +8472,7 @@
         "sharpness": "",
         "affinity": -10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347651,
@@ -8487,7 +8487,7 @@
         "sharpness": "",
         "affinity": -20,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347652,
@@ -8502,7 +8502,7 @@
         "sharpness": "",
         "affinity": -10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347653,
@@ -8517,7 +8517,7 @@
         "sharpness": "",
         "affinity": -20,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347654,
@@ -8532,7 +8532,7 @@
         "sharpness": "",
         "affinity": -10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347655,
@@ -8547,7 +8547,7 @@
         "sharpness": "",
         "affinity": -20,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347656,
@@ -8562,7 +8562,7 @@
         "sharpness": "",
         "affinity": -10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347657,
@@ -8577,7 +8577,7 @@
         "sharpness": "",
         "affinity": -20,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347658,
@@ -8592,7 +8592,7 @@
         "sharpness": "",
         "affinity": -10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347659,
@@ -8607,7 +8607,7 @@
         "sharpness": "",
         "affinity": -10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347660,
@@ -8622,7 +8622,7 @@
         "sharpness": "",
         "affinity": -10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347661,
@@ -8637,7 +8637,7 @@
         "sharpness": "",
         "affinity": -10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347662,
@@ -8652,7 +8652,7 @@
         "sharpness": "",
         "affinity": -10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347663,
@@ -8667,7 +8667,7 @@
         "sharpness": "",
         "affinity": -10,
         "num_slots": 0,
-        "final": 1
+        "final": true
     },
     {
         "_id": 347905,
@@ -8682,7 +8682,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347906,
@@ -8697,7 +8697,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347907,
@@ -8712,7 +8712,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347908,
@@ -8727,7 +8727,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347909,
@@ -8742,7 +8742,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347910,
@@ -8757,7 +8757,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347911,
@@ -8772,7 +8772,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347912,
@@ -8787,7 +8787,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347913,
@@ -8802,7 +8802,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347914,
@@ -8817,7 +8817,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347915,
@@ -8832,7 +8832,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347916,
@@ -8847,7 +8847,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347917,
@@ -8862,7 +8862,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347918,
@@ -8877,7 +8877,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 347919,
@@ -8892,7 +8892,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 1
+        "final": true
     },
     {
         "_id": 348161,
@@ -8907,7 +8907,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 348162,
@@ -8922,7 +8922,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 348163,
@@ -8937,7 +8937,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 348164,
@@ -8952,7 +8952,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 348165,
@@ -8967,7 +8967,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 1
+        "final": true
     },
     {
         "_id": 348417,
@@ -8982,7 +8982,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 3,
-        "final": 0
+        "final": false
     },
     {
         "_id": 348418,
@@ -8997,7 +8997,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 3,
-        "final": 0
+        "final": false
     },
     {
         "_id": 348419,
@@ -9012,7 +9012,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 3,
-        "final": 1
+        "final": true
     },
     {
         "_id": 348673,
@@ -9027,7 +9027,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 348674,
@@ -9042,7 +9042,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 348675,
@@ -9057,7 +9057,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 348676,
@@ -9072,7 +9072,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 348677,
@@ -9087,7 +9087,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 348678,
@@ -9102,7 +9102,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 1
+        "final": true
     },
     {
         "_id": 348929,
@@ -9117,7 +9117,7 @@
         "sharpness": "",
         "affinity": 20,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 348930,
@@ -9132,7 +9132,7 @@
         "sharpness": "",
         "affinity": 20,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 348931,
@@ -9147,7 +9147,7 @@
         "sharpness": "",
         "affinity": 20,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 348932,
@@ -9162,7 +9162,7 @@
         "sharpness": "",
         "affinity": 20,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 348933,
@@ -9177,7 +9177,7 @@
         "sharpness": "",
         "affinity": 20,
         "num_slots": 0,
-        "final": 1
+        "final": true
     },
     {
         "_id": 349185,
@@ -9192,7 +9192,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 349186,
@@ -9207,7 +9207,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 349187,
@@ -9222,7 +9222,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 349188,
@@ -9237,7 +9237,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 349189,
@@ -9252,7 +9252,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 1
+        "final": true
     },
     {
         "_id": 349441,
@@ -9267,7 +9267,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 349442,
@@ -9282,7 +9282,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 349443,
@@ -9297,7 +9297,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 349444,
@@ -9312,7 +9312,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 349445,
@@ -9327,7 +9327,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 1
+        "final": true
     },
     {
         "_id": 349697,
@@ -9342,7 +9342,7 @@
         "sharpness": "",
         "affinity": -20,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 349698,
@@ -9357,7 +9357,7 @@
         "sharpness": "",
         "affinity": -20,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 349699,
@@ -9372,7 +9372,7 @@
         "sharpness": "",
         "affinity": -20,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 349700,
@@ -9387,7 +9387,7 @@
         "sharpness": "",
         "affinity": -20,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 349701,
@@ -9402,7 +9402,7 @@
         "sharpness": "",
         "affinity": -20,
         "num_slots": 0,
-        "final": 1
+        "final": true
     },
     {
         "_id": 349953,
@@ -9417,7 +9417,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 349954,
@@ -9432,7 +9432,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 349955,
@@ -9447,7 +9447,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 349956,
@@ -9462,7 +9462,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 349957,
@@ -9477,7 +9477,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 0,
-        "final": 1
+        "final": true
     },
     {
         "_id": 350209,
@@ -9492,7 +9492,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 350210,
@@ -9507,7 +9507,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 350211,
@@ -9522,7 +9522,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 350212,
@@ -9537,7 +9537,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 350213,
@@ -9552,7 +9552,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 1
+        "final": true
     },
     {
         "_id": 350465,
@@ -9567,7 +9567,7 @@
         "sharpness": "",
         "affinity": -10,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 350466,
@@ -9582,7 +9582,7 @@
         "sharpness": "",
         "affinity": -10,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 350467,
@@ -9597,7 +9597,7 @@
         "sharpness": "",
         "affinity": -10,
         "num_slots": 2,
-        "final": 1
+        "final": true
     },
     {
         "_id": 350721,
@@ -9612,7 +9612,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 3,
-        "final": 0
+        "final": false
     },
     {
         "_id": 350722,
@@ -9627,7 +9627,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 3,
-        "final": 0
+        "final": false
     },
     {
         "_id": 350723,
@@ -9642,7 +9642,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 3,
-        "final": 1
+        "final": true
     },
     {
         "_id": 350977,
@@ -9657,7 +9657,7 @@
         "sharpness": "",
         "affinity": -15,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 350978,
@@ -9672,7 +9672,7 @@
         "sharpness": "",
         "affinity": -15,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 350979,
@@ -9687,7 +9687,7 @@
         "sharpness": "",
         "affinity": -15,
         "num_slots": 2,
-        "final": 1
+        "final": true
     },
     {
         "_id": 351233,
@@ -9702,7 +9702,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 351234,
@@ -9717,7 +9717,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 351235,
@@ -9732,7 +9732,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 1
+        "final": true
     },
     {
         "_id": 351489,
@@ -9747,7 +9747,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 351490,
@@ -9762,7 +9762,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 351491,
@@ -9777,7 +9777,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 1
+        "final": true
     },
     {
         "_id": 351745,
@@ -9792,7 +9792,7 @@
         "sharpness": "",
         "affinity": 20,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 351746,
@@ -9807,7 +9807,7 @@
         "sharpness": "",
         "affinity": 20,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 351747,
@@ -9822,7 +9822,7 @@
         "sharpness": "",
         "affinity": 20,
         "num_slots": 2,
-        "final": 1
+        "final": true
     },
     {
         "_id": 352001,
@@ -9837,7 +9837,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 352002,
@@ -9852,7 +9852,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 352003,
@@ -9867,7 +9867,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 352004,
@@ -9882,7 +9882,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 352005,
@@ -9897,7 +9897,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 1
+        "final": true
     },
     {
         "_id": 352257,
@@ -9912,7 +9912,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 352258,
@@ -9927,7 +9927,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 352259,
@@ -9942,7 +9942,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 352260,
@@ -9957,7 +9957,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 352261,
@@ -9972,7 +9972,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 352262,
@@ -9987,7 +9987,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 1
+        "final": true
     },
     {
         "_id": 352513,
@@ -10002,7 +10002,7 @@
         "sharpness": "",
         "affinity": -20,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 352514,
@@ -10017,7 +10017,7 @@
         "sharpness": "",
         "affinity": -20,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 352515,
@@ -10032,7 +10032,7 @@
         "sharpness": "",
         "affinity": -20,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 352516,
@@ -10047,7 +10047,7 @@
         "sharpness": "",
         "affinity": -30,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 352517,
@@ -10062,7 +10062,7 @@
         "sharpness": "",
         "affinity": -30,
         "num_slots": 1,
-        "final": 1
+        "final": true
     },
     {
         "_id": 352769,
@@ -10077,7 +10077,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 352770,
@@ -10092,7 +10092,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 352771,
@@ -10107,7 +10107,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 352772,
@@ -10122,7 +10122,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 352773,
@@ -10137,7 +10137,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 352774,
@@ -10152,7 +10152,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 1
+        "final": true
     },
     {
         "_id": 353025,
@@ -10167,7 +10167,7 @@
         "sharpness": "",
         "affinity": 20,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 353026,
@@ -10182,7 +10182,7 @@
         "sharpness": "",
         "affinity": 20,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 353027,
@@ -10197,7 +10197,7 @@
         "sharpness": "",
         "affinity": 30,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 353028,
@@ -10212,7 +10212,7 @@
         "sharpness": "",
         "affinity": 30,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 353029,
@@ -10227,7 +10227,7 @@
         "sharpness": "",
         "affinity": 30,
         "num_slots": 2,
-        "final": 1
+        "final": true
     },
     {
         "_id": 353281,
@@ -10242,7 +10242,7 @@
         "sharpness": "",
         "affinity": 15,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 353282,
@@ -10257,7 +10257,7 @@
         "sharpness": "",
         "affinity": 15,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 353283,
@@ -10272,7 +10272,7 @@
         "sharpness": "",
         "affinity": 25,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 353284,
@@ -10287,7 +10287,7 @@
         "sharpness": "",
         "affinity": 25,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 353285,
@@ -10302,7 +10302,7 @@
         "sharpness": "",
         "affinity": 25,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 353286,
@@ -10317,7 +10317,7 @@
         "sharpness": "",
         "affinity": 40,
         "num_slots": 2,
-        "final": 1
+        "final": true
     },
     {
         "_id": 353537,
@@ -10332,7 +10332,7 @@
         "sharpness": "",
         "affinity": 20,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 353538,
@@ -10347,7 +10347,7 @@
         "sharpness": "",
         "affinity": 20,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 353539,
@@ -10362,7 +10362,7 @@
         "sharpness": "",
         "affinity": 20,
         "num_slots": 2,
-        "final": 1
+        "final": true
     },
     {
         "_id": 353793,
@@ -10377,7 +10377,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 353794,
@@ -10392,7 +10392,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 353795,
@@ -10407,7 +10407,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 1
+        "final": true
     },
     {
         "_id": 354049,
@@ -10422,7 +10422,7 @@
         "sharpness": "",
         "affinity": 15,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 354050,
@@ -10437,7 +10437,7 @@
         "sharpness": "",
         "affinity": 15,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 354051,
@@ -10452,7 +10452,7 @@
         "sharpness": "",
         "affinity": 20,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 354052,
@@ -10467,7 +10467,7 @@
         "sharpness": "",
         "affinity": 20,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 354053,
@@ -10482,7 +10482,7 @@
         "sharpness": "",
         "affinity": 30,
         "num_slots": 3,
-        "final": 1
+        "final": true
     },
     {
         "_id": 354305,
@@ -10497,7 +10497,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 354306,
@@ -10512,7 +10512,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 354307,
@@ -10527,7 +10527,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 1
+        "final": true
     },
     {
         "_id": 354561,
@@ -10542,7 +10542,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 354562,
@@ -10557,7 +10557,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 354563,
@@ -10572,7 +10572,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 354564,
@@ -10587,7 +10587,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 0
+        "final": false
     },
     {
         "_id": 354565,
@@ -10602,7 +10602,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 2,
-        "final": 1
+        "final": true
     },
     {
         "_id": 354817,
@@ -10617,7 +10617,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 3,
-        "final": 0
+        "final": false
     },
     {
         "_id": 354818,
@@ -10632,7 +10632,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 3,
-        "final": 0
+        "final": false
     },
     {
         "_id": 354819,
@@ -10647,7 +10647,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 3,
-        "final": 0
+        "final": false
     },
     {
         "_id": 354820,
@@ -10662,7 +10662,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 3,
-        "final": 0
+        "final": false
     },
     {
         "_id": 354821,
@@ -10677,7 +10677,7 @@
         "sharpness": "",
         "affinity": 10,
         "num_slots": 3,
-        "final": 1
+        "final": true
     },
     {
         "_id": 355073,
@@ -10692,7 +10692,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 355074,
@@ -10707,7 +10707,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 0
+        "final": false
     },
     {
         "_id": 355075,
@@ -10722,7 +10722,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 0,
-        "final": 1
+        "final": true
     },
     {
         "_id": 355329,
@@ -10737,7 +10737,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 355330,
@@ -10752,7 +10752,7 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 0
+        "final": false
     },
     {
         "_id": 355331,
@@ -10767,6 +10767,6 @@
         "sharpness": "",
         "affinity": 0,
         "num_slots": 1,
-        "final": 1
+        "final": true
     }
 ]
