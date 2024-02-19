@@ -5,14 +5,14 @@
                 <h4>Weapon</h4>
 
                 <div class="input-search">
-                    <input formControlName="weaponType" placeholder="Weapon Type" readonly>
+                    <input formControlName="type" placeholder="Weapon Type" readonly>
                     <button class="open-button" (click)="openSelectWeaponType()" type="button">
                         <mat-icon>open_in_new</mat-icon>
                     </button>
                 </div>
 
-                <div class="input-search">
-                    <input formControlName="weaponName" placeholder="Weapon Name" readonly>
+                <div class="input-search" *ngIf="form.value.weapon?.type">
+                    <input formControlName="name" placeholder="Weapon Name" readonly>
                     <button class="open-button" (click)="openWeaponSearch()" type="button">
                         <mat-icon>open_in_new</mat-icon>
                     </button>

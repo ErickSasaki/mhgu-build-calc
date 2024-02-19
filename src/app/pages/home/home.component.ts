@@ -9,7 +9,7 @@ import { WeaponTypeDialogComponent } from '../../components/weapon-type-dialog/w
 import { WeaponTypes } from '../../types/weapon-type';
 import {MatIconModule} from '@angular/material/icon';
 import { WeaponSearchDialogComponent } from '../../components/weapon-search-dialog/weapon-search-dialog.component';
-import { WeaponSearchService } from '../../services/weapon-search.service';
+import { WeaponModel } from '../../types/weapon-model';
 
 @Component({
     selector: 'mhgu-home',
@@ -23,14 +23,13 @@ export class HomeComponent {
 
     constructor(
         private formBuilder: FormBuilder,
-        private weaponSearchService: WeaponSearchService,
         public dialog: MatDialog,
     ) { }
 
     public form = this.formBuilder.group({
         weapon: this.formBuilder.group({
-            weaponType: ['' as WeaponTypes],
-            weaponName: [''],
+            type: ['' as WeaponTypes],
+            name: [''],
             attack: [0],
             affinity: [0],
             sharpness: [''],
@@ -48,17 +47,41 @@ export class HomeComponent {
         console.log('value: ', this.form.value);
     }
 
+    private clearWeapon() {
+        this.form.patchValue({
+            weapon: {
+                affinity: 0,
+                attack: 0,
+                name: '',
+                sharpness: '',
+            }
+        });
+    }
+
     public openSelectWeaponType() {
         const dialogRef = this.dialog.open(WeaponTypeDialogComponent, {width: '400px'});
 
         dialogRef.afterClosed().subscribe((weaponType: WeaponTypes) => {
-            this.form.patchValue({ weapon: { weaponType } })
+            if (weaponType) {
+                this.clearWeapon();
+                this.form.patchValue({
+                    weapon: {
+                        type: weaponType,
+                    }
+                });
+            }
         });
     }
 
     public openWeaponSearch() {
-        const dialogRef = this.dialog.open(WeaponSearchDialogComponent, {width: '400px'});
+        const dialogRef = this.dialog.open(WeaponSearchDialogComponent, {
+            data: { weaponType: this.form.value.weapon?.type },
+        });
 
-        this.weaponSearchService.searchWeapon({ type: 'Bow', page: 1 });
+        dialogRef.afterClosed().subscribe((weapon: WeaponModel) => {
+            if (weapon) {
+                this.form.patchValue({ weapon });
+            }
+        });
     }
 }

@@ -1,0 +1,35 @@
+.filters {
+    padding: 8px;
+    display: flex;
+    border-bottom: 1px solid var(--mat-table-row-item-outline-color);
+
+    input {
+        flex: 1;
+    }
+}
+
+.table-wrapper {
+    max-height: 80vh;
+    overflow-y: auto;
+
+    .mat-mdc-row:hover {
+        cursor: pointer;
+        outline: 1px solid white;
+    }
+
+    p {
+        margin: 0;
+    }
+
+    .spinner-wrapper {
+        padding: 16px;
+        display: flex;
+        justify-content: center;
+
+        .mat-mdc-progress-spinner{
+            ::ng-deep circle {
+                stroke: #8c8e91;
+            }
+        }
+    }
+}

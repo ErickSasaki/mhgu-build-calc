@@ -1,1 +1,34 @@
-<p>works</p>
+<div class="filters">
+    <input type="text" placeholder="Search" (input)="filter($event)">
+
+    <mat-checkbox [checked]="true" (change)="handleFinalCheck($event.checked)">
+        {{task.name}}
+    </mat-checkbox>
+</div>
+
+<div class="table-wrapper">
+
+    <table mat-table [dataSource]="displayWeapons" class="mat-elevation-z8">
+        <mat-text-column name="id"></mat-text-column>
+
+        <mat-text-column name="name"></mat-text-column>
+
+        <mat-text-column name="type"></mat-text-column>
+
+        <mat-text-column name="attack"></mat-text-column>
+
+        <mat-text-column name="affinity"></mat-text-column>
+
+        <tr mat-header-row *matHeaderRowDef="tableColumns"></tr>
+        <tr mat-row *matRowDef="let row; columns: tableColumns;" (click)="handleRowClick(row)"></tr>
+
+        <tr class="mat-row" *matNoDataRow>
+            <td class="mat-cell" [attr.colspan]="tableColumns.length">
+                <div class="spinner-wrapper">
+                    <mat-spinner *ngIf="loading" diameter="40" color="Gray"></mat-spinner>
+                    <p *ngIf="!loading"> No data for this filters </p>
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>

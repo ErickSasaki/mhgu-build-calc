@@ -18,7 +18,7 @@ export class WeaponTypeDialogComponent {
     public weaponTypeOptions: WeaponTypes[] = [
         'Great Sword',
         'Long Sword',
-        'Sword And Shield',
+        'Sword and Shield',
         'Dual Blades',
         'Hammer',
         'Hunting Horn',
