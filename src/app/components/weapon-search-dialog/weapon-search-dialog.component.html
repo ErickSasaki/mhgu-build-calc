@@ -1,8 +1,8 @@
 <div class="filters">
-    <input type="text" placeholder="Search" (input)="filter($event)">
+    <input #searchNameInput type="text" placeholder="Search">
 
-    <mat-checkbox [checked]="true" (change)="handleFinalCheck($event.checked)">
-        {{task.name}}
+    <mat-checkbox [checked]="true" (change)="updateIsFinalFilter($event.checked)">
+        Fully Upgraded
     </mat-checkbox>
 </div>
 
@@ -19,7 +19,7 @@
 
         <mat-text-column name="affinity"></mat-text-column>
 
-        <tr mat-header-row *matHeaderRowDef="tableColumns"></tr>
+        <tr class="header-row" mat-header-row *matHeaderRowDef="tableColumns"></tr>
         <tr mat-row *matRowDef="let row; columns: tableColumns;" (click)="handleRowClick(row)"></tr>
 
         <tr class="mat-row" *matNoDataRow>

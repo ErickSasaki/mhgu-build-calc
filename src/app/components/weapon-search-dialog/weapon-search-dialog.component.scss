@@ -1,5 +1,5 @@
 .filters {
-    padding: 8px;
+    padding: 8px 16px;
     display: flex;
     border-bottom: 1px solid var(--mat-table-row-item-outline-color);
 
@@ -11,6 +11,11 @@
 .table-wrapper {
     max-height: 80vh;
     overflow-y: auto;
+
+    .header-row {
+        position: sticky;
+        top: 0;
+    }
 
     .mat-mdc-row:hover {
         cursor: pointer;
