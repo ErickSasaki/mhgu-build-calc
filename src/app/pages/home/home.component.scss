@@ -9,7 +9,7 @@
     }
 
     form {
-        min-width: 350px;
+        width: 350px;
         display: flex;
         flex-direction: column;
         gap: 12px;
@@ -22,6 +22,15 @@
             display: flex;
             flex-direction: column;
             gap: 12px;
+
+            .weapon-stats {
+                display: flex;
+                gap: 16px;
+
+                input {
+                    width: 100%;
+                }
+            }
 
             .input-search {
                 display: flex;

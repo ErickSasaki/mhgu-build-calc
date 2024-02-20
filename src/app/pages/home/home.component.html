@@ -17,6 +17,11 @@
                         <mat-icon>open_in_new</mat-icon>
                     </button>
                 </div>
+
+                <div class="weapon-stats" *ngIf="form.value.weapon?.type">
+                    <input formControlName="attack" placeholder="Attack" readonly>
+                    <input formControlName="affinity" placeholder="Affinity" readonly>
+                </div>
             </div>
 
             <div formGroupName="buffs" class="form-section">
