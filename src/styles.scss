@@ -11,21 +11,6 @@ html {
         font-weight: normal;
     }
 
-    input {
-        background-color: #1a1a1a;
-        padding: 8px;
-        border-radius: 8px;
-        border: none;
-        color: rgb(212, 212, 212);
-        border: 1px solid #1a1a1a;
-        font-size: 14px;
-
-        &:focus {
-            outline: none;
-            border-color: #8f8f8f;
-        }
-    }
-
     button {
         border: 1px solid #8f8f8f;
         font-size: 20px;

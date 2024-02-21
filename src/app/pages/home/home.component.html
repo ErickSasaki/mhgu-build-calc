@@ -1,30 +1,34 @@
 <div class="wrapper">
     <mhgu-card>
         <form [formGroup]="form" (ngSubmit)="submit()">
-            <div formGroupName="weapon" class="form-section">
+            <div class="form-section">
                 <h4>Weapon</h4>
 
                 <div class="input-search">
-                    <input formControlName="type" placeholder="Weapon Type" readonly>
+                    <mhgu-input
+                        formControlName="type"
+                        label="Type"
+                    ></mhgu-input>
+
                     <button class="open-button" (click)="openSelectWeaponType()" type="button">
                         <mat-icon>open_in_new</mat-icon>
                     </button>
                 </div>
 
-                <div class="input-search" *ngIf="form.value.weapon?.type">
-                    <input formControlName="name" placeholder="Weapon Name" readonly>
+                <div class="input-search" *ngIf="form.value.type">
+                    <mhgu-input label="Name" formControlName="name"></mhgu-input>
                     <button class="open-button" (click)="openWeaponSearch()" type="button">
                         <mat-icon>open_in_new</mat-icon>
                     </button>
                 </div>
 
-                <div class="weapon-stats" *ngIf="form.value.weapon?.type">
-                    <input formControlName="attack" placeholder="Attack" readonly>
-                    <input formControlName="affinity" placeholder="Affinity" readonly>
+                <div class="weapon-stats" *ngIf="form.value.type">
+                    <mhgu-input formControlName="attack" label="Attack"></mhgu-input>
+                    <mhgu-input formControlName="affinity" label="Affinity"></mhgu-input>
                 </div>
             </div>
 
-            <div formGroupName="buffs" class="form-section">
+            <div class="form-section">
                 <h4>Buffs</h4>
             </div>
 

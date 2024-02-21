@@ -1,0 +1,12 @@
+<div class="input-wrapper" [formGroup]="formGroup">
+    <label *ngIf="label" [for]="formControlName">
+        {{ label }}
+    </label>
+
+    <input
+        [formControlName]="formControlName"
+        [id]="formControlName"
+        [readonly]="readonly"
+        [placeholder]="placeholder"
+    >
+</div>
