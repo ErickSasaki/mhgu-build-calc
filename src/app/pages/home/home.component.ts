@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { CardComponent } from '../../components/card/card.component';
-import { FormBuilder, FormsModule, ReactiveFormsModule } from '@angular/forms';
+import { FormBuilder, FormsModule, ReactiveFormsModule, Validators } from '@angular/forms';
 import { CommonModule } from '@angular/common';
 import {
     MatDialog,
@@ -12,7 +12,7 @@ import { WeaponSearchDialogComponent } from '../../components/weapon-search-dial
 import { WeaponModel } from '../../types/weapon-model';
 import { InputComponent } from '../../components/input/input.component';
 import { SkillsDialogComponent } from '../../components/skills-dialog/skills-dialog.component';
-import { BattleSkills } from '../../types/skills';
+import { BattleSkills, skillLabels } from '../../types/skills';
 
 @Component({
     selector: 'mhgu-home',
@@ -31,19 +31,17 @@ import { BattleSkills } from '../../types/skills';
 export class HomeComponent {
     public selectWeaponModalIsOpen = false;
 
+    public skillLabels = skillLabels;
+
     constructor(
         private formBuilder: FormBuilder,
         public dialog: MatDialog,
     ) { }
 
-    ngOnInit() {
-        this.openSkillsDialog();
-    }
-
     public form = this.formBuilder.group({
-        type: ['' as WeaponTypes],
-        name: [''],
-        attack: [undefined as number | undefined],
+        type: ['' as WeaponTypes, Validators.required],
+        name: ['', Validators.required],
+        attack: [undefined as number | undefined, Validators.required],
         affinity: [undefined as number | undefined],
         sharpness: [''],
         skills: [[] as BattleSkills[]],

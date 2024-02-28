@@ -34,10 +34,18 @@
                 <button (click)="openSkillsDialog()">
                     Choose Skills
                 </button>
+
+                <ul class="buffs-list" *ngIf="form.value.skills?.length">
+                    <h5> Skills: </h5>
+
+                    <li *ngFor="let skill of form.value.skills">
+                        {{ skillLabels[skill] }}
+                    </li>
+                </ul>
             </div>
 
 
-            <button type="submit"> Calculate! </button>
+            <button type="submit" [disabled]="form.invalid"> Calculate! </button>
         </form>
 
     </mhgu-card>

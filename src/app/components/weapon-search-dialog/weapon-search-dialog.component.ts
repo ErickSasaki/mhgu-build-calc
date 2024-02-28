@@ -8,7 +8,7 @@ import { MAT_DIALOG_DATA, MatDialogRef } from '@angular/material/dialog';
 import { WeaponTypes } from '../../types/weapon-type';
 import { MatProgressSpinnerModule } from '@angular/material/progress-spinner';
 import {MatCheckboxModule} from '@angular/material/checkbox';
-import { Observable, debounceTime, fromEvent } from 'rxjs';
+import { debounceTime, fromEvent } from 'rxjs';
 
 interface Filters {
     searchName?: string;
