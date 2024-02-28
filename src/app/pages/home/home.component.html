@@ -5,10 +5,7 @@
                 <h4>Weapon</h4>
 
                 <div class="input-search">
-                    <mhgu-input
-                        formControlName="type"
-                        label="Type"
-                    ></mhgu-input>
+                    <mhgu-input formControlName="type" label="Type"></mhgu-input>
 
                     <button class="open-button" (click)="openSelectWeaponType()" type="button">
                         <mat-icon>open_in_new</mat-icon>
@@ -42,8 +39,14 @@
                         {{ skillLabels[skill] }}
                     </li>
                 </ul>
-            </div>
 
+                <label id="example-radio-group-label">Food Buffs</label>
+                <mat-radio-group class="vertical-radio" formControlName="foodBuff">
+                    @for (buff of foodBuffs; track buff) {
+                        <mat-radio-button [value]="buff.value">{{buff.label}}</mat-radio-button>
+                    }
+                </mat-radio-group>
+            </div>
 
             <button type="submit" [disabled]="form.invalid"> Calculate! </button>
         </form>
