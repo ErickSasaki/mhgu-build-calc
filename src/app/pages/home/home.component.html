@@ -40,13 +40,14 @@
                     </li>
                 </ul>
 
-                <label id="example-radio-group-label">Food Buffs</label>
+                <label>Food Buffs:</label>
                 <mat-radio-group class="vertical-radio" formControlName="foodBuff">
                     @for (buff of foodBuffs; track buff) {
                         <mat-radio-button [value]="buff.value">{{buff.label}}</mat-radio-button>
                     }
                 </mat-radio-group>
 
+                <label>Other Buffs:</label>
                 <mat-checkbox formControlName="powerTalon"> Power Talon </mat-checkbox>
                 <mat-checkbox formControlName="powerCharm"> Power Charm </mat-checkbox>
                 <mat-checkbox formControlName="demonDrug"> Demon Drug </mat-checkbox>

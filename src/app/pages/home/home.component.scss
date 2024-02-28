@@ -55,9 +55,14 @@
 
                 h5 {
                     font-size: 14px;
-                    margin: 8px;
-                    margin-top: 0;
+                    margin: 0;
+                    margin-bottom: 8px;
                 }
+            }
+
+            label {
+                padding-left: 32px;
+                margin-top: 16px;
             }
         }
     }
