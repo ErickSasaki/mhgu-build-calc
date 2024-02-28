@@ -1,0 +1,29 @@
+<h2 mat-dialog-title> Select Skills </h2>
+
+<div class="skills-wrapper">
+    <mat-checkbox
+        *ngFor="let skill of skills"
+        class="checkbox"
+        [checked]="selectedSkills.includes(skill.key)"
+        (change)="handleCheckboxChange({skill: skill.key, checked: $event.checked})"
+    >
+        {{ skill.label }}
+    </mat-checkbox>
+
+    <div class="buttons">
+        <button (click)="cancel()">Cancelar</button>
+
+        <button (click)="confirm()"> Confirmar </button>
+    </div>
+</div>
+
+<!-- <mat-dialog-actions>
+    <mat-selection-list
+        [multiple]="false"
+        hideSingleSelectionIndicator
+    >
+        @for (weaponType of weaponTypeOptions; track weaponType) {
+            <mat-list-option (click)="closeDialogWithSelectedValue(weaponType)"> {{ weaponType }} </mat-list-option>
+        }
+    </mat-selection-list>
+</mat-dialog-actions> -->

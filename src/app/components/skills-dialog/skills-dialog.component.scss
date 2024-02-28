@@ -1,0 +1,21 @@
+.skills-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    overflow: hidden;
+    padding: 12px;
+
+    .checkbox {
+        width: 170px;
+    }
+
+    .buttons {
+        display: flex;
+        width: 100%;
+        justify-content: space-between;
+
+        button {
+            width: 200px;
+        }
+    }
+}

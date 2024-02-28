@@ -11,6 +11,8 @@ import { MatIconModule } from '@angular/material/icon';
 import { WeaponSearchDialogComponent } from '../../components/weapon-search-dialog/weapon-search-dialog.component';
 import { WeaponModel } from '../../types/weapon-model';
 import { InputComponent } from '../../components/input/input.component';
+import { SkillsDialogComponent } from '../../components/skills-dialog/skills-dialog.component';
+import { BattleSkills } from '../../types/skills';
 
 @Component({
     selector: 'mhgu-home',
@@ -34,13 +36,17 @@ export class HomeComponent {
         public dialog: MatDialog,
     ) { }
 
+    ngOnInit() {
+        this.openSkillsDialog();
+    }
+
     public form = this.formBuilder.group({
         type: ['' as WeaponTypes],
         name: [''],
         attack: [undefined as number | undefined],
         affinity: [undefined as number | undefined],
         sharpness: [''],
-        skills: [[]],
+        skills: [[] as BattleSkills[]],
         foodBuff: [''],
         powerTalon: [true],
         powerCharm: [true],
@@ -81,6 +87,20 @@ export class HomeComponent {
         dialogRef.afterClosed().subscribe((weapon: WeaponModel) => {
             if (weapon) {
                 this.form.patchValue({ ...weapon });
+            }
+        });
+    }
+
+    public openSkillsDialog() {
+        const dialogRef = this.dialog.open(SkillsDialogComponent, {
+            data: this.form.value.skills || [],
+        });
+
+        dialogRef.afterClosed().subscribe((skills: BattleSkills[]) => {
+            if (skills) {
+                this.form.patchValue({
+                    skills,
+                })
             }
         });
     }
