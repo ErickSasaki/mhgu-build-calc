@@ -46,6 +46,10 @@
                         <mat-radio-button [value]="buff.value">{{buff.label}}</mat-radio-button>
                     }
                 </mat-radio-group>
+
+                <mat-checkbox formControlName="powerTalon"> Power Talon </mat-checkbox>
+                <mat-checkbox formControlName="powerCharm"> Power Charm </mat-checkbox>
+                <mat-checkbox formControlName="demonDrug"> Demon Drug </mat-checkbox>
             </div>
 
             <button type="submit" [disabled]="form.invalid"> Calculate! </button>

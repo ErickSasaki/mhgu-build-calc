@@ -13,6 +13,7 @@ import { InputComponent } from '../../components/input/input.component';
 import { SkillsDialogComponent } from '../../components/skills-dialog/skills-dialog.component';
 import { BattleSkills, skillLabels } from '../../types/skills';
 import { FoodBuff } from '../../types/buffs';
+import { MatCheckboxModule } from '@angular/material/checkbox';
 
 @Component({
     selector: 'mhgu-home',
@@ -24,6 +25,7 @@ import { FoodBuff } from '../../types/buffs';
         ReactiveFormsModule,
         CommonModule,
         MatIconModule,
+        MatCheckboxModule,
         MatRadioModule,
     ],
     templateUrl: './home.component.html',
