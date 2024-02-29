@@ -5,7 +5,7 @@
                 <h4>Weapon</h4>
 
                 <div class="input-search">
-                    <mhgu-input formControlName="type" label="Type"></mhgu-input>
+                    <mhgu-input formControlName="type" label="Type" [readonly]="true"></mhgu-input>
 
                     <button class="open-button" (click)="openSelectWeaponType()" type="button">
                         <mat-icon>open_in_new</mat-icon>
@@ -13,15 +13,15 @@
                 </div>
 
                 <div class="input-search" *ngIf="form.value.type">
-                    <mhgu-input label="Name" formControlName="name"></mhgu-input>
+                    <mhgu-input label="Name" formControlName="name" [readonly]="true"></mhgu-input>
                     <button class="open-button" (click)="openWeaponSearch()" type="button">
                         <mat-icon>open_in_new</mat-icon>
                     </button>
                 </div>
 
                 <div class="weapon-stats" *ngIf="form.value.type">
-                    <mhgu-input formControlName="attack" label="Attack"></mhgu-input>
-                    <mhgu-input formControlName="affinity" label="Affinity"></mhgu-input>
+                    <mhgu-input formControlName="attack" label="Attack" [readonly]="true"></mhgu-input>
+                    <mhgu-input formControlName="affinity" label="Affinity" [readonly]="true"></mhgu-input>
                 </div>
             </div>
 
