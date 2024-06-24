@@ -1,1 +1,34 @@
-<p>conditions-form works!</p>
+<mhgu-card>
+    <div class="wrapper">
+        <h4>Skill Conditions</h4>
+
+        <form [formGroup]="form" (ngSubmit)="submit()" *ngIf="conditions.length">
+            <div *ngFor="let condition of conditions" class="control">
+                <label> {{ skillLabels[condition.skillName] }} </label>
+
+                <mat-radio-group
+                    *ngIf="condition.type === 'radio'"
+                    class="vertical-radio"
+                    [formControlName]="condition.skillName"
+                >
+                    @for (option of condition.options; track option) {
+                        <mat-radio-button [value]="option">{{option}}</mat-radio-button>
+                    }
+                </mat-radio-group>
+
+                <mat-checkbox
+                    *ngIf="condition.type === 'checkbox'"
+                    [formControlName]="condition.skillName"
+                >
+                    {{ condition.label }}
+                </mat-checkbox>
+            </div>
+
+            <button type="submit" [disabled]="form.invalid"> Calculate! </button>
+        </form>
+
+        <p *ngIf="conditions.length === 0">
+            No conditions for these skills
+        </p>
+    </div>
+</mhgu-card>

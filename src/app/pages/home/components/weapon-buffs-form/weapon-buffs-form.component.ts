@@ -14,6 +14,8 @@ import { FoodBuff } from '../../../../types/buffs';
 import { skillLabels, BattleSkills } from '../../../../types/skills';
 import { WeaponModel } from '../../../../types/weapon-model';
 import { WeaponTypes } from '../../../../types/weapon-type';
+import { HomeService } from '../../home.service';
+import { WeaponAndBuffsData } from './weapon-and-buffs-data';
 
 @Component({
     selector: 'mhgu-weapon-buffs-form',
@@ -44,6 +46,7 @@ export class WeaponBuffsFormComponent {
 
     constructor(
         private formBuilder: FormBuilder,
+        private homeService: HomeService,
         public dialog: MatDialog,
     ) { }
 
@@ -61,7 +64,7 @@ export class WeaponBuffsFormComponent {
     });
 
     public submit() {
-        console.log('this.form.value: ', this.form.value);
+        this.homeService.setWeaponAndBuffs(this.form.value as WeaponAndBuffsData);
     }
 
     private clearWeapon() {

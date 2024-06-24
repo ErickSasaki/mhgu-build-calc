@@ -1,0 +1,19 @@
+.wrapper {
+    min-width: 300px;
+
+    h4 {
+        margin-bottom: 20px;
+    }
+
+    .control {
+        display: flex;
+        flex-direction: column;
+    }
+
+    form {
+        display: flex;
+        flex-direction: column;
+        gap: 16px;
+    }
+}
+
